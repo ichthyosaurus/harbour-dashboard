@@ -12,12 +12,12 @@
         <location filename="../qml/pages/AboutPage.qml" line="45"/>
         <source>Everything at a glance.</source>
         <comment>this app&apos;s motto</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tout en un coup d&apos;œil.</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="80"/>
         <source>Swiss meteorological data</source>
-        <translation type="unfinished"></translation>
+        <translation>Données météorologiques suisses</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="81"/>
@@ -33,36 +33,36 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="85"/>
         <source>Norwegian meteorological data</source>
-        <translation type="unfinished"></translation>
+        <translation>Données météorologiques norvégiennes</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="87"/>
         <source>https://yr.no/</source>
-        <translation type="unfinished"></translation>
+        <translation>https://yr.no/</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="90"/>
         <location filename="../qml/pages/AboutPage.qml" line="138"/>
         <source>Weather icons</source>
-        <translation type="unfinished"></translation>
+        <translation>Icônes météo</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="96"/>
         <location filename="../qml/pages/AboutPage.qml" line="103"/>
         <location filename="../qml/pages/AboutPage.qml" line="109"/>
         <source>adapted by Mirian Margiani</source>
-        <translation type="unfinished"></translation>
+        <translation>adapté par Mirian Margiani</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="108"/>
         <source>Coordinates calculator</source>
         <comment>MeteoSwiss uses the Swiss local coordinate system that must be converted to global coordinates</comment>
-        <translation type="unfinished"></translation>
+        <translation>Calculateur de coordonnées</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="115"/>
         <source>Some modules have been adapted for use in this app.</source>
-        <translation type="unfinished"></translation>
+        <translation>Certains modules ont été adaptés à cette application.</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="134"/>
@@ -72,7 +72,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="142"/>
         <source>Weather descriptions</source>
-        <translation type="unfinished"></translation>
+        <translation>Descriptions météorologiques</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="149"/>
@@ -110,7 +110,7 @@
     <message>
         <location filename="../qml/modules/Opal/SupportMe/AskForSupport.qml" line="11"/>
         <source>Please take a moment to consider if you can contribute to this project in one way or another.</source>
-        <translation type="unfinished"></translation>
+        <translation>Veuillez prendre un moment pour savoir si vous pouvez contribuer à ce projet d&apos;une manière ou d&apos;une autre.</translation>
     </message>
 </context>
 <context>
@@ -118,7 +118,7 @@
     <message>
         <location filename="../qml/tiles/common/BrokenTile.qml" line="49"/>
         <source>Invalid tile: %1 (%2)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tuile invalide&#xa0;: %1 (%2)</translation>
     </message>
 </context>
 <context>
@@ -136,39 +136,39 @@
         <source>%1h behind</source>
         <comment>shortened form of &apos;%1 hour(s) behind local time&apos;</comment>
         <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+            <numerusform>%1&#xa0;h derrière</numerusform>
+            <numerusform>%1&#xa0;h derrière</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="../qml/tiles/clock/Details.qml" line="52"/>
         <source>%1h ahead</source>
         <comment>shortened form of &apos;%1 hour(s) ahead of local time&apos;</comment>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%1&#xa0;h en avance</numerusform>
+            <numerusform>%1&#xa0;h en avance</numerusform>
         </translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Details.qml" line="56"/>
         <location filename="../qml/tiles/clock/Details.qml" line="66"/>
         <source>local time zone</source>
-        <translation type="unfinished"></translation>
+        <translation>fuseau horaire local</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Details.qml" line="58"/>
         <source>time</source>
-        <translation type="unfinished"></translation>
+        <translation>heure</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Details.qml" line="115"/>
         <source>time zone</source>
-        <translation type="unfinished"></translation>
+        <translation>fuseau horaire</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Details.qml" line="126"/>
         <source>local time</source>
-        <translation type="unfinished"></translation>
+        <translation>heure locale</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Details.qml" line="132"/>
@@ -207,7 +207,7 @@
     <message>
         <location filename="../qml/tiles/clock/Details.qml" line="29"/>
         <source>Preview time shift</source>
-        <translation type="unfinished"></translation>
+        <translation>Aperçu du changement d&apos;heure</translation>
     </message>
 </context>
 <context>
@@ -215,12 +215,12 @@
     <message>
         <location filename="../qml/modules/Opal/SupportMe/DetailsDrawer.qml" line="53"/>
         <source>show less</source>
-        <translation>réduire</translation>
+        <translation>afficher moins</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/SupportMe/DetailsDrawer.qml" line="53"/>
         <source>show more</source>
-        <translation>voir plus</translation>
+        <translation>afficher plus</translation>
     </message>
 </context>
 <context>
@@ -228,12 +228,12 @@
     <message>
         <location filename="../qml/tiles/base/DetailsPageBase.qml" line="80"/>
         <source>Configure</source>
-        <translation type="unfinished"></translation>
+        <translation>Configurer</translation>
     </message>
     <message>
         <location filename="../qml/tiles/base/DetailsPageBase.qml" line="86"/>
         <source>Refresh</source>
-        <translation type="unfinished">Actualiser</translation>
+        <translation>Actualiser</translation>
     </message>
 </context>
 <context>
@@ -242,13 +242,13 @@
         <location filename="../qml/pages/FatalErrorPage.qml" line="15"/>
         <source>Error</source>
         <comment>fatal error message page title</comment>
-        <translation type="unfinished"></translation>
+        <translation>Erreur</translation>
     </message>
     <message>
         <location filename="../qml/pages/FatalErrorPage.qml" line="18"/>
         <source>Please restart the app. If the problem persists and appears to be a flaw in this app, please report the issue.</source>
         <comment>generic hint on what to do after a fatal error occurred(error message will be shown separately)</comment>
-        <translation type="unfinished"></translation>
+        <translation>Veuillez redémarrer l&apos;application. Si le problème persiste et semble être un défaut dans cette application, veuillez signaler le problème.</translation>
     </message>
 </context>
 <context>
@@ -422,12 +422,12 @@
     <message>
         <location filename="../qml/tiles/base/ForecastTileBase.qml" line="128"/>
         <source>Configure</source>
-        <translation type="unfinished"></translation>
+        <translation>Configurer</translation>
     </message>
     <message>
         <location filename="../qml/tiles/base/ForecastTileBase.qml" line="132"/>
         <source>Manage tiles</source>
-        <translation type="unfinished"></translation>
+        <translation>Gérer les tuiles</translation>
     </message>
 </context>
 <context>
@@ -466,7 +466,7 @@
     <message>
         <location filename="../qml/pages/MainPage.qml" line="40"/>
         <source>Manage tiles</source>
-        <translation type="unfinished"></translation>
+        <translation>Gérer les tuiles</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="48"/>
@@ -477,12 +477,12 @@
         <location filename="../qml/pages/MainPage.qml" line="55"/>
         <location filename="../qml/pages/MainPage.qml" line="81"/>
         <source>Add a tile</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajouter une tuile</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="82"/>
         <source>Pull down to manage tiles</source>
-        <translation type="unfinished"></translation>
+        <translation>Descendez pour gérer les tuiles</translation>
     </message>
 </context>
 <context>
@@ -495,22 +495,22 @@
     <message>
         <location filename="../qml/pages/MaintenancePage.qml" line="147"/>
         <source>Connected to the backend</source>
-        <translation type="unfinished"></translation>
+        <translation>Connecté au backend</translation>
     </message>
     <message>
         <location filename="../qml/pages/MaintenancePage.qml" line="157"/>
         <source>Maintenance is complete</source>
-        <translation type="unfinished"></translation>
+        <translation>La maintenance est complète</translation>
     </message>
     <message>
         <location filename="../qml/pages/MaintenancePage.qml" line="119"/>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Fermer</translation>
     </message>
     <message>
         <location filename="../qml/pages/MaintenancePage.qml" line="48"/>
         <source>Maintenance</source>
-        <translation type="unfinished"></translation>
+        <translation>Maintenance</translation>
     </message>
     <message>
         <location filename="../qml/pages/MaintenancePage.qml" line="134"/>
@@ -520,12 +520,12 @@
     <message>
         <location filename="../qml/pages/MaintenancePage.qml" line="151"/>
         <source>Cleaning caches for “%1”...</source>
-        <translation type="unfinished"></translation>
+        <translation>Nettoyage des caches pour «&#xa0;%1&#xa0;»…</translation>
     </message>
     <message>
         <location filename="../qml/pages/MaintenancePage.qml" line="153"/>
         <source>Compressing databases for “%1”...</source>
-        <translation type="unfinished"></translation>
+        <translation>Compression des bases de données pour «&#xa0;%1&#xa0;»…</translation>
     </message>
 </context>
 <context>
@@ -533,12 +533,12 @@
     <message>
         <location filename="../qml/tiles/clock/Metadata.qml" line="11"/>
         <source>World clock</source>
-        <translation type="unfinished"></translation>
+        <translation>Horloge mondiale</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Metadata.qml" line="12"/>
         <source>Clock showing local time or the current time in any time zone.</source>
-        <translation type="unfinished"></translation>
+        <translation>Horloge affichant l&apos;heure locale ou l&apos;heure actuelle dans n&apos;importe quel fuseau horaire.</translation>
     </message>
     <message>
         <location filename="../qml/tiles/spacer/Metadata.qml" line="11"/>
@@ -553,32 +553,32 @@
     <message>
         <location filename="../qml/tiles/weather_mch/Metadata.qml" line="11"/>
         <source>Weather forecast (MeteoSwiss)</source>
-        <translation type="unfinished"></translation>
+        <translation>Prévisions météorologiques (MétéoSuisse)</translation>
     </message>
     <message>
         <location filename="../qml/tiles/weather_mch/Metadata.qml" line="12"/>
         <source>Weather forecast for Switzerland provided by the Swiss Meteorological Institute.</source>
-        <translation type="unfinished"></translation>
+        <translation>Prévisions météorologiques pour la Suisse fournies par l&apos;Institut météorologique suisse.</translation>
     </message>
     <message>
         <location filename="../qml/tiles/weather_yrn/Metadata.qml" line="11"/>
         <source>Weather forecast (Yr.no)</source>
-        <translation type="unfinished"></translation>
+        <translation>Prévisions météorologiques (Yr.no)</translation>
     </message>
     <message>
         <location filename="../qml/tiles/weather_yrn/Metadata.qml" line="12"/>
         <source>Weather forecast for the world provided by the Norwegian Meteorological Institute.</source>
-        <translation type="unfinished"></translation>
+        <translation>Prévisions météorologiques pour le monde fournies par l&apos;Institut météorologique norvégien.</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Metadata.qml" line="11"/>
         <source>Day times</source>
-        <translation type="unfinished"></translation>
+        <translation>Heures du jour</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Metadata.qml" line="12"/>
         <source>Current times of sunrise and sunset.</source>
-        <translation type="unfinished"></translation>
+        <translation>Heures actuelles du lever et du coucher du soleil.</translation>
     </message>
 </context>
 <context>
@@ -586,12 +586,12 @@
     <message>
         <location filename="../qml/tiles/base/MetadataBase.qml" line="13"/>
         <source>Unimplemented tile</source>
-        <translation type="unfinished"></translation>
+        <translation>Tuiles non implémentées</translation>
     </message>
     <message>
         <location filename="../qml/tiles/base/MetadataBase.qml" line="14"/>
         <source>This tile has no description.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cette tuile n&apos;a pas de description.</translation>
     </message>
 </context>
 <context>
@@ -599,62 +599,62 @@
     <message>
         <location filename="../qml/MySupportDialog.qml" line="14"/>
         <source>Donate on Liberapay</source>
-        <translation type="unfinished"></translation>
+        <translation>Faites un don sur Liberapay</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="15"/>
         <source>Pay the amount of a cup of coffee, a slice of pizza, or a ticket to the theater.</source>
-        <translation type="unfinished"></translation>
+        <translation>Payez l&apos;équivalent d&apos;une tasse de café, d&apos;une tranche de pizza ou d&apos;un billet pour le théâtre.</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="22"/>
         <source>Translate on Weblate</source>
-        <translation type="unfinished"></translation>
+        <translation>Traduisez sur Weblate</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="23"/>
         <source>Help with translating this app in as many languages as possible.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aidez à traduire cette application dans autant de langues que possible.</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="30"/>
         <source>Develop on Github</source>
-        <translation type="unfinished"></translation>
+        <translation>Développez sur Github</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="31"/>
         <source>Support with maintenance and packaging, write code, or provide valuable bug reports.</source>
-        <translation type="unfinished"></translation>
+        <translation>Soutenir avec l&apos;entretien et l&apos;emballage, écrire un code, ou fournir de précieux rapports de plantage.</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="37"/>
         <source>Why should you care?</source>
-        <translation type="unfinished"></translation>
+        <translation>Pourquoi ça devrait t&apos;intéresser&#x202f;?</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="40"/>
         <source>This project is built with love and passion by a single developer in their spare time, and is provided to you free of charge.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ce projet est construit avec amour et passion par un seul développeur dans leur temps libre, et vous est fourni gratuitement.</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="46"/>
         <source>I develop Free Software because I am convinced that it is the ethical thing to do - and it is a fun hobby. However, developing software takes a lot of time and effort. As Sailfish and living in general costs money, I need your support to be able to spend time on non-paying projects like this.</source>
-        <translation type="unfinished"></translation>
+        <translation>Je crée des logiciels libres parce que je suis convaincu que c&apos;est la chose éthique à faire – et c&apos;est un passe-temps amusant. Cependant, le développement de logiciels prend beaucoup de temps et d&apos;effort. Comme Sailfish et vivant en général coûte de l&apos;argent, j&apos;ai besoin de votre soutien pour pouvoir passer du temps à des projets non payants comme celui-ci.</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="56"/>
         <source>Why donate?</source>
-        <translation type="unfinished"></translation>
+        <translation>Pourquoi faire un don&#x202f;?</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="59"/>
         <source>Jolla raised prices and is trying to force developers (who work for free) to pay rent for Sailfish.</source>
-        <translation type="unfinished"></translation>
+        <translation>Jolla a augmenté les prix et tente de forcer les développeurs (qui travaillent gratuitement) à payer le loyer pour Sailfish.</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="64"/>
         <source>If you can afford it, donating is the easiest way to ensure that I can continue working on apps for Sailfish. Any amount is appreciated, be it a cup of coffee, a slice of pizza, or more.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si vous pouvez vous le permettre, le don est le moyen le plus facile de faire en sorte que je puisse continuer à travailler sur des applications pour les Sailfish. Tout montant est apprécié, que ce soit une tasse de café, une tranche de pizza ou plus.</translation>
     </message>
 </context>
 <context>
@@ -662,7 +662,7 @@
     <message>
         <location filename="../qml/pages/NewTileDialog.qml" line="73"/>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajouter</translation>
     </message>
     <message>
         <location filename="../qml/pages/NewTileDialog.qml" line="74"/>
