@@ -12,18 +12,18 @@
         <location filename="../qml/pages/AboutPage.qml" line="45"/>
         <source>Everything at a glance.</source>
         <comment>this app&apos;s motto</comment>
-        <translation type="unfinished"></translation>
+        <translation>Kaikki yhdellä silmäyksellä.</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="80"/>
         <source>Swiss meteorological data</source>
-        <translation type="unfinished"></translation>
+        <translation>Sveitsin meteorologiset tiedot</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="81"/>
         <location filename="../qml/pages/AboutPage.qml" line="86"/>
         <source>MeteoSwiss</source>
-        <translation type="unfinished"></translation>
+        <translation>MeteoSveitsi</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="82"/>
@@ -33,7 +33,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="85"/>
         <source>Norwegian meteorological data</source>
-        <translation type="unfinished"></translation>
+        <translation>Norjan meteorologiset tiedot</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="87"/>
@@ -44,7 +44,7 @@
         <location filename="../qml/pages/AboutPage.qml" line="90"/>
         <location filename="../qml/pages/AboutPage.qml" line="138"/>
         <source>Weather icons</source>
-        <translation type="unfinished"></translation>
+        <translation>Sääkuvakkeet</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="96"/>
@@ -57,7 +57,7 @@
         <location filename="../qml/pages/AboutPage.qml" line="108"/>
         <source>Coordinates calculator</source>
         <comment>MeteoSwiss uses the Swiss local coordinate system that must be converted to global coordinates</comment>
-        <translation type="unfinished"></translation>
+        <translation>Koordinaattilaskin</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="134"/>
@@ -67,7 +67,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="142"/>
         <source>Weather descriptions</source>
-        <translation type="unfinished"></translation>
+        <translation>Sääkuvaukset</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="149"/>
@@ -102,7 +102,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="115"/>
         <source>Some modules have been adapted for use in this app.</source>
-        <translation type="unfinished"></translation>
+        <translation>Jotkut moduulit on mukautettu käytettäviksi tässä sovelluksessa.</translation>
     </message>
 </context>
 <context>
@@ -110,7 +110,7 @@
     <message>
         <location filename="../qml/modules/Opal/SupportMe/AskForSupport.qml" line="11"/>
         <source>Please take a moment to consider if you can contribute to this project in one way or another.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ole hyvä ja mieti hetki, voitko osallistua tähän projektiin tavalla tai toisella.</translation>
     </message>
 </context>
 <context>
@@ -118,7 +118,7 @@
     <message>
         <location filename="../qml/tiles/common/BrokenTile.qml" line="49"/>
         <source>Invalid tile: %1 (%2)</source>
-        <translation type="unfinished"></translation>
+        <translation>Epäkelvollinen ruutu: %1 (%2)</translation>
     </message>
 </context>
 <context>
@@ -126,7 +126,7 @@
     <message>
         <location filename="../qml/components/DaySummaryItem.qml" line="95"/>
         <source>Today</source>
-        <translation type="unfinished"></translation>
+        <translation>Tänään</translation>
     </message>
 </context>
 <context>
@@ -153,61 +153,61 @@
         <location filename="../qml/tiles/clock/Details.qml" line="56"/>
         <location filename="../qml/tiles/clock/Details.qml" line="66"/>
         <source>local time zone</source>
-        <translation type="unfinished"></translation>
+        <translation>paikallinen aikavyöhyke</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Details.qml" line="58"/>
         <source>time</source>
-        <translation type="unfinished"></translation>
+        <translation>aika</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Details.qml" line="115"/>
         <source>time zone</source>
-        <translation type="unfinished"></translation>
+        <translation>aikavyöhyke</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Details.qml" line="126"/>
         <source>local time</source>
-        <translation type="unfinished"></translation>
+        <translation>paikallinen aika</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Details.qml" line="132"/>
         <source>offset from UTC</source>
-        <translation type="unfinished"></translation>
+        <translation>poikkeama UTC:stä</translation>
     </message>
     <message numerus="yes">
         <location filename="../qml/tiles/clock/Details.qml" line="133"/>
         <source>%1 hour(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%1 tunti</numerusform>
+            <numerusform>%1 tuntia</numerusform>
         </translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Details.qml" line="138"/>
         <source>offset from local time</source>
-        <translation type="unfinished"></translation>
+        <translation>poikkeama paikallisesta ajasta</translation>
     </message>
     <message numerus="yes">
         <location filename="../qml/tiles/clock/Details.qml" line="141"/>
         <source>%1 hour(s) behind local time</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%1 tunti paikallista aikaa jäljessä</numerusform>
+            <numerusform>%1 tuntia paikallista aikaa jäljessä</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="../qml/tiles/clock/Details.qml" line="144"/>
         <source>%1 hour(s) ahead of local time</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%1 tunti paikallista aikaa edellä</numerusform>
+            <numerusform>%1 tuntia paikallista aikaa edellä</numerusform>
         </translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Details.qml" line="29"/>
         <source>Preview time shift</source>
-        <translation type="unfinished"></translation>
+        <translation>Esikatsele aikasiirtymää</translation>
     </message>
 </context>
 <context>
@@ -215,12 +215,12 @@
     <message>
         <location filename="../qml/modules/Opal/SupportMe/DetailsDrawer.qml" line="53"/>
         <source>show less</source>
-        <translation type="unfinished"></translation>
+        <translation>näytä vähemmän</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/SupportMe/DetailsDrawer.qml" line="53"/>
         <source>show more</source>
-        <translation type="unfinished"></translation>
+        <translation>näytä enemmän</translation>
     </message>
 </context>
 <context>
@@ -228,12 +228,12 @@
     <message>
         <location filename="../qml/tiles/base/DetailsPageBase.qml" line="80"/>
         <source>Configure</source>
-        <translation type="unfinished"></translation>
+        <translation>Määritä</translation>
     </message>
     <message>
         <location filename="../qml/tiles/base/DetailsPageBase.qml" line="86"/>
         <source>Refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>Virkistä</translation>
     </message>
 </context>
 <context>
@@ -242,13 +242,13 @@
         <location filename="../qml/pages/FatalErrorPage.qml" line="15"/>
         <source>Error</source>
         <comment>fatal error message page title</comment>
-        <translation type="unfinished"></translation>
+        <translation>Virhe</translation>
     </message>
     <message>
         <location filename="../qml/pages/FatalErrorPage.qml" line="18"/>
         <source>Please restart the app. If the problem persists and appears to be a flaw in this app, please report the issue.</source>
         <comment>generic hint on what to do after a fatal error occurred(error message will be shown separately)</comment>
-        <translation type="unfinished"></translation>
+        <translation>Käynnistä sovellus uudelleen. Jos ongelma jatkuu ja näyttää olevan virhe tässä sovelluksessa, ilmoita viasta.</translation>
     </message>
 </context>
 <context>
@@ -256,17 +256,17 @@
     <message>
         <location filename="../qml/components/ForecastGraphItem.qml" line="114"/>
         <source>Temperature</source>
-        <translation type="unfinished"></translation>
+        <translation>Lämpötila</translation>
     </message>
     <message>
         <location filename="../qml/components/ForecastGraphItem.qml" line="121"/>
         <source>Precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation>Sademäärä</translation>
     </message>
     <message>
         <location filename="../qml/components/ForecastGraphItem.qml" line="128"/>
         <source>Wind</source>
-        <translation type="unfinished"></translation>
+        <translation>Tuuli</translation>
     </message>
 </context>
 <context>
@@ -275,128 +275,128 @@
         <location filename="../qml/components/ForecastItem.qml" line="17"/>
         <location filename="../qml/components/ForecastItem.qml" line="302"/>
         <source>Loading...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ladataan...</translation>
     </message>
     <message>
         <location filename="../qml/components/ForecastItem.qml" line="290"/>
         <source>Failed...</source>
-        <translation type="unfinished"></translation>
+        <translation>Epäonnistui...</translation>
     </message>
     <message>
         <location filename="../qml/components/ForecastItem.qml" line="255"/>
         <source>status: </source>
-        <translation type="unfinished"></translation>
+        <translation>tila: </translation>
     </message>
     <message>
         <location filename="../qml/components/ForecastItem.qml" line="268"/>
         <source>now: </source>
-        <translation type="unfinished"></translation>
+        <translation>nyt: </translation>
     </message>
     <message>
         <location filename="../qml/components/ForecastItem.qml" line="262"/>
         <location filename="../qml/components/ForecastItem.qml" line="295"/>
         <location filename="../qml/components/ForecastItem.qml" line="305"/>
         <source>unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>tuntematon</translation>
     </message>
     <message>
         <location filename="../qml/components/ForecastItem.qml" line="98"/>
         <source>%1: %2</source>
         <comment>time (1) with weather description (2)</comment>
-        <translation type="unfinished"></translation>
+        <translation>%1: %2</translation>
     </message>
     <message>
         <location filename="../qml/components/ForecastItem.qml" line="135"/>
         <source>Sun Times</source>
-        <translation type="unfinished"></translation>
+        <translation>Auringonajat</translation>
     </message>
     <message>
         <location filename="../qml/components/ForecastItem.qml" line="160"/>
         <source>top edge of the sun appears on the horizon</source>
-        <translation type="unfinished"></translation>
+        <translation>Auringon yläreuna ilmestyy horisonttiin</translation>
     </message>
     <message>
         <location filename="../qml/components/ForecastItem.qml" line="166"/>
         <source>morning golden hour (soft light, best time for photography) ends</source>
-        <translation type="unfinished"></translation>
+        <translation>aamun kultainen tunti (pehmeä valo, paras aika valokuvaamiseen) päättyy</translation>
     </message>
     <message>
         <location filename="../qml/components/ForecastItem.qml" line="172"/>
         <source>sun is in the highest position</source>
-        <translation type="unfinished"></translation>
+        <translation>aurinko on korkeimmalla paikalla</translation>
     </message>
     <message>
         <location filename="../qml/components/ForecastItem.qml" line="183"/>
         <source>evening golden hour (soft light, best time for photography) starts</source>
-        <translation type="unfinished"></translation>
+        <translation>illan kultainen tunti (pehmeä valo, paras aika valokuvaamiseen) alkaa</translation>
     </message>
     <message>
         <location filename="../qml/components/ForecastItem.qml" line="189"/>
         <source>sun disappears below the horizon, evening civil twilight starts</source>
-        <translation type="unfinished"></translation>
+        <translation>aurinko katoaa horisontin alle, alkaa iltahämärä</translation>
     </message>
     <message>
         <location filename="../qml/components/ForecastItem.qml" line="195"/>
         <source>dark enough for astronomical observations</source>
-        <translation type="unfinished"></translation>
+        <translation>tarpeeksi tumma tähtitieteellisiin havaintoihin</translation>
     </message>
     <message>
         <location filename="../qml/components/ForecastItem.qml" line="201"/>
         <source>darkest moment of the night, sun is in the lowest position</source>
-        <translation type="unfinished"></translation>
+        <translation>yön pimein hetki, aurinko on alimmassa paikassa</translation>
     </message>
     <message>
         <location filename="../qml/components/ForecastItem.qml" line="154"/>
         <source>morning civil twilight starts</source>
-        <translation type="unfinished"></translation>
+        <translation>aamuhämärä alkaa</translation>
     </message>
     <message>
         <location filename="../qml/components/ForecastItem.qml" line="152"/>
         <source>Dawn</source>
         <comment>use &apos;|&apos; to separate alternative strings of different length</comment>
-        <translation type="unfinished"></translation>
+        <translation>Aamunkoitto</translation>
     </message>
     <message>
         <location filename="../qml/components/ForecastItem.qml" line="158"/>
         <source>Sunrise</source>
         <comment>use &apos;|&apos; to separate alternative strings of different length</comment>
-        <translation type="unfinished"></translation>
+        <translation>Auringonnousu</translation>
     </message>
     <message>
         <location filename="../qml/components/ForecastItem.qml" line="164"/>
         <source>Golden Hour End</source>
         <comment>use &apos;|&apos; to separate alternative strings of different length</comment>
-        <translation type="unfinished"></translation>
+        <translation>Kultaisen tunnin loppu</translation>
     </message>
     <message>
         <location filename="../qml/components/ForecastItem.qml" line="170"/>
         <source>Solar Noon</source>
         <comment>use &apos;|&apos; to separate alternative strings of different length</comment>
-        <translation type="unfinished"></translation>
+        <translation>aurinkoinen keskipäivä</translation>
     </message>
     <message>
         <location filename="../qml/components/ForecastItem.qml" line="181"/>
         <source>Golden Hour</source>
         <comment>use &apos;|&apos; to separate alternative strings of different length</comment>
-        <translation type="unfinished"></translation>
+        <translation>Kultainen tunti</translation>
     </message>
     <message>
         <location filename="../qml/components/ForecastItem.qml" line="187"/>
         <source>Sunset</source>
         <comment>use &apos;|&apos; to separate alternative strings of different length</comment>
-        <translation type="unfinished"></translation>
+        <translation>Auringonlasku</translation>
     </message>
     <message>
         <location filename="../qml/components/ForecastItem.qml" line="193"/>
         <source>Night</source>
         <comment>use &apos;|&apos; to separate alternative strings of different length</comment>
-        <translation type="unfinished"></translation>
+        <translation>Yö</translation>
     </message>
     <message>
         <location filename="../qml/components/ForecastItem.qml" line="199"/>
         <source>Nadir</source>
         <comment>use &apos;|&apos; to separate alternative strings of different length</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nadir</translation>
     </message>
 </context>
 <context>
@@ -404,12 +404,12 @@
     <message>
         <location filename="../qml/pages/ForecastPage.qml" line="83"/>
         <source>Failed to load data!</source>
-        <translation type="unfinished"></translation>
+        <translation>Tietojen lataaminen epäonnistui!</translation>
     </message>
     <message>
         <location filename="../qml/pages/ForecastPage.qml" line="35"/>
         <source>Reload Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Lataa tiedot uudelleen</translation>
     </message>
 </context>
 <context>
@@ -417,17 +417,17 @@
     <message>
         <location filename="../qml/tiles/base/ForecastTileBase.qml" line="128"/>
         <source>Configure</source>
-        <translation type="unfinished"></translation>
+        <translation>Määritä</translation>
     </message>
     <message>
         <location filename="../qml/tiles/base/ForecastTileBase.qml" line="122"/>
         <source>Refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>Virkistä</translation>
     </message>
     <message>
         <location filename="../qml/tiles/base/ForecastTileBase.qml" line="132"/>
         <source>Manage tiles</source>
-        <translation type="unfinished"></translation>
+        <translation>Hallinnoi laattoja</translation>
     </message>
 </context>
 <context>
@@ -435,7 +435,7 @@
     <message>
         <location filename="../qml/modules/Opal/About/private/LicenseListPart.qml" line="119"/>
         <source>License text</source>
-        <translation type="unfinished"></translation>
+        <translation>Lisenssiteksti</translation>
     </message>
 </context>
 <context>
@@ -443,17 +443,17 @@
     <message>
         <location filename="../qml/pages/LocationSearchPage.qml" line="48"/>
         <source>Add Location</source>
-        <translation type="unfinished"></translation>
+        <translation>Lisää sijainti</translation>
     </message>
     <message>
         <location filename="../qml/pages/LocationSearchPage.qml" line="54"/>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation>Etsi</translation>
     </message>
     <message>
         <location filename="../qml/pages/LocationSearchPage.qml" line="32"/>
         <source>Bootstrap debug locations</source>
-        <translation type="unfinished"></translation>
+        <translation>Sijaintien Bootstrap-viankorjaus</translation>
     </message>
 </context>
 <context>
@@ -466,7 +466,7 @@
     <message>
         <location filename="../qml/pages/MainPage.qml" line="48"/>
         <source>Refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>Virkistä</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="40"/>
@@ -538,7 +538,7 @@
     <message>
         <location filename="../qml/tiles/clock/Metadata.qml" line="12"/>
         <source>Clock showing local time or the current time in any time zone.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kello näyttää paikallista aikaa tai nykyisen ajan millä tahansa aikavyöhykkeellä.</translation>
     </message>
     <message>
         <location filename="../qml/tiles/spacer/Metadata.qml" line="11"/>
@@ -573,12 +573,12 @@
     <message>
         <location filename="../qml/tiles/day_times/Metadata.qml" line="11"/>
         <source>Day times</source>
-        <translation type="unfinished"></translation>
+        <translation>Päivän ajat</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Metadata.qml" line="12"/>
         <source>Current times of sunrise and sunset.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nykyiset auringonnousun ja auringonlaskun ajat.</translation>
     </message>
 </context>
 <context>
@@ -634,12 +634,12 @@
     <message>
         <location filename="../qml/MySupportDialog.qml" line="40"/>
         <source>This project is built with love and passion by a single developer in their spare time, and is provided to you free of charge.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tämän projektin on rakentanut rakkaudella ja intohimolla yksi kehittäjä vapaa-ajallaan, ja se tarjotaan sinulle ilmaiseksi.</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="46"/>
         <source>I develop Free Software because I am convinced that it is the ethical thing to do - and it is a fun hobby. However, developing software takes a lot of time and effort. As Sailfish and living in general costs money, I need your support to be able to spend time on non-paying projects like this.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kehitän ilmaisia ohjelmistoja, koska olen vakuuttunut, että se on eettistä - ja se on hauska harrastus. Ohjelmiston kehittäminen vie kuitenkin paljon aikaa ja vaivaa. Koska Sailfish ja eläminen yleensä maksavat rahaa, tarvitsen tukeasi voidakseni käyttää aikaa tällaisiin ei-maksaviin projekteihin.</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="56"/>
@@ -921,22 +921,22 @@
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="115"/>
         <source>Local time</source>
-        <translation type="unfinished"></translation>
+        <translation>Paikallinen aika</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="180"/>
         <source>Custom time offset</source>
-        <translation type="unfinished"></translation>
+        <translation>Mukautettu aikapoikkeama</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="81"/>
         <source>Clock time</source>
-        <translation type="unfinished"></translation>
+        <translation>Kellon aika</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="91"/>
         <source>Current time</source>
-        <translation type="unfinished"></translation>
+        <translation>Nykyinen aika</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="269"/>
@@ -1004,23 +1004,23 @@
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="116"/>
         <source>The clock will always show the current local time, using the same time zone as the system.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kello näyttää aina nykyisen paikallisen ajan käyttäen samaa aikavyöhykettä kuin järjestelmä.</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="135"/>
         <location filename="../qml/tiles/clock/Settings.qml" line="153"/>
         <source>Time zone</source>
-        <translation type="unfinished"></translation>
+        <translation>Aikavyöhyke</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="136"/>
         <source>The clock will show the time in a specific time zone.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kello näyttää kellonajan tietyllä aikavyöhykkeellä.</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="155"/>
         <source>Select a time zone</source>
-        <translation type="unfinished"></translation>
+        <translation>Valitse aikavyöhyke</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="156"/>
@@ -1030,7 +1030,7 @@
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="181"/>
         <source>The clock will show the time shifted from UTC. This is independent of the local time zone.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kello näyttää ajan siirrettynä UTC:stä. Tämä on riippumaton paikallisesta aikavyöhykkeestä.</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="199"/>
@@ -1040,7 +1040,7 @@
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="200"/>
         <source>Positive offsets show time zones east of UTC/GMT (Greenwich, UK).</source>
-        <translation type="unfinished"></translation>
+        <translation>Positiiviset poikkeamat osoittavat aikavyöhykkeet UTC/GMT:n itäpuolella (Greenwich, UK).</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="216"/>
@@ -1050,7 +1050,7 @@
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="217"/>
         <source>Negative offsets show time zones west of UTC/GMT (Greenwich, UK).</source>
-        <translation type="unfinished"></translation>
+        <translation>Negatiiviset poikkeamat näyttävät UTC/GMT:n länsipuolella olevat aikavyöhykkeet (Greenwich, UK).</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="251"/>
@@ -1065,7 +1065,7 @@
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="108"/>
         <source>Time format</source>
-        <translation type="unfinished"></translation>
+        <translation>Aikamuoto</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="261"/>
@@ -1157,17 +1157,17 @@
     <message>
         <location filename="../qml/tiles/day_times/Settings.qml" line="285"/>
         <source>Timezone</source>
-        <translation type="unfinished"></translation>
+        <translation>Aikavyöhyke</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Settings.qml" line="286"/>
         <source>Local timezone for this location</source>
-        <translation type="unfinished"></translation>
+        <translation>Paikallinen aikavyöhyke tälle sijainnille</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Settings.qml" line="292"/>
         <source>Lookup timezone</source>
-        <translation type="unfinished"></translation>
+        <translation>Hae aikavyöhykettä</translation>
     </message>
     <message>
         <location filename="../qml/tiles/weather_mch/Settings.qml" line="209"/>
@@ -1288,22 +1288,22 @@
         <location filename="../qml/tiles/clock/Tile.qml" line="76"/>
         <location filename="../qml/tiles/clock/Tile.qml" line="107"/>
         <source>local time</source>
-        <translation type="unfinished"></translation>
+        <translation>paikallinen aika</translation>
     </message>
     <message numerus="yes">
         <location filename="../qml/tiles/clock/Tile.qml" line="118"/>
         <source>%1 hour(s) behind local time</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%1 tunti paikallista aikaa jäljessä</numerusform>
+            <numerusform>%1 tuntia paikallista aikaa jäljessä</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="../qml/tiles/clock/Tile.qml" line="124"/>
         <source>%1 hour(s) ahead of local time</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%1 tunti paikallista aikaa edellä</numerusform>
+            <numerusform>%1 tuntia paikallista aikaa edellä</numerusform>
         </translation>
     </message>
     <message numerus="yes">
@@ -1373,7 +1373,7 @@
         <location filename="../qml/tiles/day_times/Tile.qml" line="140"/>
         <location filename="../qml/tiles/day_times/Tile.qml" line="186"/>
         <source>sunrise</source>
-        <translation type="unfinished"></translation>
+        <translation>Auringonnousu</translation>
     </message>
 </context>
 <context>
@@ -1381,41 +1381,41 @@
     <message>
         <location filename="../qml/tiles/clock/private/TimeShiftPreviewPage.qml" line="49"/>
         <source>Reset to current time</source>
-        <translation type="unfinished"></translation>
+        <translation>Palauta nykyinen aika</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/private/TimeShiftPreviewPage.qml" line="73"/>
         <source>Calculate local time</source>
-        <translation type="unfinished"></translation>
+        <translation>Laske paikallinen aika</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/private/TimeShiftPreviewPage.qml" line="87"/>
         <source>Calculate remote time</source>
-        <translation type="unfinished"></translation>
+        <translation>Laske etäaika</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/private/TimeShiftPreviewPage.qml" line="182"/>
         <source>Local time</source>
         <comment>as in &apos;here, versus over there&apos;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Paikallinen aika</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/private/TimeShiftPreviewPage.qml" line="183"/>
         <source>Calculated local time</source>
         <comment>as in &apos;here, versus over there&apos;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Laskettu paikallinen aika</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/private/TimeShiftPreviewPage.qml" line="200"/>
         <source>Calculated remote time</source>
         <comment>as in &apos;over there, versus here&apos;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Laskettu etäaika</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/private/TimeShiftPreviewPage.qml" line="201"/>
         <source>Remote time</source>
         <comment>as in &apos;over there, versus here&apos;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Etäaika</translation>
     </message>
 </context>
 <context>
