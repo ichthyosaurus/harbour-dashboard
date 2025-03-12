@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="uk">
+<TS version="2.1" language="ta">
 <context>
     <name>AboutPage</name>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="131"/>
         <source>Development</source>
-        <translation>Розробка</translation>
+        <translation>வளர்ச்சி</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="45"/>
         <source>Everything at a glance.</source>
         <comment>this app&apos;s motto</comment>
-        <translation>Все з першого погляду.</translation>
+        <translation>எல்லாம் ஒரு பார்வையில்.</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="80"/>
         <source>Swiss meteorological data</source>
-        <translation>Швейцарські метеорологічні дані</translation>
+        <translation>சுவிச் வானிலை தரவு</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="81"/>
         <location filename="../qml/pages/AboutPage.qml" line="86"/>
         <source>MeteoSwiss</source>
-        <translation>Meteo Swiss</translation>
+        <translation>Meteoswiss</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="82"/>
@@ -33,7 +33,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="85"/>
         <source>Norwegian meteorological data</source>
-        <translation>Норвезькі метеорологічні дані</translation>
+        <translation>நோர்வே வானிலை ஆய்வு</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="87"/>
@@ -44,65 +44,65 @@
         <location filename="../qml/pages/AboutPage.qml" line="90"/>
         <location filename="../qml/pages/AboutPage.qml" line="138"/>
         <source>Weather icons</source>
-        <translation>Погода іконки</translation>
+        <translation>வானிலை சின்னங்கள்</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="96"/>
         <location filename="../qml/pages/AboutPage.qml" line="103"/>
         <location filename="../qml/pages/AboutPage.qml" line="109"/>
         <source>adapted by Mirian Margiani</source>
-        <translation>адаптація Міріана Маргіані</translation>
+        <translation>மிரியன் மார்கியானியால் தழுவி</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="108"/>
         <source>Coordinates calculator</source>
         <comment>MeteoSwiss uses the Swiss local coordinate system that must be converted to global coordinates</comment>
-        <translation>Калькулятор координат</translation>
+        <translation>கால்குலேட்டரை ஒருங்கிணைக்கிறது</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="134"/>
         <source>Programming</source>
-        <translation>Програмування</translation>
+        <translation>நிரலாக்க</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="142"/>
         <source>Weather descriptions</source>
-        <translation>Описи погоди</translation>
+        <translation>வானிலை விளக்கங்கள்</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="149"/>
         <source>Translations</source>
-        <translation>Переклади</translation>
+        <translation>மொழிபெயர்ப்புகள்</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="152"/>
         <source>Spanish</source>
-        <translation>Іспанська</translation>
+        <translation>ச்பானிச்</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="158"/>
         <source>German</source>
-        <translation>Німецька</translation>
+        <translation>செர்மன்</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="164"/>
         <source>French</source>
-        <translation>Французька</translation>
+        <translation>பிரஞ்சு</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="170"/>
         <source>English</source>
-        <translation>Англійська</translation>
+        <translation>ஆங்கிலம்</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="176"/>
         <source>Chinese</source>
-        <translation>Китайська</translation>
+        <translation>சீன</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="115"/>
         <source>Some modules have been adapted for use in this app.</source>
-        <translation>Деякі модулі адаптовано для використання в цьому додатку.</translation>
+        <translation>இந்த பயன்பாட்டில் சில தொகுதிகள் பயன்படுத்தத் தழுவப்பட்டுள்ளன.</translation>
     </message>
 </context>
 <context>
@@ -110,7 +110,7 @@
     <message>
         <location filename="../qml/modules/Opal/SupportMe/AskForSupport.qml" line="11"/>
         <source>Please take a moment to consider if you can contribute to this project in one way or another.</source>
-        <translation>Будь ласка, знайдіть хвилинку, якщо можете зробити свій внесок у цей проект у той чи інший спосіб.</translation>
+        <translation>இந்த திட்டத்திற்கு நீங்கள் ஒரு வழியில் அல்லது வேறு வழியில் பங்களிக்க முடியுமா என்பதைக் கருத்தில் கொள்ள சிறிது நேரம் ஒதுக்குங்கள்.</translation>
     </message>
 </context>
 <context>
@@ -118,7 +118,7 @@
     <message>
         <location filename="../qml/tiles/common/BrokenTile.qml" line="49"/>
         <source>Invalid tile: %1 (%2)</source>
-        <translation>Недійсна плитка: %1 (%2)</translation>
+        <translation>தவறான ஓடு: %1 ( %2)</translation>
     </message>
 </context>
 <context>
@@ -126,7 +126,7 @@
     <message>
         <location filename="../qml/components/DaySummaryItem.qml" line="95"/>
         <source>Today</source>
-        <translation>Сьогодні</translation>
+        <translation>இன்று</translation>
     </message>
 </context>
 <context>
@@ -136,9 +136,8 @@
         <source>%1h behind</source>
         <comment>shortened form of &apos;%1 hour(s) behind local time&apos;</comment>
         <translation>
-            <numerusform>%1 год позаду</numerusform>
-            <numerusform>%1 год позадів</numerusform>
-            <numerusform>%1 год позадів</numerusform>
+            <numerusform>%1 மணிநேரம் பின்னால்</numerusform>
+            <numerusform>%1 மணிநேரங்கள் பின்னால்</numerusform>
         </translation>
     </message>
     <message numerus="yes">
@@ -146,73 +145,69 @@
         <source>%1h ahead</source>
         <comment>shortened form of &apos;%1 hour(s) ahead of local time&apos;</comment>
         <translation>
-            <numerusform>%1 год вперед</numerusform>
-            <numerusform>%1 год впереди</numerusform>
-            <numerusform>%1 год впереди</numerusform>
+            <numerusform>%1 மணிநேரம் முன்னால்</numerusform>
+            <numerusform>%1 மணிநேரங்கள் முன்னால்</numerusform>
         </translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Details.qml" line="56"/>
         <location filename="../qml/tiles/clock/Details.qml" line="66"/>
         <source>local time zone</source>
-        <translation>місцевий часовий пояс</translation>
+        <translation>உள்ளக நேர மண்டலம்</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Details.qml" line="58"/>
         <source>time</source>
-        <translation>час</translation>
+        <translation>நேரம்</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Details.qml" line="115"/>
         <source>time zone</source>
-        <translation>Часової пояс</translation>
+        <translation>நேர மண்டலம்</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Details.qml" line="126"/>
         <source>local time</source>
-        <translation>місцевий час</translation>
+        <translation>உள்ளக நேரம்</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Details.qml" line="132"/>
         <source>offset from UTC</source>
-        <translation>зміщення від UTC</translation>
+        <translation>UTC இலிருந்து ஆஃப்செட்</translation>
     </message>
     <message numerus="yes">
         <location filename="../qml/tiles/clock/Details.qml" line="133"/>
         <source>%1 hour(s)</source>
         <translation>
-            <numerusform>%1 година</numerusform>
-            <numerusform>%1 години</numerusform>
-            <numerusform>%1 години</numerusform>
+            <numerusform>%1 மணி நேரம்</numerusform>
+            <numerusform>%1 மணி நேரம்</numerusform>
         </translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Details.qml" line="138"/>
         <source>offset from local time</source>
-        <translation>зміщення від місцевого часу</translation>
+        <translation>உள்ளக நேரத்திலிருந்து ஈடுசெய்யவும்</translation>
     </message>
     <message numerus="yes">
         <location filename="../qml/tiles/clock/Details.qml" line="141"/>
         <source>%1 hour(s) behind local time</source>
         <translation>
-            <numerusform>Відставання від місцевого часу на %1 годину</numerusform>
-            <numerusform>Відставання від місцевого часу на %1 години</numerusform>
-            <numerusform>Відставання від місцевого часу на %1 години</numerusform>
+            <numerusform>உள்ளக நேரத்திற்கு 1 மணிநேரம்</numerusform>
+            <numerusform>உள்ளக நேரத்திற்கு 1 மணி நேரம்</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="../qml/tiles/clock/Details.qml" line="144"/>
         <source>%1 hour(s) ahead of local time</source>
         <translation>
-            <numerusform>%1 годину попереду місцевого часу</numerusform>
-            <numerusform>%1 години попереду місцевого часу</numerusform>
-            <numerusform>%1 годину попереду місцевого часу</numerusform>
+            <numerusform>உள்ளக நேரத்தைவிட 1 மணி நேரம் முன்னால்</numerusform>
+            <numerusform>உள்ளக நேரத்தைவிட 1 மணி நேரம் முன்னால்</numerusform>
         </translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Details.qml" line="29"/>
         <source>Preview time shift</source>
-        <translation>Попередній перегляд зсуву часу</translation>
+        <translation>நேர மாற்றத்தை முன்னோட்டமிடுங்கள்</translation>
     </message>
 </context>
 <context>
@@ -220,12 +215,12 @@
     <message>
         <location filename="../qml/modules/Opal/SupportMe/DetailsDrawer.qml" line="53"/>
         <source>show less</source>
-        <translation>сховати</translation>
+        <translation>குறைவாகக் காட்டு</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/SupportMe/DetailsDrawer.qml" line="53"/>
         <source>show more</source>
-        <translation>показати більше</translation>
+        <translation>மேலும் காட்டு</translation>
     </message>
 </context>
 <context>
@@ -233,12 +228,12 @@
     <message>
         <location filename="../qml/tiles/base/DetailsPageBase.qml" line="80"/>
         <source>Configure</source>
-        <translation>Налаштувати</translation>
+        <translation>உள்ளமைக்கவும்</translation>
     </message>
     <message>
         <location filename="../qml/tiles/base/DetailsPageBase.qml" line="86"/>
         <source>Refresh</source>
-        <translation>Оновити</translation>
+        <translation>புதுப்பிப்பு</translation>
     </message>
 </context>
 <context>
@@ -247,13 +242,13 @@
         <location filename="../qml/pages/FatalErrorPage.qml" line="15"/>
         <source>Error</source>
         <comment>fatal error message page title</comment>
-        <translation>Помилка</translation>
+        <translation>பிழை</translation>
     </message>
     <message>
         <location filename="../qml/pages/FatalErrorPage.qml" line="18"/>
         <source>Please restart the app. If the problem persists and appears to be a flaw in this app, please report the issue.</source>
         <comment>generic hint on what to do after a fatal error occurred(error message will be shown separately)</comment>
-        <translation>Перезапустіть програму. Якщо проблема не зникає та здається, що це недолік у цій програмі, повідомте про проблему.</translation>
+        <translation>பயன்பாட்டை மறுதொடக்கம் செய்யுங்கள். இந்த பயன்பாட்டில் சிக்கல் தொடர்ந்தது மற்றும் ஒரு குறைபாடாகத் தோன்றினால், தயவுசெய்து சிக்கலைப் புகாரளிக்கவும்.</translation>
     </message>
 </context>
 <context>
@@ -261,17 +256,17 @@
     <message>
         <location filename="../qml/components/ForecastGraphItem.qml" line="114"/>
         <source>Temperature</source>
-        <translation>температура</translation>
+        <translation>வெப்பநிலை</translation>
     </message>
     <message>
         <location filename="../qml/components/ForecastGraphItem.qml" line="121"/>
         <source>Precipitation</source>
-        <translation>Опади</translation>
+        <translation>மழைப்பொழிவு</translation>
     </message>
     <message>
         <location filename="../qml/components/ForecastGraphItem.qml" line="128"/>
         <source>Wind</source>
-        <translation>Вітер</translation>
+        <translation>காற்று</translation>
     </message>
 </context>
 <context>
@@ -280,29 +275,29 @@
         <location filename="../qml/components/ForecastItem.qml" line="17"/>
         <location filename="../qml/components/ForecastItem.qml" line="302"/>
         <source>Loading...</source>
-        <translation>Завантаження...</translation>
+        <translation>ஏற்றுகிறது ...</translation>
     </message>
     <message>
         <location filename="../qml/components/ForecastItem.qml" line="290"/>
         <source>Failed...</source>
-        <translation>Не вдалося...</translation>
+        <translation>தோல்வியுற்றது ...</translation>
     </message>
     <message>
         <location filename="../qml/components/ForecastItem.qml" line="255"/>
         <source>status: </source>
-        <translation>статус: </translation>
+        <translation>நிலை: </translation>
     </message>
     <message>
         <location filename="../qml/components/ForecastItem.qml" line="268"/>
         <source>now: </source>
-        <translation>зараз: </translation>
+        <translation>இப்போது: </translation>
     </message>
     <message>
         <location filename="../qml/components/ForecastItem.qml" line="262"/>
         <location filename="../qml/components/ForecastItem.qml" line="295"/>
         <location filename="../qml/components/ForecastItem.qml" line="305"/>
         <source>unknown</source>
-        <translation>невідомий</translation>
+        <translation>தெரியவில்லை</translation>
     </message>
     <message>
         <location filename="../qml/components/ForecastItem.qml" line="98"/>
@@ -313,95 +308,95 @@
     <message>
         <location filename="../qml/components/ForecastItem.qml" line="135"/>
         <source>Sun Times</source>
-        <translation>сонце Часи</translation>
+        <translation>சூரிய நேரங்கள்</translation>
     </message>
     <message>
         <location filename="../qml/components/ForecastItem.qml" line="160"/>
         <source>top edge of the sun appears on the horizon</source>
-        <translation>верхній край сонця з&apos;являється на горизонті</translation>
+        <translation>சூரியனின் மேல் விளிம்பு அடிவானத்தில் தோன்றும்</translation>
     </message>
     <message>
         <location filename="../qml/components/ForecastItem.qml" line="166"/>
         <source>morning golden hour (soft light, best time for photography) ends</source>
-        <translation>ранкова золота година (м&apos;яке світло, найкращий час для фотозйомки) закінчується</translation>
+        <translation>காலை தங்க மணி (மென்மையான ஒளி, புகைப்படத்திற்கு சிறந்த நேரம்) முடிவடைகிறது</translation>
     </message>
     <message>
         <location filename="../qml/components/ForecastItem.qml" line="172"/>
         <source>sun is in the highest position</source>
-        <translation>Сонце знаходиться в найвищому положенні</translation>
+        <translation>சூரியன் மிக உயர்ந்த நிலையில் உள்ளது</translation>
     </message>
     <message>
         <location filename="../qml/components/ForecastItem.qml" line="183"/>
         <source>evening golden hour (soft light, best time for photography) starts</source>
-        <translation>починається вечірня золота година (м&apos;яке світло, найкращий час для фотозйомки)</translation>
+        <translation>மாலை தங்க மணி (மென்மையான ஒளி, புகைப்படத்திற்கு சிறந்த நேரம்) தொடங்குகிறது</translation>
     </message>
     <message>
         <location filename="../qml/components/ForecastItem.qml" line="189"/>
         <source>sun disappears below the horizon, evening civil twilight starts</source>
-        <translation>сонце ховається за горизонт, починаються вечірні громадянські сутінки</translation>
+        <translation>சூரியன் அடிவானத்திற்கு கீழே மறைந்துவிடும், மாலை குடிமை அந்தி தொடங்குகிறது</translation>
     </message>
     <message>
         <location filename="../qml/components/ForecastItem.qml" line="195"/>
         <source>dark enough for astronomical observations</source>
-        <translation>досить темно для астрономічних спостережень</translation>
+        <translation>வானியல் அவதானிப்புகளுக்கு போதுமான இருண்டது</translation>
     </message>
     <message>
         <location filename="../qml/components/ForecastItem.qml" line="201"/>
         <source>darkest moment of the night, sun is in the lowest position</source>
-        <translation>найтемніший момент ночі, сонце знаходиться в найнижчому положенні</translation>
+        <translation>இரவின் இருண்ட தருணம், சூரியன் மிகக் குறைந்த நிலையில் உள்ளது</translation>
     </message>
     <message>
         <location filename="../qml/components/ForecastItem.qml" line="154"/>
         <source>morning civil twilight starts</source>
-        <translation>починаються ранкові громадянські сутінки</translation>
+        <translation>காலை குடிமை அந்தி தொடங்குகிறது</translation>
     </message>
     <message>
         <location filename="../qml/components/ForecastItem.qml" line="152"/>
         <source>Dawn</source>
         <comment>use &apos;|&apos; to separate alternative strings of different length</comment>
-        <translation>Світанок</translation>
+        <translation>விடியல்</translation>
     </message>
     <message>
         <location filename="../qml/components/ForecastItem.qml" line="158"/>
         <source>Sunrise</source>
         <comment>use &apos;|&apos; to separate alternative strings of different length</comment>
-        <translation>Схід сонця</translation>
+        <translation>சூரிய தோன்றுகை</translation>
     </message>
     <message>
         <location filename="../qml/components/ForecastItem.qml" line="164"/>
         <source>Golden Hour End</source>
         <comment>use &apos;|&apos; to separate alternative strings of different length</comment>
-        <translation>Кінець Золотої години</translation>
+        <translation>கோல்டன் அவர் எண்ட்</translation>
     </message>
     <message>
         <location filename="../qml/components/ForecastItem.qml" line="170"/>
         <source>Solar Noon</source>
         <comment>use &apos;|&apos; to separate alternative strings of different length</comment>
-        <translation>Сонячний полудень</translation>
+        <translation>சூரிய நண்பகல்</translation>
     </message>
     <message>
         <location filename="../qml/components/ForecastItem.qml" line="181"/>
         <source>Golden Hour</source>
         <comment>use &apos;|&apos; to separate alternative strings of different length</comment>
-        <translation>Золота година</translation>
+        <translation>தங்க மணி</translation>
     </message>
     <message>
         <location filename="../qml/components/ForecastItem.qml" line="187"/>
         <source>Sunset</source>
         <comment>use &apos;|&apos; to separate alternative strings of different length</comment>
-        <translation>Захід сонця</translation>
+        <translation>சூரிய மறைவு</translation>
     </message>
     <message>
         <location filename="../qml/components/ForecastItem.qml" line="193"/>
         <source>Night</source>
         <comment>use &apos;|&apos; to separate alternative strings of different length</comment>
-        <translation>ніч</translation>
+        <translation>இரவு</translation>
     </message>
     <message>
         <location filename="../qml/components/ForecastItem.qml" line="199"/>
         <source>Nadir</source>
         <comment>use &apos;|&apos; to separate alternative strings of different length</comment>
-        <translation>Надір</translation>
+        <translation>நீசம்</translation>
     </message>
 </context>
 <context>
@@ -409,12 +404,12 @@
     <message>
         <location filename="../qml/pages/ForecastPage.qml" line="83"/>
         <source>Failed to load data!</source>
-        <translation>Не вдалося завантажити дані!</translation>
+        <translation>தரவை ஏற்றுவதில் தோல்வி!</translation>
     </message>
     <message>
         <location filename="../qml/pages/ForecastPage.qml" line="35"/>
         <source>Reload Data</source>
-        <translation>Перезавантажити дані</translation>
+        <translation>தரவை மீண்டும் ஏற்றவும்</translation>
     </message>
 </context>
 <context>
@@ -422,17 +417,17 @@
     <message>
         <location filename="../qml/tiles/base/ForecastTileBase.qml" line="128"/>
         <source>Configure</source>
-        <translation>Налаштувати</translation>
+        <translation>உள்ளமைக்கவும்</translation>
     </message>
     <message>
         <location filename="../qml/tiles/base/ForecastTileBase.qml" line="122"/>
         <source>Refresh</source>
-        <translation>Оновити</translation>
+        <translation>புதுப்பிப்பு</translation>
     </message>
     <message>
         <location filename="../qml/tiles/base/ForecastTileBase.qml" line="132"/>
         <source>Manage tiles</source>
-        <translation>Керуйте плитками</translation>
+        <translation>ஓடுகளை நிர்வகிக்கவும்</translation>
     </message>
 </context>
 <context>
@@ -440,7 +435,7 @@
     <message>
         <location filename="../qml/modules/Opal/About/private/LicenseListPart.qml" line="119"/>
         <source>License text</source>
-        <translation>Текст ліцензії</translation>
+        <translation>உரிம உரை</translation>
     </message>
 </context>
 <context>
@@ -448,17 +443,17 @@
     <message>
         <location filename="../qml/pages/LocationSearchPage.qml" line="48"/>
         <source>Add Location</source>
-        <translation>Додати місцезнаходження</translation>
+        <translation>இருப்பிடத்தைச் சேர்க்கவும்</translation>
     </message>
     <message>
         <location filename="../qml/pages/LocationSearchPage.qml" line="54"/>
         <source>Search</source>
-        <translation>Пошук</translation>
+        <translation>தேடல்</translation>
     </message>
     <message>
         <location filename="../qml/pages/LocationSearchPage.qml" line="32"/>
         <source>Bootstrap debug locations</source>
-        <translation>Розташування налагодження Bootstrap</translation>
+        <translation>தொடக்கவார் பிழைத்திருத்த இடங்கள்</translation>
     </message>
 </context>
 <context>
@@ -466,28 +461,28 @@
     <message>
         <location filename="../qml/pages/MainPage.qml" line="34"/>
         <source>About</source>
-        <translation>Про застосунок</translation>
+        <translation>பற்றி</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="48"/>
         <source>Refresh</source>
-        <translation>Оновити</translation>
+        <translation>புதுப்பிப்பு</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="40"/>
         <source>Manage tiles</source>
-        <translation>Керуйте плитками</translation>
+        <translation>ஓடுகளை நிர்வகிக்கவும்</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="82"/>
         <source>Pull down to manage tiles</source>
-        <translation>Потягніть вниз, щоб керувати плитками</translation>
+        <translation>ஓடுகளை நிர்வகிக்க கீழே இழுக்கவும்</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="55"/>
         <location filename="../qml/pages/MainPage.qml" line="81"/>
         <source>Add a tile</source>
-        <translation>Додайте плитку</translation>
+        <translation>ஒரு ஓடு சேர்க்கவும்</translation>
     </message>
 </context>
 <context>
@@ -495,42 +490,42 @@
     <message>
         <location filename="../qml/pages/MaintenancePage.qml" line="101"/>
         <source>Please be patient and allow up to 30 seconds for this.</source>
-        <translation>Будь ласка, запасіться терпінням і дайте на це до 30 секунд.</translation>
+        <translation>தயவுசெய்து பொறுமையாக இருங்கள், இதற்காக 30 வினாடிகள் வரை அனுமதிக்கவும்.</translation>
     </message>
     <message>
         <location filename="../qml/pages/MaintenancePage.qml" line="147"/>
         <source>Connected to the backend</source>
-        <translation>Підключено до серверної частини</translation>
+        <translation>பின்தளத்தில் இணைக்கப்பட்டுள்ளது</translation>
     </message>
     <message>
         <location filename="../qml/pages/MaintenancePage.qml" line="157"/>
         <source>Maintenance is complete</source>
-        <translation>Технічне обслуговування завершено</translation>
+        <translation>பராமரிப்பு முடிந்தது</translation>
     </message>
     <message>
         <location filename="../qml/pages/MaintenancePage.qml" line="119"/>
         <source>Close</source>
-        <translation>Закрити</translation>
+        <translation>மூடு</translation>
     </message>
     <message>
         <location filename="../qml/pages/MaintenancePage.qml" line="48"/>
         <source>Maintenance</source>
-        <translation>Технічне обслуговування</translation>
+        <translation>பராமரிப்பு</translation>
     </message>
     <message>
         <location filename="../qml/pages/MaintenancePage.qml" line="134"/>
         <source>Pull down to close this overlay.</source>
-        <translation>Потягніть вниз, щоб закрити це накладання.</translation>
+        <translation>இந்த மேலடுக்கை மூட கீழே இழுக்கவும்.</translation>
     </message>
     <message>
         <location filename="../qml/pages/MaintenancePage.qml" line="151"/>
         <source>Cleaning caches for “%1”...</source>
-        <translation>Очищення кешу для “%1”...</translation>
+        <translation>“%1” க்கான தற்காலிக சேமிப்புகளை தூய்மை செய்தல் ...</translation>
     </message>
     <message>
         <location filename="../qml/pages/MaintenancePage.qml" line="153"/>
         <source>Compressing databases for “%1”...</source>
-        <translation>Стискання баз даних для “%1”...</translation>
+        <translation>“%1” க்கான தரவுத்தளங்களை சுருக்குதல் ...</translation>
     </message>
 </context>
 <context>
@@ -538,52 +533,52 @@
     <message>
         <location filename="../qml/tiles/clock/Metadata.qml" line="11"/>
         <source>World clock</source>
-        <translation>Світовий годинник</translation>
+        <translation>உலக கடிகாரம்</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Metadata.qml" line="12"/>
         <source>Clock showing local time or the current time in any time zone.</source>
-        <translation>Годинник, який показує місцевий час або поточний час у будь-якому часовому поясі.</translation>
+        <translation>எந்த நேர மண்டலத்திலும் உள்ளக நேரம் அல்லது தற்போதைய நேரத்தைக் காட்டும் கடிகாரம்.</translation>
     </message>
     <message>
         <location filename="../qml/tiles/spacer/Metadata.qml" line="11"/>
         <source>Spacer</source>
-        <translation>Розпірка</translation>
+        <translation>ச்பேசர்</translation>
     </message>
     <message>
         <location filename="../qml/tiles/spacer/Metadata.qml" line="12"/>
         <source>Empty tile for spacing.</source>
-        <translation>Порожня плитка для інтервалу.</translation>
+        <translation>இடைவெளிக்கு வெற்று ஓடு.</translation>
     </message>
     <message>
         <location filename="../qml/tiles/weather_mch/Metadata.qml" line="11"/>
         <source>Weather forecast (MeteoSwiss)</source>
-        <translation>Прогноз погоди (MeteoSwiss)</translation>
+        <translation>வானிலை முன்னறிவிப்பு (மெட்டியோச்விச்)</translation>
     </message>
     <message>
         <location filename="../qml/tiles/weather_mch/Metadata.qml" line="12"/>
         <source>Weather forecast for Switzerland provided by the Swiss Meteorological Institute.</source>
-        <translation>Прогноз погоди для Швейцарії надає Швейцарський метеорологічний інститут.</translation>
+        <translation>சுவிட்சர்லாந்திற்கான வானிலை முன்னறிவிப்பு சுவிச் வானிலை நிறுவனம் வழங்கியது.</translation>
     </message>
     <message>
         <location filename="../qml/tiles/weather_yrn/Metadata.qml" line="11"/>
         <source>Weather forecast (Yr.no)</source>
-        <translation>Прогноз погоди (р.№)</translation>
+        <translation>வானிலை முன்னறிவிப்பு (yr.no)</translation>
     </message>
     <message>
         <location filename="../qml/tiles/weather_yrn/Metadata.qml" line="12"/>
         <source>Weather forecast for the world provided by the Norwegian Meteorological Institute.</source>
-        <translation>Прогноз погоди для світу надає Норвезький метеорологічний інститут.</translation>
+        <translation>நோர்வே வானிலை நிறுவனம் வழங்கிய உலகத்திற்கான வானிலை முன்னறிவிப்பு.</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Metadata.qml" line="11"/>
         <source>Day times</source>
-        <translation>Денний час</translation>
+        <translation>நாள் நேரம்</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Metadata.qml" line="12"/>
         <source>Current times of sunrise and sunset.</source>
-        <translation>Поточний час сходу та заходу сонця.</translation>
+        <translation>சூரிய தோன்றுகை மற்றும் சூரிய அச்தமனத்தின் தற்போதைய நேரங்கள்.</translation>
     </message>
 </context>
 <context>
@@ -591,12 +586,12 @@
     <message>
         <location filename="../qml/tiles/base/MetadataBase.qml" line="13"/>
         <source>Unimplemented tile</source>
-        <translation>Нереалізована плитка</translation>
+        <translation>செயல்படுத்தப்படாத ஓடு</translation>
     </message>
     <message>
         <location filename="../qml/tiles/base/MetadataBase.qml" line="14"/>
         <source>This tile has no description.</source>
-        <translation>Ця плитка не має опису.</translation>
+        <translation>இந்த ஓடுக்கு எந்த விளக்கமும் இல்லை.</translation>
     </message>
 </context>
 <context>
@@ -604,62 +599,62 @@
     <message>
         <location filename="../qml/MySupportDialog.qml" line="14"/>
         <source>Donate on Liberapay</source>
-        <translation>Зробити донат на Liberapay</translation>
+        <translation>லிபராபேயில் நன்கொடை</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="15"/>
         <source>Pay the amount of a cup of coffee, a slice of pizza, or a ticket to the theater.</source>
-        <translation>Можете пожертвувати суму, що дорівнює чашці кави, шматку піци або квитку в театр.</translation>
+        <translation>ஒரு கப் காபி, ஒரு துண்டு பீச்சா அல்லது தியேட்டருக்கு டிக்கெட் ஆகியவற்றின் அளவு செலுத்துங்கள்.</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="22"/>
         <source>Translate on Weblate</source>
-        <translation>Переклад на Weblate</translation>
+        <translation>வெப்லேட்டில் மொழிபெயர்க்கவும்</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="23"/>
         <source>Help with translating this app in as many languages as possible.</source>
-        <translation>Допоможіть перекласти цей додаток якомога більшою кількістю мов.</translation>
+        <translation>இந்த பயன்பாட்டை முடிந்தவரை பல மொழிகளில் மொழிபெயர்க்க உதவுங்கள்.</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="30"/>
         <source>Develop on Github</source>
-        <translation>Розробка на Github</translation>
+        <translation>கிட்அப்பில் உருவாக்குங்கள்</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="31"/>
         <source>Support with maintenance and packaging, write code, or provide valuable bug reports.</source>
-        <translation>Допоможіть в обслуговуванні та пакуванні, написанні коду або наданні цінних звітів про помилки.</translation>
+        <translation>பராமரிப்பு மற்றும் பேக்கேசிங், குறியீட்டை எழுதுதல் அல்லது மதிப்புமிக்க பிழை அறிக்கைகளை வழங்குதல்.</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="37"/>
         <source>Why should you care?</source>
-        <translation>Чому вам має бути цікаво?</translation>
+        <translation>நீங்கள் ஏன் கவலைப்பட வேண்டும்?</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="40"/>
         <source>This project is built with love and passion by a single developer in their spare time, and is provided to you free of charge.</source>
-        <translation>Цей проект створений з любов&apos;ю та пристрастю одним розробником у свій вільний час і надається вам безкоштовно.</translation>
+        <translation>இந்த திட்டம் அவர்களின் ஓய்வு நேரத்தில் ஒரு டெவலப்பரால் அன்புடனும் ஆர்வத்துடனும் கட்டப்பட்டுள்ளது, மேலும் இது உங்களுக்கு இலவசமாக வழங்கப்படுகிறது.</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="46"/>
         <source>I develop Free Software because I am convinced that it is the ethical thing to do - and it is a fun hobby. However, developing software takes a lot of time and effort. As Sailfish and living in general costs money, I need your support to be able to spend time on non-paying projects like this.</source>
-        <translation>Я розробляю вільне програмне забезпечення, тому що переконаний, що це етично, і це цікаве хобі. Однак, розробка програмного забезпечення вимагає багато часу та зусиль. Оскільки Sailfish OS і життя в цілому коштує грошей, мені потрібна ваша підтримка, щоб мати змогу витрачати час на такі неоплачувані проекти, як цей.</translation>
+        <translation>நான் இலவச மென்பொருளை உருவாக்குகிறேன், ஏனென்றால் இது நெறிமுறை சேதி என்று நான் நம்புகிறேன் - இது ஒரு வேடிக்கையான பொழுதுபோக்கு. இருப்பினும், மென்பொருளை உருவாக்குவதற்கு நிறைய நேரமும் முயற்சியும் தேவை. படகோட்டியாகவும், பொது செலவினங்களுடனும், இது போன்ற ஊதியம் பெறாத திட்டங்களுக்கு நேரத்தை செலவிட எனக்கு உங்கள் உதவி தேவை.</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="56"/>
         <source>Why donate?</source>
-        <translation>Навіщо донатити?</translation>
+        <translation>ஏன் நன்கொடை?</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="59"/>
         <source>Jolla raised prices and is trying to force developers (who work for free) to pay rent for Sailfish.</source>
-        <translation>Jolla підняла ціни і намагається змусити розробників (які працюють безкоштовно) платити за підписку на Sailfish OS.</translation>
+        <translation>சொல்லா விலைகளை உயர்த்தினார், மேலும் டெவலப்பர்களை (இலவசமாக வேலை செய்யும்) படகோட்டிக்கு வாடகை செலுத்த கட்டாயப்படுத்த முயற்சிக்கிறார்.</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="64"/>
         <source>If you can afford it, donating is the easiest way to ensure that I can continue working on apps for Sailfish. Any amount is appreciated, be it a cup of coffee, a slice of pizza, or more.</source>
-        <translation>Якщо ви можете собі це дозволити, пожертвування – це найпростіший спосіб гарантувати, що я зможу продовжувати працювати над додатками для Sailfish OS. Будь-яка сума буде цінна, будь то чашка кави, шматок піци чи щось більше.</translation>
+        <translation>நீங்கள் அதை வாங்க முடிந்தால், சாய்ல்ஃபிசிற்கான பயன்பாடுகளில் நான் தொடர்ந்து பணியாற்ற முடியும் என்பதை உறுதிப்படுத்த நன்கொடை என்பது எளிதான வழியாகும். எந்தவொரு தொகையும் பாராட்டப்படுகிறது, அது ஒரு கப் காபி, ஒரு துண்டு பீச்சா அல்லது அதற்கு மேற்பட்டதாக இருக்கலாம்.</translation>
     </message>
 </context>
 <context>
@@ -667,17 +662,17 @@
     <message>
         <location filename="../qml/pages/NewTileDialog.qml" line="74"/>
         <source>Cancel</source>
-        <translation>Скасувати</translation>
+        <translation>ரத்துசெய்</translation>
     </message>
     <message>
         <location filename="../qml/pages/NewTileDialog.qml" line="75"/>
         <source>Select a tile type</source>
-        <translation>Виберіть тип плитки</translation>
+        <translation>ஓடு வகையைத் தேர்ந்தெடுக்கவும்</translation>
     </message>
     <message>
         <location filename="../qml/pages/NewTileDialog.qml" line="73"/>
         <source>Add</source>
-        <translation>додати</translation>
+        <translation>கூட்டு</translation>
     </message>
 </context>
 <context>
@@ -685,24 +680,24 @@
     <message>
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="56"/>
         <source>About</source>
-        <translation>Про застосунок</translation>
+        <translation>பற்றி</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="85"/>
         <source>Version %1</source>
-        <translation>Версія %1</translation>
+        <translation>பதிப்பு %1</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="101"/>
         <location filename="../qml/modules/Opal/About/private/ContributorsPage.qml" line="24"/>
         <location filename="../qml/modules/Opal/About/private/ContributorsPage.qml" line="33"/>
         <source>Development</source>
-        <translation>Розробка</translation>
+        <translation>வளர்ச்சி</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="104"/>
         <source>show contributors</source>
-        <translation>показати учасників</translation>
+        <translation>பங்களிப்பாளர்களைக் காட்டு</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="106"/>
@@ -710,18 +705,18 @@
         <location filename="../qml/modules/Opal/About/private/ContributorsAttributionRepeater.qml" line="24"/>
         <location filename="../qml/modules/Opal/About/private/LicenseListPart.qml" line="47"/>
         <source>Homepage</source>
-        <translation>Головна</translation>
+        <translation>முகப்புப்பக்கம்</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="109"/>
         <location filename="../qml/modules/Opal/About/private/ChangelogPage.qml" line="16"/>
         <source>Changelog</source>
-        <translation>Список змін</translation>
+        <translation>மாற்றபதிவு</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="112"/>
         <source>Translations</source>
-        <translation>Переклади</translation>
+        <translation>மொழிபெயர்ப்புகள்</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="115"/>
@@ -729,106 +724,104 @@
         <location filename="../qml/modules/Opal/About/private/ContributorsAttributionRepeater.qml" line="25"/>
         <location filename="../qml/modules/Opal/About/private/LicenseListPart.qml" line="50"/>
         <source>Source Code</source>
-        <translation>Вихідний код</translation>
+        <translation>மூலக் குறியீடு</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="124"/>
         <source>Donations</source>
-        <translation>Пожертви</translation>
+        <translation>நன்கொடைகள்</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="130"/>
         <source>License</source>
-        <translation>Ліцензія</translation>
+        <translation>உரிமம்</translation>
     </message>
     <message numerus="yes">
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="135"/>
         <source>show license(s)</source>
         <translation>
-            <numerusform>показати ліцензію</numerusform>
-            <numerusform>показати ліцензії</numerusform>
-            <numerusform>показати ліцензій</numerusform>
+            <numerusform>உரிமத்தைக் காட்டு</numerusform>
+            <numerusform>உரிமங்களைக் காட்டு</numerusform>
         </translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/InfoSection.qml" line="15"/>
         <source>show details</source>
-        <translation>показати подробиці</translation>
+        <translation>விவரங்களைக் காட்டு</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/ContributorsPage.qml" line="23"/>
         <source>Contributors</source>
-        <translation>Учасники</translation>
+        <translation>பங்களிப்பாளர்கள்</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/ContributorsPage.qml" line="39"/>
         <source>Acknowledgements</source>
-        <translation>Подяки</translation>
+        <translation>ஒப்புதல்கள்</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/ContributorsAttributionRepeater.qml" line="11"/>
         <source>Thank you!</source>
-        <translation>Дякую!</translation>
+        <translation>நன்றி!</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/ContributorsAttributionRepeater.qml" line="15"/>
         <location filename="../qml/modules/Opal/About/private/LicensePage.qml" line="34"/>
         <source>Details</source>
-        <translation>Подробиці</translation>
+        <translation>விவரங்கள்</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/ExternalUrlPage.qml" line="15"/>
         <source>External Link</source>
-        <translation>Зовнішнє посилання</translation>
+        <translation>வெளிப்புற இணைப்பு</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/ExternalUrlPage.qml" line="32"/>
         <source>Open in browser</source>
-        <translation>Відкрити в браузері</translation>
+        <translation>உலாவியில் திற</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/ExternalUrlPage.qml" line="36"/>
         <source>Copied to clipboard: %1</source>
-        <translation>Скопійовано до буфера обміну: %1</translation>
+        <translation>கிளிப்போர்டுக்கு நகலெடுக்கப்பட்டது: %1</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/ExternalUrlPage.qml" line="41"/>
         <source>Copy to clipboard</source>
-        <translation>Копіювати в буфер обміну</translation>
+        <translation>கிளிப்போர்டுக்கு நகலெடுக்கவும்</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/LicensePage.qml" line="28"/>
         <source>Download license texts</source>
-        <translation>Завантажити тексти ліцензій</translation>
+        <translation>உரிம உரைகளைப் பதிவிறக்கவும்</translation>
     </message>
     <message numerus="yes">
         <location filename="../qml/modules/Opal/About/private/LicensePage.qml" line="34"/>
         <source>License(s)</source>
         <translation>
-            <numerusform>Ліцензія</numerusform>
-            <numerusform>Ліцензії</numerusform>
-            <numerusform>Ліцензій</numerusform>
+            <numerusform>உரிமம்</numerusform>
+            <numerusform>உரிமங்கள்</numerusform>
         </translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/LicensePage.qml" line="44"/>
         <source>Note: please check the source code for most accurate information.</source>
-        <translation>Примітка: будь ласка, перевірте вихідний код для отримання найбільш точної інформації.</translation>
+        <translation>குறிப்பு: மிகவும் துல்லியமான தகவல்களுக்கு மூலக் குறியீட்டைச் சரிபார்க்கவும்.</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/ChangelogNews.qml" line="61"/>
         <source>News</source>
-        <translation>Новини</translation>
+        <translation>செய்தி</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/ChangelogNews.qml" line="62"/>
         <source>Changes since version %1</source>
-        <translation>Зміни з попередньої версії %1</translation>
+        <translation>பதிப்பு %1 முதல் மாற்றங்கள்</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/LicenseListPart.qml" line="120"/>
         <source>Please refer to &lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;</source>
-        <translation>Будь ласка, зверніться до &lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;</translation>
+        <translation>தயவுசெய்து &lt;a href=&quot;%1&quot;&gt;%1 &lt;/a&gt; ஐப் பார்க்கவும்</translation>
     </message>
 </context>
 <context>
@@ -836,17 +829,17 @@
     <message>
         <location filename="../qml/modules/Opal/About/private/DonationsGroup.qml" line="7"/>
         <source>If you want to support my work, you can buy me a cup of coffee.</source>
-        <translation>Якщо ви хочете підтримати мою роботу, ви можете пригостити мене чашкою кави.</translation>
+        <translation>நீங்கள் எனது வேலையை ஆதரிக்க விரும்பினால், நீங்கள் எனக்கு ஒரு கப் காபி வாங்கலாம்.</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/DonationsGroup.qml" line="8"/>
         <source>You can support this project by contributing, or by donating using any of these services.</source>
-        <translation>Ви можете підтримати цей проєкт, зробивши свій внесок або пожертвувавши за допомогою будь-якого з цих сервісів.</translation>
+        <translation>இந்த திட்டத்தை பங்களிப்பதன் மூலம் அல்லது இந்த சேவைகளில் ஏதேனும் ஒன்றைப் பயன்படுத்தி நன்கொடை அளிப்பதன் மூலம் நீங்கள் ஆதரிக்கலாம்.</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/DonationsGroup.qml" line="9"/>
         <source>Your contributions to translations or code would be most welcome.</source>
-        <translation>Ваш внесок у переклади або код буде дуже доречним.</translation>
+        <translation>மொழிபெயர்ப்புகள் அல்லது குறியீட்டிற்கான உங்கள் பங்களிப்புகள் மிகவும் வரவேற்கப்படும்.</translation>
     </message>
 </context>
 <context>
@@ -854,27 +847,27 @@
     <message>
         <location filename="../qml/modules/Opal/SupportMe/private/LinkHandler/private/ExternalUrlPage.qml" line="15"/>
         <source>External Link</source>
-        <translation>Зовнішнє посилання</translation>
+        <translation>வெளிப்புற இணைப்பு</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/SupportMe/private/LinkHandler/private/ExternalUrlPage.qml" line="32"/>
         <source>Open in browser</source>
-        <translation>Відкрити в браузері</translation>
+        <translation>உலாவியில் திற</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/SupportMe/private/LinkHandler/private/ExternalUrlPage.qml" line="32"/>
         <source>Open externally</source>
-        <translation>Відкрити зовні</translation>
+        <translation>வெளிப்புறமாக திறக்கவும்</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/SupportMe/private/LinkHandler/private/ExternalUrlPage.qml" line="36"/>
         <source>Copied to clipboard: %1</source>
-        <translation>Скопійовано до буфера обміну: %1</translation>
+        <translation>கிளிப்போர்டுக்கு நகலெடுக்கப்பட்டது: %1</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/SupportMe/private/LinkHandler/private/ExternalUrlPage.qml" line="41"/>
         <source>Copy to clipboard</source>
-        <translation>Копіювати в буфер обміну</translation>
+        <translation>கிளிப்போர்டுக்கு நகலெடுக்கவும்</translation>
     </message>
 </context>
 <context>
@@ -882,17 +875,17 @@
     <message>
         <location filename="../qml/components/OverviewListDelegate.qml" line="41"/>
         <source>Remove</source>
-        <translation>видалити</translation>
+        <translation>அகற்று</translation>
     </message>
     <message>
         <location filename="../qml/components/OverviewListDelegate.qml" line="46"/>
         <source>Move to top</source>
-        <translation>Перейти вгору</translation>
+        <translation>மேலே செல்லுங்கள்</translation>
     </message>
     <message>
         <location filename="../qml/components/OverviewListDelegate.qml" line="204"/>
         <source>Deleting</source>
-        <translation>Видалення</translation>
+        <translation>நீக்குதல்</translation>
     </message>
 </context>
 <context>
@@ -900,27 +893,27 @@
     <message>
         <location filename="../qml/pages/OverviewPage.qml" line="81"/>
         <source>About</source>
-        <translation>Про застосунок</translation>
+        <translation>பற்றி</translation>
     </message>
     <message>
         <location filename="../qml/pages/OverviewPage.qml" line="91"/>
         <source>Refresh</source>
-        <translation>Оновити</translation>
+        <translation>புதுப்பிப்பு</translation>
     </message>
     <message>
         <location filename="../qml/pages/OverviewPage.qml" line="86"/>
         <source>Add location</source>
-        <translation>Додайте місцезнаходження</translation>
+        <translation>இருப்பிடத்தைச் சேர்</translation>
     </message>
     <message>
         <location filename="../qml/pages/OverviewPage.qml" line="109"/>
         <source>Add a location first</source>
-        <translation>Спочатку додайте місцезнаходження</translation>
+        <translation>முதலில் ஒரு இடத்தைச் சேர்க்கவும்</translation>
     </message>
     <message>
         <location filename="../qml/pages/OverviewPage.qml" line="110"/>
         <source>Pull down to add items</source>
-        <translation>Потягніть вниз, щоб додати елементи</translation>
+        <translation>உருப்படிகளைச் சேர்க்க கீழே இழுக்கவும்</translation>
     </message>
 </context>
 <context>
@@ -928,116 +921,116 @@
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="115"/>
         <source>Local time</source>
-        <translation>Місцевий час</translation>
+        <translation>உள்ளக நேரம்</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="180"/>
         <source>Custom time offset</source>
-        <translation>Настроюване зміщення часу</translation>
+        <translation>தனிப்பயன் நேரம் ஆஃப்செட்</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="81"/>
         <source>Clock time</source>
-        <translation>Час годинника</translation>
+        <translation>கடிகார நேரம்</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="91"/>
         <source>Current time</source>
-        <translation>Поточний час</translation>
+        <translation>தற்போதைய நேரம்</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="269"/>
         <source>Tokyo, Japan</source>
-        <translation>Токіо, Японія</translation>
+        <translation>டோக்கியோ, சப்பான்</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="269"/>
         <source>Nuuk, Greenland</source>
-        <translation>Нуук, Гренландія</translation>
+        <translation>நுவுக், கிரீன்லாந்து</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="270"/>
         <source>Yangon, Myanmar</source>
-        <translation>Янгон, М&apos;янма</translation>
+        <translation>யாங்கோன், மியான்மர்</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="270"/>
         <source>Lubumbashi, DR Congo</source>
-        <translation>Лубумбаші, ДР Конго</translation>
+        <translation>டி.ஆர்., டி.ஆர்</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="271"/>
         <source>Belém, Brazil</source>
-        <translation>Белен, Бразилія</translation>
+        <translation>பெலேம், பிரேசில்</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="271"/>
         <source>Paris, France</source>
-        <translation>Париж, Франція</translation>
+        <translation>பாரிச், பிரான்ச்</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="280"/>
         <source>e.g. %1</source>
-        <translation>напр. %1</translation>
+        <translation>எ.கா. %1</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="281"/>
         <source>Clock label (optional)</source>
-        <translation>Мітка годинника (необов&apos;язково)</translation>
+        <translation>கடிகார சிட்டை (விரும்பினால்)</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="306"/>
         <source>Clock face</source>
-        <translation>Циферблат годинника</translation>
+        <translation>கடிகார முகம்</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="47"/>
         <location filename="../qml/tiles/clock/Settings.qml" line="310"/>
         <source>without numbers</source>
-        <translation>без номерів</translation>
+        <translation>எண்கள் இல்லாமல்</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="49"/>
         <location filename="../qml/tiles/clock/Settings.qml" line="312"/>
         <source>Roman numbers</source>
-        <translation>римські цифри</translation>
+        <translation>ரோமானிய எண்கள்</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="48"/>
         <location filename="../qml/tiles/clock/Settings.qml" line="311"/>
         <source>Arabic numbers (European)</source>
-        <translation>Арабські цифри (європейські)</translation>
+        <translation>அரபு எண்கள் (ஐரோப்பிய)</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="116"/>
         <source>The clock will always show the current local time, using the same time zone as the system.</source>
-        <translation>Годинник завжди показуватиме поточний місцевий час, використовуючи той самий часовий пояс, що й система.</translation>
+        <translation>கடிகாரம் எப்போதும் தற்போதைய உள்ளக நேரத்தைக் காண்பிக்கும், கணினியின் அதே நேர மண்டலத்தைப் பயன்படுத்துகிறது.</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="135"/>
         <location filename="../qml/tiles/clock/Settings.qml" line="153"/>
         <source>Time zone</source>
-        <translation>Часовий пояс</translation>
+        <translation>நேர மண்டலம்</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="136"/>
         <source>The clock will show the time in a specific time zone.</source>
-        <translation>Годинник буде показувати час у певному часовому поясі.</translation>
+        <translation>கடிகாரம் ஒரு குறிப்பிட்ட நேர மண்டலத்தில் நேரத்தைக் காண்பிக்கும்.</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="155"/>
         <source>Select a time zone</source>
-        <translation>Виберіть часовий пояс</translation>
+        <translation>நேர மண்டலத்தைத் தேர்ந்தெடுக்கவும்</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="156"/>
         <source>%1, %2 (%3)</source>
-        <translation>%1, %2 (%3)</translation>
+        <translation>%1, %2 ( %3)</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="181"/>
         <source>The clock will show the time shifted from UTC. This is independent of the local time zone.</source>
-        <translation>Годинник буде показувати час, зміщений з UTC. Це не залежить від місцевого часового поясу.</translation>
+        <translation>கடிகாரம் UTC இலிருந்து மாற்றப்பட்ட நேரத்தைக் காண்பிக்கும். இது உள்ளக நேர மண்டலத்திலிருந்து சுயாதீனமாக உள்ளது.</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="199"/>
@@ -1047,7 +1040,7 @@
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="200"/>
         <source>Positive offsets show time zones east of UTC/GMT (Greenwich, UK).</source>
-        <translation>Додатні зсуви показують часові пояси на схід від UTC/GMT (Грінвіч, Великобританія).</translation>
+        <translation>நேர்மறை ஆஃப்செட்டுகள் யுடிசி/சிஎம்டிக்கு கிழக்கே நேர மண்டலங்களைக் காட்டுகின்றன (கிரீன்விச், யுகே).</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="216"/>
@@ -1057,7 +1050,7 @@
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="217"/>
         <source>Negative offsets show time zones west of UTC/GMT (Greenwich, UK).</source>
-        <translation>Від’ємні зсуви показують часові пояси на захід від UTC/GMT (Грінвіч, Великобританія).</translation>
+        <translation>எதிர்மறை ஆஃப்செட்டுகள் யுடிசி/சிஎம்டிக்கு மேற்கே நேர மண்டலங்களைக் காட்டுகின்றன (கிரீன்விச், யுகே).</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="251"/>
@@ -1072,28 +1065,28 @@
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="108"/>
         <source>Time format</source>
-        <translation>Формат часу</translation>
+        <translation>நேர வடிவம்</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="261"/>
         <source>Appearance</source>
-        <translation>Зовнішній вигляд</translation>
+        <translation>தோற்றம்</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Settings.qml" line="223"/>
         <location filename="../qml/tiles/weather_mch/Settings.qml" line="235"/>
         <source>Location details</source>
-        <translation>Деталі розташування</translation>
+        <translation>இருப்பிட விவரங்கள்</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Settings.qml" line="257"/>
         <source>Latitude</source>
-        <translation>Широта</translation>
+        <translation>அகலாங்கு</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Settings.qml" line="272"/>
         <source>Longitude</source>
-        <translation>Довгота</translation>
+        <translation>நெட்டாங்கு</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Settings.qml" line="98"/>
@@ -1101,96 +1094,96 @@
         <location filename="../qml/tiles/weather_mch/Settings.qml" line="83"/>
         <location filename="../qml/tiles/weather_mch/Settings.qml" line="109"/>
         <source>Find a location</source>
-        <translation>Знайдіть місце</translation>
+        <translation>ஒரு இடத்தைக் கண்டறியவும்</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Settings.qml" line="126"/>
         <source>Enter details manually</source>
-        <translation>Введіть дані вручну</translation>
+        <translation>விவரங்களை கைமுறையாக உள்ளிடவும்</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Settings.qml" line="173"/>
         <source>%1 °N</source>
-        <translation>%1 °N</translation>
+        <translation>%1 °வ</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Settings.qml" line="173"/>
         <source>%1 °S</source>
-        <translation>%1 °S</translation>
+        <translation>%1 °தெ</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Settings.qml" line="175"/>
         <source>%1 °E</source>
-        <translation>%1 °E</translation>
+        <translation>%1 ° இ</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Settings.qml" line="175"/>
         <source>%1 °W</source>
-        <translation>%1 °W</translation>
+        <translation>%1 ° W</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Settings.qml" line="231"/>
         <location filename="../qml/tiles/weather_mch/Settings.qml" line="243"/>
         <source>Name</source>
-        <translation>Ім&apos;я</translation>
+        <translation>பெயர்</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Settings.qml" line="232"/>
         <location filename="../qml/tiles/weather_mch/Settings.qml" line="244"/>
         <source>A short nickname for this location</source>
-        <translation>Короткий псевдонім для цього місця</translation>
+        <translation>இந்த இடத்திற்கு ஒரு குறுகிய புனைப்பெயர்</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Settings.qml" line="240"/>
         <location filename="../qml/tiles/weather_mch/Settings.qml" line="252"/>
         <source>Description</source>
-        <translation>опис</translation>
+        <translation>விவரம்</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Settings.qml" line="241"/>
         <source>The full address or other details about the location</source>
-        <translation>Повна адреса або інші відомості про місцезнаходження</translation>
+        <translation>இருப்பிடத்தைப் பற்றிய முழு முகவரி அல்லது பிற விவரங்கள்</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Settings.qml" line="258"/>
         <source>&gt; 0 is North, &lt; 0 is South</source>
-        <translation>&amp;gt; 0 — північ, &amp;lt; 0 — південь</translation>
+        <translation>&amp;gt; 0 வடக்கு, &amp;lt;0 தெற்கு</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Settings.qml" line="273"/>
         <source>&gt; 0 is East, &lt; 0 is West</source>
-        <translation>&amp;gt; 0 — схід, &amp;lt; 0 — захід</translation>
+        <translation>&amp;gt; 0 கிழக்கு, &amp;lt;0 மேற்கு</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Settings.qml" line="285"/>
         <source>Timezone</source>
-        <translation>часовий пояс</translation>
+        <translation>நேர மண்டலம்</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Settings.qml" line="286"/>
         <source>Local timezone for this location</source>
-        <translation>Місцевий часовий пояс для цього місця</translation>
+        <translation>இந்த இருப்பிடத்திற்கான உள்ளக நேர மண்டலம்</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Settings.qml" line="292"/>
         <source>Lookup timezone</source>
-        <translation>Часовий пояс пошуку</translation>
+        <translation>தேடல் நேர மண்டலம்</translation>
     </message>
     <message>
         <location filename="../qml/tiles/weather_mch/Settings.qml" line="209"/>
         <location filename="../qml/tiles/weather_mch/Settings.qml" line="217"/>
         <source>%1 m</source>
-        <translation>%1 м</translation>
+        <translation>%1 மீ</translation>
     </message>
     <message>
         <location filename="../qml/tiles/weather_mch/Settings.qml" line="253"/>
         <source>The full name or other details about the location</source>
-        <translation>Повне ім&apos;я або інші відомості про місцезнаходження</translation>
+        <translation>இருப்பிடத்தைப் பற்றிய முழு பெயர் அல்லது பிற விவரங்கள்</translation>
     </message>
     <message>
         <location filename="../qml/tiles/weather_mch/Settings.qml" line="260"/>
         <source>Zip code</source>
-        <translation>Поштовий індекс</translation>
+        <translation>சிப் குறியீடு</translation>
     </message>
 </context>
 <context>
@@ -1198,12 +1191,12 @@
     <message>
         <location filename="../qml/tiles/base/SettingsDialogBase.qml" line="94"/>
         <source>Save</source>
-        <translation>зберегти</translation>
+        <translation>சேமி</translation>
     </message>
     <message>
         <location filename="../qml/tiles/base/SettingsDialogBase.qml" line="95"/>
         <source>Cancel</source>
-        <translation>Скасувати</translation>
+        <translation>ரத்துசெய்</translation>
     </message>
 </context>
 <context>
@@ -1220,27 +1213,27 @@
     <message>
         <location filename="../qml/modules/Opal/SupportMe/SupportDialog.qml" line="9"/>
         <source>Hi there!</source>
-        <translation>Вітаю!</translation>
+        <translation>ஆய்!</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/SupportMe/SupportDialog.qml" line="10"/>
         <source>Thank you for using my little app! Maybe you can contribute back?</source>
-        <translation>Дякую за використання мого додатку! Можливо, ви можете зробити свій внесок у відповідь?</translation>
+        <translation>எனது சிறிய பயன்பாட்டைப் பயன்படுத்தியதற்கு நன்றி! ஒருவேளை நீங்கள் மீண்டும் பங்களிக்க முடியுமா?</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/SupportMe/SupportDialog.qml" line="11"/>
         <source>Thank you for your support!</source>
-        <translation>Дякую за вашу підтримку!</translation>
+        <translation>உங்கள் ஆதரவுக்கு நன்றி!</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/SupportMe/SupportDialog.qml" line="55"/>
         <source>Remind me later</source>
-        <translation>Нагадати пізніше</translation>
+        <translation>பின்னர் எனக்கு நினைவூட்டுங்கள்</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/SupportMe/SupportDialog.qml" line="57"/>
         <source>Don&apos;t ask me again</source>
-        <translation>Не питати знову</translation>
+        <translation>மீண்டும் என்னிடம் கேட்க வேண்டாம்</translation>
     </message>
 </context>
 <context>
@@ -1248,32 +1241,32 @@
     <message>
         <location filename="../qml/pages/TablePage.qml" line="31"/>
         <source>Detailed Forecast</source>
-        <translation>Детальний прогноз</translation>
+        <translation>விரிவான முன்னறிவிப்பு</translation>
     </message>
     <message>
         <location filename="../qml/pages/TablePage.qml" line="53"/>
         <source>Hour</source>
-        <translation>годину</translation>
+        <translation>மணி</translation>
     </message>
     <message>
         <location filename="../qml/pages/TablePage.qml" line="64"/>
         <source>Temp.</source>
-        <translation>темп.</translation>
+        <translation>தற்காலிக.</translation>
     </message>
     <message>
         <location filename="../qml/pages/TablePage.qml" line="71"/>
         <source>Precip.</source>
-        <translation>Опади.</translation>
+        <translation>செங்குத்து.</translation>
     </message>
     <message>
         <location filename="../qml/pages/TablePage.qml" line="92"/>
         <source>Description</source>
-        <translation>опис</translation>
+        <translation>விவரம்</translation>
     </message>
     <message>
         <location filename="../qml/pages/TablePage.qml" line="78"/>
         <source>Wind</source>
-        <translation>Вітер</translation>
+        <translation>காற்று</translation>
     </message>
 </context>
 <context>
@@ -1281,7 +1274,7 @@
     <message>
         <location filename="../qml/tiles/spacer/Tile.qml" line="38"/>
         <source>Placeholder</source>
-        <translation>Заповнювач</translation>
+        <translation>இடம் வைத்திருப்பவர்</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Tile.qml" line="64"/>
@@ -1295,24 +1288,22 @@
         <location filename="../qml/tiles/clock/Tile.qml" line="76"/>
         <location filename="../qml/tiles/clock/Tile.qml" line="107"/>
         <source>local time</source>
-        <translation>місцевий час</translation>
+        <translation>உள்ளக நேரம்</translation>
     </message>
     <message numerus="yes">
         <location filename="../qml/tiles/clock/Tile.qml" line="118"/>
         <source>%1 hour(s) behind local time</source>
         <translation>
-            <numerusform>Відставання від місцевого часу на %1 годину</numerusform>
-            <numerusform>Відставання від місцевого часу на %1 години</numerusform>
-            <numerusform>Відставання від місцевого часу на %1 години</numerusform>
+            <numerusform>உள்ளக நேரத்திற்கு %1 மணிநேரம் பின்னால்</numerusform>
+            <numerusform>உள்ளக நேரத்திற்கு %1 மணி நேரம் பின்னால்</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="../qml/tiles/clock/Tile.qml" line="124"/>
         <source>%1 hour(s) ahead of local time</source>
         <translation>
-            <numerusform>%1 годину попереду місцевого часу</numerusform>
-            <numerusform>%1 години попереду місцевого часу</numerusform>
-            <numerusform>%1 години попереду місцевого часу</numerusform>
+            <numerusform>உள்ளக நேரத்தைவிட %1 மணி நேரம் முன்னால்</numerusform>
+            <numerusform>உள்ளக நேரத்தைவிட %1 மணி நேரம் முன்னால்</numerusform>
         </translation>
     </message>
     <message numerus="yes">
@@ -1321,9 +1312,8 @@
         <source>%1h behind</source>
         <comment>shortened form of &apos;%1 hour(s) behind local time&apos;</comment>
         <translation>
-            <numerusform>%1 год позаду</numerusform>
-            <numerusform>%1 год позади</numerusform>
-            <numerusform>%1 год позади</numerusform>
+            <numerusform>%1 மணிநேர பின்னால்</numerusform>
+            <numerusform>%1 மணிநேர பின்னால்</numerusform>
         </translation>
     </message>
     <message numerus="yes">
@@ -1332,59 +1322,58 @@
         <source>%1h ahead</source>
         <comment>shortened form of &apos;%1 hour(s) ahead of local time&apos;</comment>
         <translation>
-            <numerusform>%1 год вперед</numerusform>
-            <numerusform>%1 год впереди</numerusform>
-            <numerusform>%1 год впереди</numerusform>
+            <numerusform>%1 மணிநேர முன்னால்</numerusform>
+            <numerusform>%1 மணிநேர முன்னால்</numerusform>
         </translation>
     </message>
     <message>
         <location filename="../qml/tiles/weather_yrn/Tile.qml" line="38"/>
         <source>Weather (Yr.no)</source>
-        <translation>Погода (Yr.no)</translation>
+        <translation>வானிலை (yr.no)</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Tile.qml" line="134"/>
         <location filename="../qml/tiles/day_times/Tile.qml" line="180"/>
         <source>dawn</source>
-        <translation>світанок</translation>
+        <translation>விடியல்</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Tile.qml" line="192"/>
         <source>noon</source>
-        <translation>полудень</translation>
+        <translation>நூன்</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Tile.qml" line="198"/>
         <source>golden</source>
-        <translation>золотий</translation>
+        <translation>கோல்டன்</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Tile.qml" line="152"/>
         <location filename="../qml/tiles/day_times/Tile.qml" line="220"/>
         <source>dusk</source>
-        <translation>сутінки</translation>
+        <translation>அந்தி</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Tile.qml" line="146"/>
         <location filename="../qml/tiles/day_times/Tile.qml" line="226"/>
         <source>sunset</source>
-        <translation>захід сонця</translation>
+        <translation>சூரிய மறைவு</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Tile.qml" line="232"/>
         <source>zenith</source>
-        <translation>зеніт</translation>
+        <translation>செனித்</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Tile.qml" line="239"/>
         <source>hour</source>
-        <translation>година</translation>
+        <translation>மணி</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Tile.qml" line="140"/>
         <location filename="../qml/tiles/day_times/Tile.qml" line="186"/>
         <source>sunrise</source>
-        <translation>схід сонця</translation>
+        <translation>சூரிய தோன்றுகை</translation>
     </message>
 </context>
 <context>
@@ -1392,41 +1381,41 @@
     <message>
         <location filename="../qml/tiles/clock/private/TimeShiftPreviewPage.qml" line="49"/>
         <source>Reset to current time</source>
-        <translation>Скинути поточний час</translation>
+        <translation>தற்போதைய நேரத்திற்கு மீட்டமைக்கவும்</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/private/TimeShiftPreviewPage.qml" line="73"/>
         <source>Calculate local time</source>
-        <translation>Розрахувати місцевий час</translation>
+        <translation>உள்ளக நேரத்தைக் கணக்கிடுங்கள்</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/private/TimeShiftPreviewPage.qml" line="87"/>
         <source>Calculate remote time</source>
-        <translation>Розрахувати віддалений час</translation>
+        <translation>தொலைதூர நேரத்தைக் கணக்கிடுங்கள்</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/private/TimeShiftPreviewPage.qml" line="182"/>
         <source>Local time</source>
         <comment>as in &apos;here, versus over there&apos;</comment>
-        <translation>Місцевий час</translation>
+        <translation>உள்ளக நேரம்</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/private/TimeShiftPreviewPage.qml" line="183"/>
         <source>Calculated local time</source>
         <comment>as in &apos;here, versus over there&apos;</comment>
-        <translation>Розрахований місцевий час</translation>
+        <translation>கணக்கிடப்பட்ட உள்ளக நேரம்</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/private/TimeShiftPreviewPage.qml" line="200"/>
         <source>Calculated remote time</source>
         <comment>as in &apos;over there, versus here&apos;</comment>
-        <translation>Розрахований дистанційний час</translation>
+        <translation>கணக்கிடப்பட்ட தொலை நேரம்</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/private/TimeShiftPreviewPage.qml" line="201"/>
         <source>Remote time</source>
         <comment>as in &apos;over there, versus here&apos;</comment>
-        <translation>Віддалений час</translation>
+        <translation>தொலைநிலை நேரம்</translation>
     </message>
 </context>
 <context>
@@ -1434,32 +1423,32 @@
     <message>
         <location filename="../qml/harbour-dashboard.qml" line="38"/>
         <source>d MMM yyyy &apos;(&apos;hh&apos;:&apos;mm&apos;)&apos;</source>
-        <translation>д МММ рррр &apos;(&apos;чч&apos;:&apos;мм&apos;)&apos;</translation>
+        <translation>டி mmm yyyy &apos;(&apos; hh &apos;:&apos; mm &apos;)&apos;</translation>
     </message>
     <message>
         <location filename="../qml/harbour-dashboard.qml" line="40"/>
         <source>ddd d MMM yyyy</source>
-        <translation>ддд д МММ рррр</translation>
+        <translation>ddd டி mmm yyyy</translation>
     </message>
     <message>
         <location filename="../qml/harbour-dashboard.qml" line="39"/>
         <source>hh&apos;:&apos;mm</source>
-        <translation>чч&apos;:&apos;мм</translation>
+        <translation>HH &apos;:&apos; மிமீ</translation>
     </message>
     <message>
         <location filename="../qml/harbour-dashboard.qml" line="404"/>
         <source>A backend database is inaccessible.</source>
-        <translation>Серверна база даних недоступна.</translation>
+        <translation>பின்தளத்தில் தரவுத்தளம் அணுக முடியாதது.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-dashboard.qml" line="426"/>
         <source>Failed to initialize the backend.</source>
-        <translation>Не вдалося ініціалізувати серверну частину.</translation>
+        <translation>பின்தளத்தில் தொடங்குவதில் தோல்வி.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-dashboard.qml" line="358"/>
         <source>An unrecoverable error occurred.</source>
-        <translation>Сталася невиправна помилка.</translation>
+        <translation>மீட்டெடுக்க முடியாத பிழை ஏற்பட்டது.</translation>
     </message>
 </context>
 <context>
@@ -1467,311 +1456,311 @@
     <message>
         <location filename="../qml/js/strings.js" line="5"/>
         <source>clear</source>
-        <translation>ясно</translation>
+        <translation>தெளிவான</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="6"/>
         <source>slightly overcast</source>
-        <translation>злегка хмарно</translation>
+        <translation>சற்று மேகமூட்டமாக</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="7"/>
         <source>heavy cloud formations</source>
-        <translation>важкі хмарні утворення</translation>
+        <translation>கனமான மேகக்கணி வடிவங்கள்</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="8"/>
         <location filename="../qml/js/strings.js" line="69"/>
         <source>overcast</source>
-        <translation>похмуро</translation>
+        <translation>மேகமூட்டமான</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="9"/>
         <location filename="../qml/js/strings.js" line="70"/>
         <source>very cloudy</source>
-        <translation>дуже хмарно</translation>
+        <translation>மிகவும் மேகமூட்டம்</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="10"/>
         <source>overcast, scattered showers</source>
-        <translation>хмарно, місцями зливи</translation>
+        <translation>மேகமூட்டமான, சிதறிய மழை</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="11"/>
         <source>overcast, scattered rain and snow showers</source>
-        <translation>хмарно, місцями дощ зі снігом</translation>
+        <translation>மேகமூட்டமான, சிதறிய மழை மற்றும் பனி மழை</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="12"/>
         <source>overcast, snow showers</source>
-        <translation>хмарно, снігопади</translation>
+        <translation>மேகமூட்டமான, பனி மழை</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="13"/>
         <source>overcast, some showers</source>
-        <translation>хмарно, місцями дощі</translation>
+        <translation>மேகமூட்டமான, சில மழை</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="14"/>
         <source>overcast, some sleet</source>
-        <translation>хмарно, місцями мокрий сніг</translation>
+        <translation>மேகமூட்டமான, சில பனிச்சறுக்கு</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="15"/>
         <source>overcast, some rain and snow showers</source>
-        <translation>Хмарно, місцями дощ зі снігом</translation>
+        <translation>மேகமூட்டமான, சில மழை மற்றும் பனி மழை</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="16"/>
         <location filename="../qml/js/strings.js" line="25"/>
         <source>overcast, some snow showers</source>
-        <translation>хмарно, місцями снігопади</translation>
+        <translation>மேகமூட்டமான, சில பனி மழை</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="17"/>
         <source>slightly stormy</source>
-        <translation>злегка штормовий</translation>
+        <translation>சற்று புயல்</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="18"/>
         <source>storms</source>
-        <translation>шторми</translation>
+        <translation>புயல்கள்</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="19"/>
         <location filename="../qml/js/strings.js" line="44"/>
         <source>very cloudy, light rain</source>
-        <translation>дуже хмарно, дрібний дощ</translation>
+        <translation>மிகவும் மேகமூட்டமான, லேசான மழை</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="20"/>
         <source>very cloudy, light rain and snow  showers</source>
-        <translation>дуже хмарно, невеликий дощ зі снігом</translation>
+        <translation>மிகவும் மேகமூட்டமான, லேசான மழை மற்றும் பனி மழை</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="21"/>
         <source>very cloudy, light snowfall</source>
-        <translation>дуже хмарно, невеликий сніг</translation>
+        <translation>மிகவும் மேகமூட்டமான, லேசான பனிப்பொழிவு</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="22"/>
         <location filename="../qml/js/strings.js" line="47"/>
         <source>very cloudy, intermittent rain</source>
-        <translation>дуже хмарно, короткочасний дощ</translation>
+        <translation>மிகவும் மேகமூட்டமான, இடைப்பட்ட மழை</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="23"/>
         <source>very cloudy, intermittant mixed rain and snowfall</source>
-        <translation>дуже хмарно, періодично змішаний дощ і снігопад</translation>
+        <translation>மிகவும் மேகமூட்டமான, இடைப்பட்ட கலப்பு மழை மற்றும் பனிப்பொழிவு</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="24"/>
         <source>very cloudy, intermittent snowfall</source>
-        <translation>дуже хмарно, короткочасний снігопад</translation>
+        <translation>மிகவும் மேகமூட்டமான, இடைப்பட்ட பனிப்பொழிவு</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="26"/>
         <source>very cloudy,  constant rain</source>
-        <translation>дуже хмарно, постійний дощ</translation>
+        <translation>மிகவும் மேகமூட்டமான, நிலையான மழை</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="27"/>
         <source>very cloudy, frequent rain and snowfall</source>
-        <translation>дуже хмарно, часті дощі та снігопади</translation>
+        <translation>மிகவும் மேகமூட்டமான, அடிக்கடி மழை மற்றும் பனிப்பொழிவு</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="28"/>
         <source>very cloudy, heavy snowfall</source>
-        <translation>дуже хмарно, сильний снігопад</translation>
+        <translation>மிகவும் மேகமூட்டமான, கனமான பனிப்பொழிவு</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="29"/>
         <source>very cloudy, slightly stormy</source>
-        <translation>дуже хмарно, невелика гроза</translation>
+        <translation>மிகவும் மேகமூட்டமான, சற்று புயல்</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="30"/>
         <source>very cloudy, stormy</source>
-        <translation>дуже хмарно, гроза</translation>
+        <translation>மிகவும் மேகமூட்டமான, புயல்</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="31"/>
         <source>very cloudy, storms</source>
-        <translation>дуже хмарно, грози</translation>
+        <translation>மிகவும் மேகமூட்டமான, புயல்கள்</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="32"/>
         <source>high cloud</source>
-        <translation>висока хмарність</translation>
+        <translation>உயர் முகில்</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="33"/>
         <location filename="../qml/js/strings.js" line="58"/>
         <source>stratus</source>
-        <translation>стратус</translation>
+        <translation>ச்ட்ராடச்</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="34"/>
         <location filename="../qml/js/strings.js" line="59"/>
         <source>fog</source>
-        <translation>туман</translation>
+        <translation>மூடுபனி</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="35"/>
         <source>slightly overcast, scattered showers</source>
-        <translation>невелика хмарність, місцями дощ</translation>
+        <translation>சற்று மேகமூட்டமான, சிதறிய மழை</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="36"/>
         <source>sunny intervals, chance of thunderstorms</source>
-        <translation>сонячні проміжки часу, можлива гроза</translation>
+        <translation>சன்னி இடைவெளிகள், இடியுடன் கூடிய வாய்ப்பு</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="37"/>
         <source>slightly overcast, scattered snowfall</source>
-        <translation>невелика хмарність, місцями снігопад</translation>
+        <translation>சற்று மேகமூட்டமான, சிதறிய பனிப்பொழிவு</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="38"/>
         <source>slightly overcast, rain and snow showers</source>
-        <translation>невелика хмарність, дощ зі снігом</translation>
+        <translation>சற்று மேகமூட்டமான, மழை மற்றும் பனி மழை</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="39"/>
         <source>slightly overcast, some showers</source>
-        <translation>невелика хмарність, місцями дощі</translation>
+        <translation>சற்று மேகமூட்டமாக, சில மழை</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="40"/>
         <location filename="../qml/js/strings.js" line="41"/>
         <source>overcast, frequent snow showers</source>
-        <translation>похмуро, часті снігопади</translation>
+        <translation>மேகமூட்டமான, அடிக்கடி பனி மழை</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="42"/>
         <location filename="../qml/js/strings.js" line="67"/>
         <source>overcast and dry</source>
-        <translation>похмуро і сухо</translation>
+        <translation>மேகமூட்டம் மற்றும் உலர்ந்த</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="43"/>
         <source>sunny intervals, possible thunderstorms</source>
-        <translation>сонячна проміжок часу, можливі грози</translation>
+        <translation>சன்னி இடைவெளிகள், சாத்தியமான இடியுடன் கூடிய மழை</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="45"/>
         <source>very cloudy, light sleet</source>
-        <translation>дуже хмарно, невеликий мокрий сніг</translation>
+        <translation>மிகவும் மேகமூட்டமான, ஒளி பனிப்பொழிவு</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="46"/>
         <source>very cloudy, light snow showers</source>
-        <translation>Дуже хмарно, невеликий сніг</translation>
+        <translation>மிகவும் மேகமூட்டமான, லேசான பனி மழை</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="48"/>
         <source>very cloudy, intermittent sleet</source>
-        <translation>дуже хмарно, місцями мокрий сніг</translation>
+        <translation>மிகவும் மேகமூட்டமான, இடைப்பட்ட ஆலங்கட்டி மழை</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="49"/>
         <source>very cloudy, intermittent snow</source>
-        <translation>Дуже хмарно, невеликий снігопад</translation>
+        <translation>மிகவும் மேகமூட்டமான, இடைப்பட்ட பனி</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="50"/>
         <source>sunny</source>
-        <translation>сонячно</translation>
+        <translation>சன்னி</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="51"/>
         <source>very overcast with rain</source>
-        <translation>дуже похмуро з дощем</translation>
+        <translation>மழையுடன் மிகவும் மேகமூட்டமாக</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="52"/>
         <source>very overcast with frequent sleet</source>
-        <translation>дуже похмуро з частим мокрим снігом</translation>
+        <translation>அடிக்கடி பனிப்பொழிவு மூலம் மிகவும் மேகமூட்டமானது</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="53"/>
         <source>very overcast with heavy snow</source>
-        <translation>дуже похмуро, сильний сніг</translation>
+        <translation>கனமான பனியால் மிகவும் மேகமூட்டமாக</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="54"/>
         <source>very overcast, slight chance of storms</source>
-        <translation>дуже похмуро, невелика ймовірність шторму</translation>
+        <translation>மிகவும் மேகமூட்டமான, புயல்களுக்கு லேசான வாய்ப்பு</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="55"/>
         <source>very overcast with storms</source>
-        <translation>дуже похмуро з штормами</translation>
+        <translation>புயல்களால் மிகவும் மேகமூட்டமாக</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="56"/>
         <source>very cloudy, very stormy</source>
-        <translation>дуже хмарно, дуже штормово</translation>
+        <translation>மிகவும் மேகமூட்டமான, மிகவும் புயல்</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="57"/>
         <source>high clouds</source>
-        <translation>високі хмари</translation>
+        <translation>உயர் மேகங்கள்</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="60"/>
         <source>sunny intervals, scattered showers</source>
-        <translation>сонячні проміжки часу, місцями дощі</translation>
+        <translation>சன்னி இடைவெளிகள், சிதறிய மழை</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="61"/>
         <source>mostly sunny, some clouds</source>
-        <translation>переважно сонячно, невелика хмарність</translation>
+        <translation>பெரும்பாலும் வெயில், சில மேகங்கள்</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="62"/>
         <source>sunny intervals, scattered snow showers</source>
-        <translation>сонячні проміжки часу, місцями сніг</translation>
+        <translation>சன்னி இடைவெளிகள், சிதறிய பனி மழை</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="63"/>
         <source>sunny intervals, scattered sleet</source>
-        <translation>сонячно, місцями мокрий сніг</translation>
+        <translation>சன்னி இடைவெளிகள், சிதறிய ச்லீட்</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="64"/>
         <source>sunny intervals, some showers</source>
-        <translation>сонячні проміжки часу, місцями зливи</translation>
+        <translation>சன்னி இடைவெளிகள், சில மழை</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="65"/>
         <source>short sunny intervals, frequent rain</source>
-        <translation>короткі сонячні проміжки, часті дощі</translation>
+        <translation>குறுகிய சன்னி இடைவெளிகள், அடிக்கடி மழை</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="66"/>
         <source>short sunny intervals, frequent snowfalls</source>
-        <translation>короткі сонячні проміжки, часті снігопади</translation>
+        <translation>குறுகிய சன்னி இடைவெளிகள், அடிக்கடி பனிப்பொழிவு</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="68"/>
         <source>partly sunny, thick passing clouds</source>
-        <translation>мінлива хмарність</translation>
+        <translation>ஓரளவு வெயில், அடர்த்தியான கடந்து செல்லும் மேகங்கள்</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="71"/>
         <source>sunny intervals,  isolated showers</source>
-        <translation>сонячні проміжки часу, окремі дощі</translation>
+        <translation>சன்னி இடைவெளிகள், தனிமைப்படுத்தப்பட்ட மழை</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="72"/>
         <source>sunny intervals, isolated sleet</source>
-        <translation>сонячні проміжки часу, поодинокі мокрий сніг</translation>
+        <translation>சன்னி இடைவெளிகள், தனிமைப்படுத்தப்பட்ட ச்லீட்</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="73"/>
         <source>sunny intervals, snow showers</source>
-        <translation>сонячні проміжки часу, снігопади</translation>
+        <translation>சன்னி இடைவெளிகள், பனி மழை</translation>
     </message>
 </context>
 </TS>
