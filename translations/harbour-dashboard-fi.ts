@@ -76,26 +76,46 @@
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="152"/>
+        <source>Tamil</source>
+        <translation>Tamili</translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/AboutPage.qml" line="158"/>
         <source>Spanish</source>
         <translation>Espanja</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="158"/>
+        <location filename="../qml/pages/AboutPage.qml" line="165"/>
+        <source>Italian</source>
+        <translation>Italia</translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/AboutPage.qml" line="171"/>
         <source>German</source>
         <translation>Saksa</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="164"/>
+        <location filename="../qml/pages/AboutPage.qml" line="177"/>
         <source>French</source>
         <translation>Ranska</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="170"/>
+        <location filename="../qml/pages/AboutPage.qml" line="184"/>
+        <source>Finnish</source>
+        <translation>Suomi</translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/AboutPage.qml" line="190"/>
+        <source>Estonian</source>
+        <translation>Viro</translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/AboutPage.qml" line="196"/>
         <source>English</source>
         <translation>Englanti</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="176"/>
+        <location filename="../qml/pages/AboutPage.qml" line="202"/>
         <source>Chinese</source>
         <translation>Kiina</translation>
     </message>
@@ -471,7 +491,7 @@
     <message>
         <location filename="../qml/pages/MainPage.qml" line="40"/>
         <source>Manage tiles</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Hallinnoi laattoja</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="82"/>
@@ -599,37 +619,37 @@
     <message>
         <location filename="../qml/MySupportDialog.qml" line="14"/>
         <source>Donate on Liberapay</source>
-        <translation type="unfinished"></translation>
+        <translation>Lahjoita Liberapayssä</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="15"/>
         <source>Pay the amount of a cup of coffee, a slice of pizza, or a ticket to the theater.</source>
-        <translation type="unfinished"></translation>
+        <translation>Maksa kahvikupin, pizzasiivun tai elokuvalipun verran.</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="22"/>
         <source>Translate on Weblate</source>
-        <translation type="unfinished"></translation>
+        <translation>Käännä Weblatessa</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="23"/>
         <source>Help with translating this app in as many languages as possible.</source>
-        <translation type="unfinished"></translation>
+        <translation>Auta tämän sovelluksen kääntämisessä mahdollisimman monelle kielelle.</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="30"/>
         <source>Develop on Github</source>
-        <translation type="unfinished"></translation>
+        <translation>Kehitä GitHubissa</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="31"/>
         <source>Support with maintenance and packaging, write code, or provide valuable bug reports.</source>
-        <translation type="unfinished"></translation>
+        <translation>Auta ylläpidossa ja paketoinnissa, kirjoita koodia tai jaa arvokkaita vikaraportteja.</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="37"/>
         <source>Why should you care?</source>
-        <translation type="unfinished"></translation>
+        <translation>Miksi välittäisit?</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="40"/>
@@ -644,17 +664,17 @@
     <message>
         <location filename="../qml/MySupportDialog.qml" line="56"/>
         <source>Why donate?</source>
-        <translation type="unfinished"></translation>
+        <translation>Miksi lahjoittaa?</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="59"/>
         <source>Jolla raised prices and is trying to force developers (who work for free) to pay rent for Sailfish.</source>
-        <translation type="unfinished"></translation>
+        <translation>Jolla korotti hintojaan ja yrittää saada kehittäjät (jotka työskentelevät palkatta) maksamaan vuokraa Sailfishistä.</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="64"/>
         <source>If you can afford it, donating is the easiest way to ensure that I can continue working on apps for Sailfish. Any amount is appreciated, be it a cup of coffee, a slice of pizza, or more.</source>
-        <translation type="unfinished"></translation>
+        <translation>Jos sinulla on mahdollisuus lahjoittaa, se on helpoin tapa varmistaa, että voin jatkaa sovellusten kehittämistä Sailfishille. Mikä tahansa summa on tervetullut, oli se sitten kupillinen kahvia, pala pizzaa tai enemmän.</translation>
     </message>
 </context>
 <context>
@@ -711,7 +731,7 @@
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="109"/>
         <location filename="../qml/modules/Opal/About/private/ChangelogPage.qml" line="16"/>
         <source>Changelog</source>
-        <translation type="unfinished"></translation>
+        <translation>Muutosloki</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="112"/>
@@ -811,17 +831,17 @@
     <message>
         <location filename="../qml/modules/Opal/About/ChangelogNews.qml" line="61"/>
         <source>News</source>
-        <translation type="unfinished"></translation>
+        <translation>Uutiset</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/ChangelogNews.qml" line="62"/>
         <source>Changes since version %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Muutoksia versiosta %1</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/LicenseListPart.qml" line="120"/>
         <source>Please refer to &lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Katso lisätietoja &lt;a href=&quot;”%1”&quot;&gt;%1&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
@@ -857,7 +877,7 @@
     <message>
         <location filename="../qml/modules/Opal/SupportMe/private/LinkHandler/private/ExternalUrlPage.qml" line="32"/>
         <source>Open externally</source>
-        <translation type="unfinished"></translation>
+        <translation>Avaa ulkoisessa sovelluksessa</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/SupportMe/private/LinkHandler/private/ExternalUrlPage.qml" line="36"/>
@@ -898,7 +918,7 @@
     <message>
         <location filename="../qml/pages/OverviewPage.qml" line="91"/>
         <source>Refresh</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Virkistä</translation>
     </message>
     <message>
         <location filename="../qml/pages/OverviewPage.qml" line="86"/>
@@ -1205,7 +1225,7 @@
         <location filename="../qml/components/SunTimesItem.qml" line="18"/>
         <source>%1: %2</source>
         <comment>sun time title (1) with description (2)</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1: %2</translation>
     </message>
 </context>
 <context>
@@ -1213,27 +1233,27 @@
     <message>
         <location filename="../qml/modules/Opal/SupportMe/SupportDialog.qml" line="9"/>
         <source>Hi there!</source>
-        <translation type="unfinished"></translation>
+        <translation>Hei siellä!</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/SupportMe/SupportDialog.qml" line="10"/>
         <source>Thank you for using my little app! Maybe you can contribute back?</source>
-        <translation type="unfinished"></translation>
+        <translation>Kiitos, että kokeilit sovellustani! Ehkä voisit tukea projektia?</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/SupportMe/SupportDialog.qml" line="11"/>
         <source>Thank you for your support!</source>
-        <translation type="unfinished"></translation>
+        <translation>Kiitos tuestasi!</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/SupportMe/SupportDialog.qml" line="55"/>
         <source>Remind me later</source>
-        <translation type="unfinished"></translation>
+        <translation>Muistuta myöhemmin</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/SupportMe/SupportDialog.qml" line="57"/>
         <source>Don&apos;t ask me again</source>
-        <translation type="unfinished"></translation>
+        <translation>Älä kysy uudelleen</translation>
     </message>
 </context>
 <context>
@@ -1266,7 +1286,7 @@
     <message>
         <location filename="../qml/pages/TablePage.qml" line="78"/>
         <source>Wind</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tuuli</translation>
     </message>
 </context>
 <context>
@@ -1332,46 +1352,46 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/tiles/day_times/Tile.qml" line="134"/>
-        <location filename="../qml/tiles/day_times/Tile.qml" line="180"/>
+        <location filename="../qml/tiles/day_times/Tile.qml" line="136"/>
+        <location filename="../qml/tiles/day_times/Tile.qml" line="182"/>
         <source>dawn</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/tiles/day_times/Tile.qml" line="192"/>
+        <location filename="../qml/tiles/day_times/Tile.qml" line="194"/>
         <source>noon</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/tiles/day_times/Tile.qml" line="198"/>
+        <location filename="../qml/tiles/day_times/Tile.qml" line="200"/>
         <source>golden</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/tiles/day_times/Tile.qml" line="152"/>
-        <location filename="../qml/tiles/day_times/Tile.qml" line="220"/>
+        <location filename="../qml/tiles/day_times/Tile.qml" line="154"/>
+        <location filename="../qml/tiles/day_times/Tile.qml" line="222"/>
         <source>dusk</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/tiles/day_times/Tile.qml" line="146"/>
-        <location filename="../qml/tiles/day_times/Tile.qml" line="226"/>
+        <location filename="../qml/tiles/day_times/Tile.qml" line="148"/>
+        <location filename="../qml/tiles/day_times/Tile.qml" line="228"/>
         <source>sunset</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/tiles/day_times/Tile.qml" line="232"/>
+        <location filename="../qml/tiles/day_times/Tile.qml" line="234"/>
         <source>zenith</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/tiles/day_times/Tile.qml" line="239"/>
+        <location filename="../qml/tiles/day_times/Tile.qml" line="241"/>
         <source>hour</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/tiles/day_times/Tile.qml" line="140"/>
-        <location filename="../qml/tiles/day_times/Tile.qml" line="186"/>
+        <location filename="../qml/tiles/day_times/Tile.qml" line="142"/>
+        <location filename="../qml/tiles/day_times/Tile.qml" line="188"/>
         <source>sunrise</source>
         <translation>Auringonnousu</translation>
     </message>

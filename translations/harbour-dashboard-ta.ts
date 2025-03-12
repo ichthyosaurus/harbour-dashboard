@@ -76,26 +76,46 @@
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="152"/>
+        <source>Tamil</source>
+        <translation>தமிழ்</translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/AboutPage.qml" line="158"/>
         <source>Spanish</source>
         <translation>ச்பானிச்</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="158"/>
+        <location filename="../qml/pages/AboutPage.qml" line="165"/>
+        <source>Italian</source>
+        <translation>இத்தாலிய</translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/AboutPage.qml" line="171"/>
         <source>German</source>
         <translation>செர்மன்</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="164"/>
+        <location filename="../qml/pages/AboutPage.qml" line="177"/>
         <source>French</source>
         <translation>பிரஞ்சு</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="170"/>
+        <location filename="../qml/pages/AboutPage.qml" line="184"/>
+        <source>Finnish</source>
+        <translation>பின்னிச்</translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/AboutPage.qml" line="190"/>
+        <source>Estonian</source>
+        <translation>எச்டோனிய</translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/AboutPage.qml" line="196"/>
         <source>English</source>
         <translation>ஆங்கிலம்</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="176"/>
+        <location filename="../qml/pages/AboutPage.qml" line="202"/>
         <source>Chinese</source>
         <translation>சீன</translation>
     </message>
@@ -1332,46 +1352,46 @@
         <translation>வானிலை (yr.no)</translation>
     </message>
     <message>
-        <location filename="../qml/tiles/day_times/Tile.qml" line="134"/>
-        <location filename="../qml/tiles/day_times/Tile.qml" line="180"/>
+        <location filename="../qml/tiles/day_times/Tile.qml" line="136"/>
+        <location filename="../qml/tiles/day_times/Tile.qml" line="182"/>
         <source>dawn</source>
         <translation>விடியல்</translation>
     </message>
     <message>
-        <location filename="../qml/tiles/day_times/Tile.qml" line="192"/>
+        <location filename="../qml/tiles/day_times/Tile.qml" line="194"/>
         <source>noon</source>
         <translation>நூன்</translation>
     </message>
     <message>
-        <location filename="../qml/tiles/day_times/Tile.qml" line="198"/>
+        <location filename="../qml/tiles/day_times/Tile.qml" line="200"/>
         <source>golden</source>
         <translation>கோல்டன்</translation>
     </message>
     <message>
-        <location filename="../qml/tiles/day_times/Tile.qml" line="152"/>
-        <location filename="../qml/tiles/day_times/Tile.qml" line="220"/>
+        <location filename="../qml/tiles/day_times/Tile.qml" line="154"/>
+        <location filename="../qml/tiles/day_times/Tile.qml" line="222"/>
         <source>dusk</source>
         <translation>அந்தி</translation>
     </message>
     <message>
-        <location filename="../qml/tiles/day_times/Tile.qml" line="146"/>
-        <location filename="../qml/tiles/day_times/Tile.qml" line="226"/>
+        <location filename="../qml/tiles/day_times/Tile.qml" line="148"/>
+        <location filename="../qml/tiles/day_times/Tile.qml" line="228"/>
         <source>sunset</source>
         <translation>சூரிய மறைவு</translation>
     </message>
     <message>
-        <location filename="../qml/tiles/day_times/Tile.qml" line="232"/>
+        <location filename="../qml/tiles/day_times/Tile.qml" line="234"/>
         <source>zenith</source>
         <translation>செனித்</translation>
     </message>
     <message>
-        <location filename="../qml/tiles/day_times/Tile.qml" line="239"/>
+        <location filename="../qml/tiles/day_times/Tile.qml" line="241"/>
         <source>hour</source>
         <translation>மணி</translation>
     </message>
     <message>
-        <location filename="../qml/tiles/day_times/Tile.qml" line="140"/>
-        <location filename="../qml/tiles/day_times/Tile.qml" line="186"/>
+        <location filename="../qml/tiles/day_times/Tile.qml" line="142"/>
+        <location filename="../qml/tiles/day_times/Tile.qml" line="188"/>
         <source>sunrise</source>
         <translation>சூரிய தோன்றுகை</translation>
     </message>

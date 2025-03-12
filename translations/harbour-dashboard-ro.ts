@@ -76,26 +76,46 @@
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="152"/>
+        <source>Tamil</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/AboutPage.qml" line="158"/>
         <source>Spanish</source>
         <translation>Spaniolă</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="158"/>
+        <location filename="../qml/pages/AboutPage.qml" line="165"/>
+        <source>Italian</source>
+        <translation>Italiană</translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/AboutPage.qml" line="171"/>
         <source>German</source>
         <translation>Germană</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="164"/>
+        <location filename="../qml/pages/AboutPage.qml" line="177"/>
         <source>French</source>
         <translation>Franceză</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="170"/>
+        <location filename="../qml/pages/AboutPage.qml" line="184"/>
+        <source>Finnish</source>
+        <translation>Finlandeză</translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/AboutPage.qml" line="190"/>
+        <source>Estonian</source>
+        <translation>Estoniană</translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/AboutPage.qml" line="196"/>
         <source>English</source>
         <translation>Engleză</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="176"/>
+        <location filename="../qml/pages/AboutPage.qml" line="202"/>
         <source>Chinese</source>
         <translation>Chineză</translation>
     </message>
@@ -440,7 +460,7 @@
     <message>
         <location filename="../qml/modules/Opal/About/private/LicenseListPart.qml" line="119"/>
         <source>License text</source>
-        <translation type="unfinished"></translation>
+        <translation>licenta textului</translation>
     </message>
 </context>
 <context>
@@ -466,7 +486,7 @@
     <message>
         <location filename="../qml/pages/MainPage.qml" line="34"/>
         <source>About</source>
-        <translation type="unfinished"></translation>
+        <translation>despre</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="48"/>
@@ -644,22 +664,22 @@
     <message>
         <location filename="../qml/MySupportDialog.qml" line="46"/>
         <source>I develop Free Software because I am convinced that it is the ethical thing to do - and it is a fun hobby. However, developing software takes a lot of time and effort. As Sailfish and living in general costs money, I need your support to be able to spend time on non-paying projects like this.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dezvolt Software Liber pentru că sunt convins că este lucrul etic de făcut - și este un hobby distractiv. Cu toate acestea, dezvoltarea software-ului necesită mult timp și efort. Deoarece Sailfish și viața în general costă bani, am nevoie de sprijinul tău pentru a putea petrece timp în proiecte neplătitoare ca acesta.</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="56"/>
         <source>Why donate?</source>
-        <translation type="unfinished"></translation>
+        <translation>De ce sa donezi?</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="59"/>
         <source>Jolla raised prices and is trying to force developers (who work for free) to pay rent for Sailfish.</source>
-        <translation type="unfinished"></translation>
+        <translation>Jolla a crescut prețurile și încearcă să forțeze dezvoltatorii (care lucrează gratuit) să plătească chirie pentru Sailfish.</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="64"/>
         <source>If you can afford it, donating is the easiest way to ensure that I can continue working on apps for Sailfish. Any amount is appreciated, be it a cup of coffee, a slice of pizza, or more.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dacă vă puteți permite, donarea este cea mai simplă modalitate de a vă asigura că pot continua să lucrez la aplicații pentru Sailfish. Orice cantitate este apreciată, fie că este o ceașcă de cafea, o felie de pizza sau mai mult.</translation>
     </message>
 </context>
 <context>
@@ -685,12 +705,12 @@
     <message>
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="56"/>
         <source>About</source>
-        <translation type="unfinished"></translation>
+        <translation>despre</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="85"/>
         <source>Version %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Versiune%1</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="101"/>
@@ -702,7 +722,7 @@
     <message>
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="104"/>
         <source>show contributors</source>
-        <translation type="unfinished"></translation>
+        <translation>arata contributori</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="106"/>
@@ -710,13 +730,13 @@
         <location filename="../qml/modules/Opal/About/private/ContributorsAttributionRepeater.qml" line="24"/>
         <location filename="../qml/modules/Opal/About/private/LicenseListPart.qml" line="47"/>
         <source>Homepage</source>
-        <translation type="unfinished"></translation>
+        <translation>Pagina principala</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="109"/>
         <location filename="../qml/modules/Opal/About/private/ChangelogPage.qml" line="16"/>
         <source>Changelog</source>
-        <translation type="unfinished"></translation>
+        <translation>Jurnalul modificărilor</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="112"/>
@@ -729,106 +749,106 @@
         <location filename="../qml/modules/Opal/About/private/ContributorsAttributionRepeater.qml" line="25"/>
         <location filename="../qml/modules/Opal/About/private/LicenseListPart.qml" line="50"/>
         <source>Source Code</source>
-        <translation type="unfinished"></translation>
+        <translation>codul sursa</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="124"/>
         <source>Donations</source>
-        <translation type="unfinished"></translation>
+        <translation>Dontatii</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="130"/>
         <source>License</source>
-        <translation type="unfinished"></translation>
+        <translation>Licenta</translation>
     </message>
     <message numerus="yes">
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="135"/>
         <source>show license(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>arata licenta</numerusform>
+            <numerusform>arata licente</numerusform>
+            <numerusform>arata licente</numerusform>
         </translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/InfoSection.qml" line="15"/>
         <source>show details</source>
-        <translation type="unfinished"></translation>
+        <translation>arata detalii</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/ContributorsPage.qml" line="23"/>
         <source>Contributors</source>
-        <translation type="unfinished"></translation>
+        <translation>contributori</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/ContributorsPage.qml" line="39"/>
         <source>Acknowledgements</source>
-        <translation type="unfinished"></translation>
+        <translation>Realizari</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/ContributorsAttributionRepeater.qml" line="11"/>
         <source>Thank you!</source>
-        <translation type="unfinished"></translation>
+        <translation>Multumesc!</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/ContributorsAttributionRepeater.qml" line="15"/>
         <location filename="../qml/modules/Opal/About/private/LicensePage.qml" line="34"/>
         <source>Details</source>
-        <translation type="unfinished"></translation>
+        <translation>Detalii</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/ExternalUrlPage.qml" line="15"/>
         <source>External Link</source>
-        <translation type="unfinished"></translation>
+        <translation>LInk extern</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/ExternalUrlPage.qml" line="32"/>
         <source>Open in browser</source>
-        <translation type="unfinished"></translation>
+        <translation>Deschide in browser</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/ExternalUrlPage.qml" line="36"/>
         <source>Copied to clipboard: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiat in clipboard%1</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/ExternalUrlPage.qml" line="41"/>
         <source>Copy to clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiaza in clipboard</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/LicensePage.qml" line="28"/>
         <source>Download license texts</source>
-        <translation type="unfinished"></translation>
+        <translation>Descarca textele pentru licenta</translation>
     </message>
     <message numerus="yes">
         <location filename="../qml/modules/Opal/About/private/LicensePage.qml" line="34"/>
         <source>License(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>licență</numerusform>
+            <numerusform>licențe</numerusform>
+            <numerusform>licențe</numerusform>
         </translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/LicensePage.qml" line="44"/>
         <source>Note: please check the source code for most accurate information.</source>
-        <translation type="unfinished"></translation>
+        <translation>Notă: vă rugăm să verificați codul sursă pentru informațiile cele mai exacte.</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/ChangelogNews.qml" line="61"/>
         <source>News</source>
-        <translation type="unfinished"></translation>
+        <translation>Noutati</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/ChangelogNews.qml" line="62"/>
         <source>Changes since version %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Modificări de la versiunea %1</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/LicenseListPart.qml" line="120"/>
         <source>Please refer to &lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Consultați &lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
@@ -836,17 +856,17 @@
     <message>
         <location filename="../qml/modules/Opal/About/private/DonationsGroup.qml" line="7"/>
         <source>If you want to support my work, you can buy me a cup of coffee.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dacă vrei să-mi susții munca, poți să-mi cumperi o ceașcă de cafea.</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/DonationsGroup.qml" line="8"/>
         <source>You can support this project by contributing, or by donating using any of these services.</source>
-        <translation type="unfinished"></translation>
+        <translation>Puteți sprijini acest proiect contribuind sau donând folosind oricare dintre aceste servicii.</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/DonationsGroup.qml" line="9"/>
         <source>Your contributions to translations or code would be most welcome.</source>
-        <translation type="unfinished"></translation>
+        <translation>Contribuțiile tale la traduceri sau cod ar fi binevenite.</translation>
     </message>
 </context>
 <context>
@@ -854,27 +874,27 @@
     <message>
         <location filename="../qml/modules/Opal/SupportMe/private/LinkHandler/private/ExternalUrlPage.qml" line="15"/>
         <source>External Link</source>
-        <translation type="unfinished"></translation>
+        <translation>LInk extern</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/SupportMe/private/LinkHandler/private/ExternalUrlPage.qml" line="32"/>
         <source>Open in browser</source>
-        <translation type="unfinished"></translation>
+        <translation>Deschide in browser</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/SupportMe/private/LinkHandler/private/ExternalUrlPage.qml" line="32"/>
         <source>Open externally</source>
-        <translation type="unfinished"></translation>
+        <translation>Deschide in mod extern</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/SupportMe/private/LinkHandler/private/ExternalUrlPage.qml" line="36"/>
         <source>Copied to clipboard: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiat in clipboard%1</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/SupportMe/private/LinkHandler/private/ExternalUrlPage.qml" line="41"/>
         <source>Copy to clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiaza in clipboard</translation>
     </message>
 </context>
 <context>
@@ -900,7 +920,7 @@
     <message>
         <location filename="../qml/pages/OverviewPage.qml" line="81"/>
         <source>About</source>
-        <translation type="unfinished"></translation>
+        <translation>despre</translation>
     </message>
     <message>
         <location filename="../qml/pages/OverviewPage.qml" line="91"/>
@@ -1220,27 +1240,27 @@
     <message>
         <location filename="../qml/modules/Opal/SupportMe/SupportDialog.qml" line="9"/>
         <source>Hi there!</source>
-        <translation type="unfinished"></translation>
+        <translation>Salut!</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/SupportMe/SupportDialog.qml" line="10"/>
         <source>Thank you for using my little app! Maybe you can contribute back?</source>
-        <translation type="unfinished"></translation>
+        <translation>Vă mulțumesc că ați folosit micuța mea aplicație! Poate poți contribui înapoi?</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/SupportMe/SupportDialog.qml" line="11"/>
         <source>Thank you for your support!</source>
-        <translation type="unfinished"></translation>
+        <translation>Vă mulțumim pentru susținere!</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/SupportMe/SupportDialog.qml" line="55"/>
         <source>Remind me later</source>
-        <translation type="unfinished"></translation>
+        <translation>Amintește-mi mai târziu</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/SupportMe/SupportDialog.qml" line="57"/>
         <source>Don&apos;t ask me again</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu ma intreba din nou</translation>
     </message>
 </context>
 <context>
@@ -1343,46 +1363,46 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/tiles/day_times/Tile.qml" line="134"/>
-        <location filename="../qml/tiles/day_times/Tile.qml" line="180"/>
+        <location filename="../qml/tiles/day_times/Tile.qml" line="136"/>
+        <location filename="../qml/tiles/day_times/Tile.qml" line="182"/>
         <source>dawn</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/tiles/day_times/Tile.qml" line="192"/>
+        <location filename="../qml/tiles/day_times/Tile.qml" line="194"/>
         <source>noon</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/tiles/day_times/Tile.qml" line="198"/>
+        <location filename="../qml/tiles/day_times/Tile.qml" line="200"/>
         <source>golden</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/tiles/day_times/Tile.qml" line="152"/>
-        <location filename="../qml/tiles/day_times/Tile.qml" line="220"/>
+        <location filename="../qml/tiles/day_times/Tile.qml" line="154"/>
+        <location filename="../qml/tiles/day_times/Tile.qml" line="222"/>
         <source>dusk</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/tiles/day_times/Tile.qml" line="146"/>
-        <location filename="../qml/tiles/day_times/Tile.qml" line="226"/>
+        <location filename="../qml/tiles/day_times/Tile.qml" line="148"/>
+        <location filename="../qml/tiles/day_times/Tile.qml" line="228"/>
         <source>sunset</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/tiles/day_times/Tile.qml" line="232"/>
+        <location filename="../qml/tiles/day_times/Tile.qml" line="234"/>
         <source>zenith</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/tiles/day_times/Tile.qml" line="239"/>
+        <location filename="../qml/tiles/day_times/Tile.qml" line="241"/>
         <source>hour</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/tiles/day_times/Tile.qml" line="140"/>
-        <location filename="../qml/tiles/day_times/Tile.qml" line="186"/>
+        <location filename="../qml/tiles/day_times/Tile.qml" line="142"/>
+        <location filename="../qml/tiles/day_times/Tile.qml" line="188"/>
         <source>sunrise</source>
         <translation type="unfinished"></translation>
     </message>
