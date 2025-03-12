@@ -27,6 +27,8 @@ ForecastTileBase {
     allowConfig: true
     allowRefresh: false
 
+    // TODO update on next day if open during the night
+
     onSettingsChanged: {
         var data = {
             'latitude': settings['latitude'],
