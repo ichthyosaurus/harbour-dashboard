@@ -44,7 +44,7 @@
         <location filename="../qml/pages/AboutPage.qml" line="90"/>
         <location filename="../qml/pages/AboutPage.qml" line="138"/>
         <source>Weather icons</source>
-        <translation type="unfinished"></translation>
+        <translation>Ikony pogody</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="96"/>
@@ -146,7 +146,7 @@
     <message>
         <location filename="../qml/components/DaySummaryItem.qml" line="95"/>
         <source>Today</source>
-        <translation type="unfinished"></translation>
+        <translation>Dziś</translation>
     </message>
 </context>
 <context>
@@ -180,7 +180,7 @@
     <message>
         <location filename="../qml/tiles/clock/Details.qml" line="58"/>
         <source>time</source>
-        <translation type="unfinished"></translation>
+        <translation>czas</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Details.qml" line="115"/>
@@ -240,12 +240,12 @@
     <message>
         <location filename="../qml/modules/Opal/SupportMe/DetailsDrawer.qml" line="53"/>
         <source>show less</source>
-        <translation type="unfinished"></translation>
+        <translation>pokaż mniej</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/SupportMe/DetailsDrawer.qml" line="53"/>
         <source>show more</source>
-        <translation type="unfinished"></translation>
+        <translation>pokaż więcej</translation>
     </message>
 </context>
 <context>
@@ -253,7 +253,7 @@
     <message>
         <location filename="../qml/tiles/base/DetailsPageBase.qml" line="80"/>
         <source>Configure</source>
-        <translation type="unfinished"></translation>
+        <translation>Skonfiguruj</translation>
     </message>
     <message>
         <location filename="../qml/tiles/base/DetailsPageBase.qml" line="86"/>
@@ -267,7 +267,7 @@
         <location filename="../qml/pages/FatalErrorPage.qml" line="15"/>
         <source>Error</source>
         <comment>fatal error message page title</comment>
-        <translation type="unfinished"></translation>
+        <translation>Błąd</translation>
     </message>
     <message>
         <location filename="../qml/pages/FatalErrorPage.qml" line="18"/>
@@ -281,7 +281,7 @@
     <message>
         <location filename="../qml/components/ForecastGraphItem.qml" line="114"/>
         <source>Temperature</source>
-        <translation type="unfinished"></translation>
+        <translation>Temperatura</translation>
     </message>
     <message>
         <location filename="../qml/components/ForecastGraphItem.qml" line="121"/>
@@ -291,7 +291,7 @@
     <message>
         <location filename="../qml/components/ForecastGraphItem.qml" line="128"/>
         <source>Wind</source>
-        <translation type="unfinished"></translation>
+        <translation>Wiatr</translation>
     </message>
 </context>
 <context>
@@ -300,7 +300,7 @@
         <location filename="../qml/components/ForecastItem.qml" line="17"/>
         <location filename="../qml/components/ForecastItem.qml" line="302"/>
         <source>Loading...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ładowanie...</translation>
     </message>
     <message>
         <location filename="../qml/components/ForecastItem.qml" line="290"/>
@@ -315,14 +315,14 @@
     <message>
         <location filename="../qml/components/ForecastItem.qml" line="268"/>
         <source>now: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">teraz: </translation>
     </message>
     <message>
         <location filename="../qml/components/ForecastItem.qml" line="262"/>
         <location filename="../qml/components/ForecastItem.qml" line="295"/>
         <location filename="../qml/components/ForecastItem.qml" line="305"/>
         <source>unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>nieznany</translation>
     </message>
     <message>
         <location filename="../qml/components/ForecastItem.qml" line="98"/>
