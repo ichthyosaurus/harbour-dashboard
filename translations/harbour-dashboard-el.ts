@@ -6,45 +6,45 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="131"/>
         <source>Development</source>
-        <translation type="unfinished"></translation>
+        <translation>Ανάπτυξη</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="45"/>
         <source>Everything at a glance.</source>
         <comment>this app&apos;s motto</comment>
-        <translation type="unfinished"></translation>
+        <translation>Όλα με μια ματιά.</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="80"/>
         <source>Swiss meteorological data</source>
-        <translation type="unfinished"></translation>
+        <translation>Μετεωρολογικά δεδομένα για την Ελβετία</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="81"/>
         <location filename="../qml/pages/AboutPage.qml" line="86"/>
         <source>MeteoSwiss</source>
-        <translation type="unfinished"></translation>
+        <translation>MeteoSwiss</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="82"/>
         <source>https://www.meteoswiss.admin.ch/</source>
-        <translation type="unfinished"></translation>
+        <translation>https://www.meteoswiss.admin.ch/</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="85"/>
         <source>Norwegian meteorological data</source>
-        <translation type="unfinished"></translation>
+        <translation>Μετεωρολογικά δεδομένα για τη Νορβηγία</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="87"/>
         <source>https://yr.no/</source>
-        <translation type="unfinished"></translation>
+        <translation>https://yr.no/</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="90"/>
         <location filename="../qml/pages/AboutPage.qml" line="138"/>
         <source>Weather icons</source>
-        <translation type="unfinished"></translation>
+        <translation>Εικονίδια καιρού</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="96"/>
@@ -57,22 +57,22 @@
         <location filename="../qml/pages/AboutPage.qml" line="108"/>
         <source>Coordinates calculator</source>
         <comment>MeteoSwiss uses the Swiss local coordinate system that must be converted to global coordinates</comment>
-        <translation type="unfinished"></translation>
+        <translation>Υπολογισμός συντεταγμένων</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="134"/>
         <source>Programming</source>
-        <translation type="unfinished"></translation>
+        <translation>Προγραμματισμός</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="142"/>
         <source>Weather descriptions</source>
-        <translation type="unfinished"></translation>
+        <translation>Περιγραφές καιρού</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="149"/>
         <source>Translations</source>
-        <translation type="unfinished"></translation>
+        <translation>Μεταφράσεις</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="152"/>
@@ -82,42 +82,42 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="158"/>
         <source>Spanish</source>
-        <translation type="unfinished"></translation>
+        <translation>Ισπανικά</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="165"/>
         <source>Italian</source>
-        <translation type="unfinished"></translation>
+        <translation>Ιταλικά</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="171"/>
         <source>German</source>
-        <translation type="unfinished"></translation>
+        <translation>Γερμανικά</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="177"/>
         <source>French</source>
-        <translation type="unfinished"></translation>
+        <translation>Γαλλικά</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="184"/>
         <source>Finnish</source>
-        <translation type="unfinished"></translation>
+        <translation>Φινλανδικά</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="190"/>
         <source>Estonian</source>
-        <translation type="unfinished"></translation>
+        <translation>Εσθονικά</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="196"/>
         <source>English</source>
-        <translation type="unfinished"></translation>
+        <translation>Αγγλικά</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="202"/>
         <source>Chinese</source>
-        <translation type="unfinished"></translation>
+        <translation>Κινεζικά</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="115"/>
@@ -146,7 +146,7 @@
     <message>
         <location filename="../qml/components/DaySummaryItem.qml" line="95"/>
         <source>Today</source>
-        <translation type="unfinished"></translation>
+        <translation>Σήμερα</translation>
     </message>
 </context>
 <context>
@@ -155,40 +155,40 @@
         <location filename="../qml/tiles/clock/Details.qml" line="49"/>
         <source>%1h behind</source>
         <comment>shortened form of &apos;%1 hour(s) behind local time&apos;</comment>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%1ώ πίσω</numerusform>
+            <numerusform>%1ώ πίσω</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="../qml/tiles/clock/Details.qml" line="52"/>
         <source>%1h ahead</source>
         <comment>shortened form of &apos;%1 hour(s) ahead of local time&apos;</comment>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%1ώ μπροστά</numerusform>
+            <numerusform>%1ώ μπροστά</numerusform>
         </translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Details.qml" line="56"/>
         <location filename="../qml/tiles/clock/Details.qml" line="66"/>
         <source>local time zone</source>
-        <translation type="unfinished"></translation>
+        <translation>τοπική ζώνη ώρας</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Details.qml" line="58"/>
         <source>time</source>
-        <translation type="unfinished"></translation>
+        <translation>ώρα</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Details.qml" line="115"/>
         <source>time zone</source>
-        <translation type="unfinished"></translation>
+        <translation>ζώνη ώρας</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Details.qml" line="126"/>
         <source>local time</source>
-        <translation type="unfinished"></translation>
+        <translation>τοπική ώρα</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Details.qml" line="132"/>
@@ -262,7 +262,7 @@
         <location filename="../qml/pages/FatalErrorPage.qml" line="15"/>
         <source>Error</source>
         <comment>fatal error message page title</comment>
-        <translation type="unfinished"></translation>
+        <translation>Σφάλμα</translation>
     </message>
     <message>
         <location filename="../qml/pages/FatalErrorPage.qml" line="18"/>
@@ -276,7 +276,7 @@
     <message>
         <location filename="../qml/components/ForecastGraphItem.qml" line="114"/>
         <source>Temperature</source>
-        <translation type="unfinished"></translation>
+        <translation>Θερμοκρασία</translation>
     </message>
     <message>
         <location filename="../qml/components/ForecastGraphItem.qml" line="121"/>
@@ -295,7 +295,7 @@
         <location filename="../qml/components/ForecastItem.qml" line="17"/>
         <location filename="../qml/components/ForecastItem.qml" line="302"/>
         <source>Loading...</source>
-        <translation type="unfinished"></translation>
+        <translation>Φόρτωση...</translation>
     </message>
     <message>
         <location filename="../qml/components/ForecastItem.qml" line="290"/>
@@ -323,7 +323,7 @@
         <location filename="../qml/components/ForecastItem.qml" line="98"/>
         <source>%1: %2</source>
         <comment>time (1) with weather description (2)</comment>
-        <translation type="unfinished"></translation>
+        <translation>%1: %2</translation>
     </message>
     <message>
         <location filename="../qml/components/ForecastItem.qml" line="135"/>
@@ -410,7 +410,7 @@
         <location filename="../qml/components/ForecastItem.qml" line="193"/>
         <source>Night</source>
         <comment>use &apos;|&apos; to separate alternative strings of different length</comment>
-        <translation type="unfinished"></translation>
+        <translation>Νύχτα</translation>
     </message>
     <message>
         <location filename="../qml/components/ForecastItem.qml" line="199"/>
@@ -468,7 +468,7 @@
     <message>
         <location filename="../qml/pages/LocationSearchPage.qml" line="54"/>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation>Αναζήτηση</translation>
     </message>
     <message>
         <location filename="../qml/pages/LocationSearchPage.qml" line="32"/>
@@ -525,12 +525,12 @@
     <message>
         <location filename="../qml/pages/MaintenancePage.qml" line="119"/>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Κλείσιμο</translation>
     </message>
     <message>
         <location filename="../qml/pages/MaintenancePage.qml" line="48"/>
         <source>Maintenance</source>
-        <translation type="unfinished"></translation>
+        <translation>Συντήρηση</translation>
     </message>
     <message>
         <location filename="../qml/pages/MaintenancePage.qml" line="134"/>
@@ -1080,33 +1080,33 @@
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="251"/>
         <source>+ %1</source>
-        <translation type="unfinished"></translation>
+        <translation>+ %1</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="108"/>
         <source>Time format</source>
-        <translation type="unfinished"></translation>
+        <translation>Μορφή ώρας</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="261"/>
         <source>Appearance</source>
-        <translation type="unfinished"></translation>
+        <translation>Εμφάνιση</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Settings.qml" line="223"/>
         <location filename="../qml/tiles/weather_mch/Settings.qml" line="235"/>
         <source>Location details</source>
-        <translation type="unfinished"></translation>
+        <translation>Λεπτομέρειες τοποθεσίας</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Settings.qml" line="257"/>
         <source>Latitude</source>
-        <translation type="unfinished"></translation>
+        <translation>Γεωγραφικό πλάτος</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Settings.qml" line="272"/>
         <source>Longitude</source>
-        <translation type="unfinished"></translation>
+        <translation>Γεωγραφικό μήκος</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Settings.qml" line="98"/>
@@ -1145,7 +1145,7 @@
         <location filename="../qml/tiles/day_times/Settings.qml" line="231"/>
         <location filename="../qml/tiles/weather_mch/Settings.qml" line="243"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Όνομα</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Settings.qml" line="232"/>
@@ -1157,7 +1157,7 @@
         <location filename="../qml/tiles/day_times/Settings.qml" line="240"/>
         <location filename="../qml/tiles/weather_mch/Settings.qml" line="252"/>
         <source>Description</source>
-        <translation type="unfinished"></translation>
+        <translation>Περιγραφή</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Settings.qml" line="241"/>
@@ -1177,7 +1177,7 @@
     <message>
         <location filename="../qml/tiles/day_times/Settings.qml" line="285"/>
         <source>Timezone</source>
-        <translation type="unfinished"></translation>
+        <translation>Ζώνη ώρας</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Settings.qml" line="286"/>
@@ -1203,7 +1203,7 @@
     <message>
         <location filename="../qml/tiles/weather_mch/Settings.qml" line="260"/>
         <source>Zip code</source>
-        <translation type="unfinished"></translation>
+        <translation>Ταχυδρομικός κώδικας</translation>
     </message>
 </context>
 <context>
@@ -1211,12 +1211,12 @@
     <message>
         <location filename="../qml/tiles/base/SettingsDialogBase.qml" line="94"/>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Αποθήκευση</translation>
     </message>
     <message>
         <location filename="../qml/tiles/base/SettingsDialogBase.qml" line="95"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Ακύρωση</translation>
     </message>
 </context>
 <context>
@@ -1225,7 +1225,7 @@
         <location filename="../qml/components/SunTimesItem.qml" line="18"/>
         <source>%1: %2</source>
         <comment>sun time title (1) with description (2)</comment>
-        <translation type="unfinished"></translation>
+        <translation>%1: %2</translation>
     </message>
 </context>
 <context>
@@ -1302,13 +1302,13 @@
         <location filename="../qml/tiles/clock/Tile.qml" line="109"/>
         <source>UTC %1</source>
         <comment>time offset like &apos;UTC -11:00&apos;</comment>
-        <translation type="unfinished"></translation>
+        <translation>UTC %1</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Tile.qml" line="76"/>
         <location filename="../qml/tiles/clock/Tile.qml" line="107"/>
         <source>local time</source>
-        <translation type="unfinished"></translation>
+        <translation>τοπική ώρα</translation>
     </message>
     <message numerus="yes">
         <location filename="../qml/tiles/clock/Tile.qml" line="118"/>
@@ -1382,18 +1382,18 @@
     <message>
         <location filename="../qml/tiles/day_times/Tile.qml" line="234"/>
         <source>zenith</source>
-        <translation type="unfinished"></translation>
+        <translation>ζενίθ</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Tile.qml" line="241"/>
         <source>hour</source>
-        <translation type="unfinished"></translation>
+        <translation>ώρα</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Tile.qml" line="142"/>
         <location filename="../qml/tiles/day_times/Tile.qml" line="188"/>
         <source>sunrise</source>
-        <translation type="unfinished"></translation>
+        <translation>ανατολή</translation>
     </message>
 </context>
 <context>
@@ -1417,7 +1417,7 @@
         <location filename="../qml/tiles/clock/private/TimeShiftPreviewPage.qml" line="182"/>
         <source>Local time</source>
         <comment>as in &apos;here, versus over there&apos;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Τοπική ώρα</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/private/TimeShiftPreviewPage.qml" line="183"/>
