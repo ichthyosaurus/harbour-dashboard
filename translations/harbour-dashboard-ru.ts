@@ -12,18 +12,18 @@
         <location filename="../qml/pages/AboutPage.qml" line="45"/>
         <source>Everything at a glance.</source>
         <comment>this app&apos;s motto</comment>
-        <translation type="unfinished"></translation>
+        <translation>Все как на ладони.</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="80"/>
         <source>Swiss meteorological data</source>
-        <translation type="unfinished"></translation>
+        <translation>Швейцарские метеорологические данные</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="81"/>
         <location filename="../qml/pages/AboutPage.qml" line="86"/>
         <source>MeteoSwiss</source>
-        <translation type="unfinished"></translation>
+        <translation>MeteoSwiss(метеостанция)</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="82"/>
@@ -155,20 +155,20 @@
         <location filename="../qml/tiles/clock/Details.qml" line="49"/>
         <source>%1h behind</source>
         <comment>shortened form of &apos;%1 hour(s) behind local time&apos;</comment>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%1 назад</numerusform>
+            <numerusform>%1 часа назад</numerusform>
+            <numerusform>%1 часов назад</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="../qml/tiles/clock/Details.qml" line="52"/>
         <source>%1h ahead</source>
         <comment>shortened form of &apos;%1 hour(s) ahead of local time&apos;</comment>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%1 час вперёд</numerusform>
+            <numerusform>%1 часа вперёд</numerusform>
+            <numerusform>%1 часов вперёд</numerusform>
         </translation>
     </message>
     <message>
@@ -273,7 +273,7 @@
         <location filename="../qml/pages/FatalErrorPage.qml" line="18"/>
         <source>Please restart the app. If the problem persists and appears to be a flaw in this app, please report the issue.</source>
         <comment>generic hint on what to do after a fatal error occurred(error message will be shown separately)</comment>
-        <translation type="unfinished"></translation>
+        <translation>Пожалуйста, перезапустите приложение. Если проблема не устраняется и кажется, что это ошибка в этом приложении, пожалуйста, сообщите о проблеме.</translation>
     </message>
 </context>
 <context>
@@ -310,12 +310,12 @@
     <message>
         <location filename="../qml/components/ForecastItem.qml" line="255"/>
         <source>status: </source>
-        <translation type="unfinished"></translation>
+        <translation>статус: </translation>
     </message>
     <message>
         <location filename="../qml/components/ForecastItem.qml" line="268"/>
         <source>now: </source>
-        <translation type="unfinished"></translation>
+        <translation>сейчас: </translation>
     </message>
     <message>
         <location filename="../qml/components/ForecastItem.qml" line="262"/>
@@ -338,12 +338,12 @@
     <message>
         <location filename="../qml/components/ForecastItem.qml" line="160"/>
         <source>top edge of the sun appears on the horizon</source>
-        <translation type="unfinished"></translation>
+        <translation>верхний край солнца появляется на горизонте</translation>
     </message>
     <message>
         <location filename="../qml/components/ForecastItem.qml" line="166"/>
         <source>morning golden hour (soft light, best time for photography) ends</source>
-        <translation type="unfinished"></translation>
+        <translation>заканчивается утренний золотой час (мягкий свет, лучшее время для фотосъемки)</translation>
     </message>
     <message>
         <location filename="../qml/components/ForecastItem.qml" line="172"/>
@@ -353,17 +353,17 @@
     <message>
         <location filename="../qml/components/ForecastItem.qml" line="183"/>
         <source>evening golden hour (soft light, best time for photography) starts</source>
-        <translation type="unfinished"></translation>
+        <translation>начинается вечерний золотой час (мягкий свет, лучшее время для фотосъемки)</translation>
     </message>
     <message>
         <location filename="../qml/components/ForecastItem.qml" line="189"/>
         <source>sun disappears below the horizon, evening civil twilight starts</source>
-        <translation type="unfinished"></translation>
+        <translation>солнце скрылось за горизонтом — вечерние сумерки вступили в силу</translation>
     </message>
     <message>
         <location filename="../qml/components/ForecastItem.qml" line="195"/>
         <source>dark enough for astronomical observations</source>
-        <translation type="unfinished"></translation>
+        <translation>достаточно темно для астрономических наблюдений</translation>
     </message>
     <message>
         <location filename="../qml/components/ForecastItem.qml" line="201"/>
@@ -373,7 +373,7 @@
     <message>
         <location filename="../qml/components/ForecastItem.qml" line="154"/>
         <source>morning civil twilight starts</source>
-        <translation type="unfinished"></translation>
+        <translation>начало утренних сумерек</translation>
     </message>
     <message>
         <location filename="../qml/components/ForecastItem.qml" line="152"/>
@@ -391,37 +391,37 @@
         <location filename="../qml/components/ForecastItem.qml" line="164"/>
         <source>Golden Hour End</source>
         <comment>use &apos;|&apos; to separate alternative strings of different length</comment>
-        <translation type="unfinished"></translation>
+        <translation>Конец золотого часа</translation>
     </message>
     <message>
         <location filename="../qml/components/ForecastItem.qml" line="170"/>
         <source>Solar Noon</source>
         <comment>use &apos;|&apos; to separate alternative strings of different length</comment>
-        <translation type="unfinished"></translation>
+        <translation>Солнечный полдень</translation>
     </message>
     <message>
         <location filename="../qml/components/ForecastItem.qml" line="181"/>
         <source>Golden Hour</source>
         <comment>use &apos;|&apos; to separate alternative strings of different length</comment>
-        <translation type="unfinished"></translation>
+        <translation>Золотой час</translation>
     </message>
     <message>
         <location filename="../qml/components/ForecastItem.qml" line="187"/>
         <source>Sunset</source>
         <comment>use &apos;|&apos; to separate alternative strings of different length</comment>
-        <translation type="unfinished"></translation>
+        <translation>Закат</translation>
     </message>
     <message>
         <location filename="../qml/components/ForecastItem.qml" line="193"/>
         <source>Night</source>
         <comment>use &apos;|&apos; to separate alternative strings of different length</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ночь</translation>
     </message>
     <message>
         <location filename="../qml/components/ForecastItem.qml" line="199"/>
         <source>Nadir</source>
         <comment>use &apos;|&apos; to separate alternative strings of different length</comment>
-        <translation type="unfinished"></translation>
+        <translation>Надир (нижняя точка небесной сферы)</translation>
     </message>
 </context>
 <context>
@@ -429,12 +429,12 @@
     <message>
         <location filename="../qml/pages/ForecastPage.qml" line="83"/>
         <source>Failed to load data!</source>
-        <translation type="unfinished"></translation>
+        <translation>Не удалось загрузить данные!</translation>
     </message>
     <message>
         <location filename="../qml/pages/ForecastPage.qml" line="35"/>
         <source>Reload Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Обновить данные</translation>
     </message>
 </context>
 <context>
@@ -442,17 +442,17 @@
     <message>
         <location filename="../qml/tiles/base/ForecastTileBase.qml" line="128"/>
         <source>Configure</source>
-        <translation type="unfinished"></translation>
+        <translation>Настроить</translation>
     </message>
     <message>
         <location filename="../qml/tiles/base/ForecastTileBase.qml" line="122"/>
         <source>Refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>Обновить</translation>
     </message>
     <message>
         <location filename="../qml/tiles/base/ForecastTileBase.qml" line="132"/>
         <source>Manage tiles</source>
-        <translation type="unfinished"></translation>
+        <translation>Настройка плиток</translation>
     </message>
 </context>
 <context>
@@ -468,17 +468,17 @@
     <message>
         <location filename="../qml/pages/LocationSearchPage.qml" line="48"/>
         <source>Add Location</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавить геолокацию</translation>
     </message>
     <message>
         <location filename="../qml/pages/LocationSearchPage.qml" line="54"/>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation>Поиск</translation>
     </message>
     <message>
         <location filename="../qml/pages/LocationSearchPage.qml" line="32"/>
         <source>Bootstrap debug locations</source>
-        <translation type="unfinished"></translation>
+        <translation>Отладочные местоположения Bootstrap</translation>
     </message>
 </context>
 <context>
@@ -491,23 +491,23 @@
     <message>
         <location filename="../qml/pages/MainPage.qml" line="48"/>
         <source>Refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>Обновить</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="40"/>
         <source>Manage tiles</source>
-        <translation type="unfinished"></translation>
+        <translation>Настройка плиток</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="82"/>
         <source>Pull down to manage tiles</source>
-        <translation type="unfinished"></translation>
+        <translation>Свайп вниз открывает управление плитками</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="55"/>
         <location filename="../qml/pages/MainPage.qml" line="81"/>
         <source>Add a tile</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавить элемент</translation>
     </message>
 </context>
 <context>
@@ -515,42 +515,42 @@
     <message>
         <location filename="../qml/pages/MaintenancePage.qml" line="101"/>
         <source>Please be patient and allow up to 30 seconds for this.</source>
-        <translation type="unfinished"></translation>
+        <translation>Пожалуйста, подождите. Это может занять до 30 секунд.</translation>
     </message>
     <message>
         <location filename="../qml/pages/MaintenancePage.qml" line="147"/>
         <source>Connected to the backend</source>
-        <translation type="unfinished"></translation>
+        <translation>Подключено к серверу</translation>
     </message>
     <message>
         <location filename="../qml/pages/MaintenancePage.qml" line="157"/>
         <source>Maintenance is complete</source>
-        <translation type="unfinished"></translation>
+        <translation>Техническое обслуживание завершено</translation>
     </message>
     <message>
         <location filename="../qml/pages/MaintenancePage.qml" line="119"/>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Закрыть</translation>
     </message>
     <message>
         <location filename="../qml/pages/MaintenancePage.qml" line="48"/>
         <source>Maintenance</source>
-        <translation type="unfinished"></translation>
+        <translation>Поддержка</translation>
     </message>
     <message>
         <location filename="../qml/pages/MaintenancePage.qml" line="134"/>
         <source>Pull down to close this overlay.</source>
-        <translation type="unfinished"></translation>
+        <translation>Свайп вниз закрывает панель.</translation>
     </message>
     <message>
         <location filename="../qml/pages/MaintenancePage.qml" line="151"/>
         <source>Cleaning caches for “%1”...</source>
-        <translation type="unfinished"></translation>
+        <translation>Очищаем кеш приложения “%1”...</translation>
     </message>
     <message>
         <location filename="../qml/pages/MaintenancePage.qml" line="153"/>
         <source>Compressing databases for “%1”...</source>
-        <translation type="unfinished"></translation>
+        <translation>Сжатие баз данных для “%1”...</translation>
     </message>
 </context>
 <context>
@@ -558,52 +558,52 @@
     <message>
         <location filename="../qml/tiles/clock/Metadata.qml" line="11"/>
         <source>World clock</source>
-        <translation type="unfinished"></translation>
+        <translation>Мировое время</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Metadata.qml" line="12"/>
         <source>Clock showing local time or the current time in any time zone.</source>
-        <translation type="unfinished"></translation>
+        <translation>Отображает местное время и время в других часовых поясах.</translation>
     </message>
     <message>
         <location filename="../qml/tiles/spacer/Metadata.qml" line="11"/>
         <source>Spacer</source>
-        <translation type="unfinished"></translation>
+        <translation>Промежуток</translation>
     </message>
     <message>
         <location filename="../qml/tiles/spacer/Metadata.qml" line="12"/>
         <source>Empty tile for spacing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Пустой элемент интервального размещения.</translation>
     </message>
     <message>
         <location filename="../qml/tiles/weather_mch/Metadata.qml" line="11"/>
         <source>Weather forecast (MeteoSwiss)</source>
-        <translation type="unfinished"></translation>
+        <translation>Прогноз погоды (MeteoSwiss)</translation>
     </message>
     <message>
         <location filename="../qml/tiles/weather_mch/Metadata.qml" line="12"/>
         <source>Weather forecast for Switzerland provided by the Swiss Meteorological Institute.</source>
-        <translation type="unfinished"></translation>
+        <translation>Прогноз погоды для Швейцарии от Швейцарского метеорологического института.</translation>
     </message>
     <message>
         <location filename="../qml/tiles/weather_yrn/Metadata.qml" line="11"/>
         <source>Weather forecast (Yr.no)</source>
-        <translation type="unfinished"></translation>
+        <translation>Прогноз погоды (Yr.no)</translation>
     </message>
     <message>
         <location filename="../qml/tiles/weather_yrn/Metadata.qml" line="12"/>
         <source>Weather forecast for the world provided by the Norwegian Meteorological Institute.</source>
-        <translation type="unfinished"></translation>
+        <translation>Прогноз погоды для всего мира от Норвежского метеорологического института.</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Metadata.qml" line="11"/>
         <source>Day times</source>
-        <translation type="unfinished"></translation>
+        <translation>Дневное время</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Metadata.qml" line="12"/>
         <source>Current times of sunrise and sunset.</source>
-        <translation type="unfinished"></translation>
+        <translation>Время восхода и захода солнца.</translation>
     </message>
 </context>
 <context>
@@ -611,12 +611,12 @@
     <message>
         <location filename="../qml/tiles/base/MetadataBase.qml" line="13"/>
         <source>Unimplemented tile</source>
-        <translation type="unfinished"></translation>
+        <translation>Недоступная плитка</translation>
     </message>
     <message>
         <location filename="../qml/tiles/base/MetadataBase.qml" line="14"/>
         <source>This tile has no description.</source>
-        <translation type="unfinished"></translation>
+        <translation>У этой плитки нет описания.</translation>
     </message>
 </context>
 <context>
@@ -687,17 +687,17 @@
     <message>
         <location filename="../qml/pages/NewTileDialog.qml" line="74"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Отменить</translation>
     </message>
     <message>
         <location filename="../qml/pages/NewTileDialog.qml" line="75"/>
         <source>Select a tile type</source>
-        <translation type="unfinished"></translation>
+        <translation>Выберите тип плитки</translation>
     </message>
     <message>
         <location filename="../qml/pages/NewTileDialog.qml" line="73"/>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавить</translation>
     </message>
 </context>
 <context>
@@ -902,17 +902,17 @@
     <message>
         <location filename="../qml/components/OverviewListDelegate.qml" line="41"/>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить</translation>
     </message>
     <message>
         <location filename="../qml/components/OverviewListDelegate.qml" line="46"/>
         <source>Move to top</source>
-        <translation type="unfinished"></translation>
+        <translation>Перейти к началу</translation>
     </message>
     <message>
         <location filename="../qml/components/OverviewListDelegate.qml" line="204"/>
         <source>Deleting</source>
-        <translation type="unfinished"></translation>
+        <translation>Удаление</translation>
     </message>
 </context>
 <context>
@@ -925,22 +925,22 @@
     <message>
         <location filename="../qml/pages/OverviewPage.qml" line="91"/>
         <source>Refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>Обновить</translation>
     </message>
     <message>
         <location filename="../qml/pages/OverviewPage.qml" line="86"/>
         <source>Add location</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавить местоположение</translation>
     </message>
     <message>
         <location filename="../qml/pages/OverviewPage.qml" line="109"/>
         <source>Add a location first</source>
-        <translation type="unfinished"></translation>
+        <translation>Сначала добавьте местоположение</translation>
     </message>
     <message>
         <location filename="../qml/pages/OverviewPage.qml" line="110"/>
         <source>Pull down to add items</source>
-        <translation type="unfinished"></translation>
+        <translation>Свайп вниз, чтобы добавить</translation>
     </message>
 </context>
 <context>
@@ -948,172 +948,172 @@
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="115"/>
         <source>Local time</source>
-        <translation type="unfinished"></translation>
+        <translation>Местное время</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="180"/>
         <source>Custom time offset</source>
-        <translation type="unfinished"></translation>
+        <translation>Ручное смещение времени</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="81"/>
         <source>Clock time</source>
-        <translation type="unfinished"></translation>
+        <translation>Точное время</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="91"/>
         <source>Current time</source>
-        <translation type="unfinished"></translation>
+        <translation>Время</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="269"/>
         <source>Tokyo, Japan</source>
-        <translation type="unfinished"></translation>
+        <translation>Токио, Япония</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="269"/>
         <source>Nuuk, Greenland</source>
-        <translation type="unfinished"></translation>
+        <translation>Нуук, Гренландия</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="270"/>
         <source>Yangon, Myanmar</source>
-        <translation type="unfinished"></translation>
+        <translation>Янгон, Мьянма</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="270"/>
         <source>Lubumbashi, DR Congo</source>
-        <translation type="unfinished"></translation>
+        <translation>Лубумбаши, ДР Конго</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="271"/>
         <source>Belém, Brazil</source>
-        <translation type="unfinished"></translation>
+        <translation>Белен, Бразилия</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="271"/>
         <source>Paris, France</source>
-        <translation type="unfinished"></translation>
+        <translation>Париж, Франция</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="280"/>
         <source>e.g. %1</source>
-        <translation type="unfinished"></translation>
+        <translation>например %1</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="281"/>
         <source>Clock label (optional)</source>
-        <translation type="unfinished"></translation>
+        <translation>Название часов (необязательно)</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="306"/>
         <source>Clock face</source>
-        <translation type="unfinished"></translation>
+        <translation>Циферблат часов</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="47"/>
         <location filename="../qml/tiles/clock/Settings.qml" line="310"/>
         <source>without numbers</source>
-        <translation type="unfinished"></translation>
+        <translation>без цифр</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="49"/>
         <location filename="../qml/tiles/clock/Settings.qml" line="312"/>
         <source>Roman numbers</source>
-        <translation type="unfinished"></translation>
+        <translation>Римские цифры</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="48"/>
         <location filename="../qml/tiles/clock/Settings.qml" line="311"/>
         <source>Arabic numbers (European)</source>
-        <translation type="unfinished"></translation>
+        <translation>Арабские цифры (европейские)</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="116"/>
         <source>The clock will always show the current local time, using the same time zone as the system.</source>
-        <translation type="unfinished"></translation>
+        <translation>Часы всегда будут показывать текущее местное время, используя тот же часовой пояс, что и система.</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="135"/>
         <location filename="../qml/tiles/clock/Settings.qml" line="153"/>
         <source>Time zone</source>
-        <translation type="unfinished"></translation>
+        <translation>Часовой пояс (Time zone)</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="136"/>
         <source>The clock will show the time in a specific time zone.</source>
-        <translation type="unfinished"></translation>
+        <translation>Часы будут показывать время в определенном часовом поясе.</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="155"/>
         <source>Select a time zone</source>
-        <translation type="unfinished"></translation>
+        <translation>Выберите часовой пояс</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="156"/>
         <source>%1, %2 (%3)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1, %2 (%3)</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="181"/>
         <source>The clock will show the time shifted from UTC. This is independent of the local time zone.</source>
-        <translation type="unfinished"></translation>
+        <translation>Здесь можно задать собственное смещение времени относительно UTC, которое будет отображаться независимо от местного часового пояса.</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="199"/>
         <source>UTC + %1</source>
-        <translation type="unfinished"></translation>
+        <translation>UTC + %1</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="200"/>
         <source>Positive offsets show time zones east of UTC/GMT (Greenwich, UK).</source>
-        <translation type="unfinished"></translation>
+        <translation>Если смещение положительное — это пояса восточнее Гринвича (UTC/GMT).</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="216"/>
         <source>UTC - %1</source>
-        <translation type="unfinished"></translation>
+        <translation>UTC - %1</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="217"/>
         <source>Negative offsets show time zones west of UTC/GMT (Greenwich, UK).</source>
-        <translation type="unfinished"></translation>
+        <translation>Если смещение отрицательное - это пояса западнее Гринвича (UTC/GMT).</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="251"/>
         <source>- %1</source>
-        <translation type="unfinished"></translation>
+        <translation>- %1</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="251"/>
         <source>+ %1</source>
-        <translation type="unfinished"></translation>
+        <translation>+ %1</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="108"/>
         <source>Time format</source>
-        <translation type="unfinished"></translation>
+        <translation>Формат времени</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="261"/>
         <source>Appearance</source>
-        <translation type="unfinished"></translation>
+        <translation>Вид</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Settings.qml" line="223"/>
         <location filename="../qml/tiles/weather_mch/Settings.qml" line="235"/>
         <source>Location details</source>
-        <translation type="unfinished"></translation>
+        <translation>Информация о местоположении</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Settings.qml" line="257"/>
         <source>Latitude</source>
-        <translation type="unfinished"></translation>
+        <translation>Широта</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Settings.qml" line="272"/>
         <source>Longitude</source>
-        <translation type="unfinished"></translation>
+        <translation>Долгота</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Settings.qml" line="98"/>
@@ -1121,96 +1121,96 @@
         <location filename="../qml/tiles/weather_mch/Settings.qml" line="83"/>
         <location filename="../qml/tiles/weather_mch/Settings.qml" line="109"/>
         <source>Find a location</source>
-        <translation type="unfinished"></translation>
+        <translation>Найти местоположение</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Settings.qml" line="126"/>
         <source>Enter details manually</source>
-        <translation type="unfinished"></translation>
+        <translation>Ввести данные вручную</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Settings.qml" line="173"/>
         <source>%1 °N</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 °N</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Settings.qml" line="173"/>
         <source>%1 °S</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 °S</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Settings.qml" line="175"/>
         <source>%1 °E</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 °E</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Settings.qml" line="175"/>
         <source>%1 °W</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 °W</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Settings.qml" line="231"/>
         <location filename="../qml/tiles/weather_mch/Settings.qml" line="243"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Название</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Settings.qml" line="232"/>
         <location filename="../qml/tiles/weather_mch/Settings.qml" line="244"/>
         <source>A short nickname for this location</source>
-        <translation type="unfinished"></translation>
+        <translation>Краткое название для этого места</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Settings.qml" line="240"/>
         <location filename="../qml/tiles/weather_mch/Settings.qml" line="252"/>
         <source>Description</source>
-        <translation type="unfinished"></translation>
+        <translation>Описание</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Settings.qml" line="241"/>
         <source>The full address or other details about the location</source>
-        <translation type="unfinished"></translation>
+        <translation>Полный адрес или другие сведения о местоположении</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Settings.qml" line="258"/>
         <source>&gt; 0 is North, &lt; 0 is South</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;gt; 0 - Север, &amp;lt; 0 - Юг</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Settings.qml" line="273"/>
         <source>&gt; 0 is East, &lt; 0 is West</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;gt; 0 - Восток, &amp;lt; 0 - Запад</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Settings.qml" line="285"/>
         <source>Timezone</source>
-        <translation type="unfinished"></translation>
+        <translation>Часовой пояс</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Settings.qml" line="286"/>
         <source>Local timezone for this location</source>
-        <translation type="unfinished"></translation>
+        <translation>Местный часовой пояс для этого местоположения</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Settings.qml" line="292"/>
         <source>Lookup timezone</source>
-        <translation type="unfinished"></translation>
+        <translation>Поиск часового пояса</translation>
     </message>
     <message>
         <location filename="../qml/tiles/weather_mch/Settings.qml" line="209"/>
         <location filename="../qml/tiles/weather_mch/Settings.qml" line="217"/>
         <source>%1 m</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 м</translation>
     </message>
     <message>
         <location filename="../qml/tiles/weather_mch/Settings.qml" line="253"/>
         <source>The full name or other details about the location</source>
-        <translation type="unfinished"></translation>
+        <translation>Полное имя или другие сведения о местоположении</translation>
     </message>
     <message>
         <location filename="../qml/tiles/weather_mch/Settings.qml" line="260"/>
         <source>Zip code</source>
-        <translation type="unfinished"></translation>
+        <translation>Почтовый индекс</translation>
     </message>
 </context>
 <context>
@@ -1218,12 +1218,12 @@
     <message>
         <location filename="../qml/tiles/base/SettingsDialogBase.qml" line="94"/>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Сохранить</translation>
     </message>
     <message>
         <location filename="../qml/tiles/base/SettingsDialogBase.qml" line="95"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Отменить</translation>
     </message>
 </context>
 <context>
@@ -1232,7 +1232,7 @@
         <location filename="../qml/components/SunTimesItem.qml" line="18"/>
         <source>%1: %2</source>
         <comment>sun time title (1) with description (2)</comment>
-        <translation type="unfinished"></translation>
+        <translation>%1: %2</translation>
     </message>
 </context>
 <context>
@@ -1268,32 +1268,32 @@
     <message>
         <location filename="../qml/pages/TablePage.qml" line="31"/>
         <source>Detailed Forecast</source>
-        <translation type="unfinished"></translation>
+        <translation>Подробный прогноз</translation>
     </message>
     <message>
         <location filename="../qml/pages/TablePage.qml" line="53"/>
         <source>Hour</source>
-        <translation type="unfinished"></translation>
+        <translation>Час</translation>
     </message>
     <message>
         <location filename="../qml/pages/TablePage.qml" line="64"/>
         <source>Temp.</source>
-        <translation type="unfinished"></translation>
+        <translation>Температура.</translation>
     </message>
     <message>
         <location filename="../qml/pages/TablePage.qml" line="71"/>
         <source>Precip.</source>
-        <translation type="unfinished"></translation>
+        <translation>Осадки.</translation>
     </message>
     <message>
         <location filename="../qml/pages/TablePage.qml" line="92"/>
         <source>Description</source>
-        <translation type="unfinished"></translation>
+        <translation>Описание</translation>
     </message>
     <message>
         <location filename="../qml/pages/TablePage.qml" line="78"/>
         <source>Wind</source>
-        <translation type="unfinished"></translation>
+        <translation>Ветер</translation>
     </message>
 </context>
 <context>
@@ -1301,7 +1301,7 @@
     <message>
         <location filename="../qml/tiles/spacer/Tile.qml" line="38"/>
         <source>Placeholder</source>
-        <translation type="unfinished"></translation>
+        <translation>Пример текста</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Tile.qml" line="64"/>
@@ -1309,30 +1309,30 @@
         <location filename="../qml/tiles/clock/Tile.qml" line="109"/>
         <source>UTC %1</source>
         <comment>time offset like &apos;UTC -11:00&apos;</comment>
-        <translation type="unfinished"></translation>
+        <translation>UTC %1</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Tile.qml" line="76"/>
         <location filename="../qml/tiles/clock/Tile.qml" line="107"/>
         <source>local time</source>
-        <translation type="unfinished"></translation>
+        <translation>местное время</translation>
     </message>
     <message numerus="yes">
         <location filename="../qml/tiles/clock/Tile.qml" line="118"/>
         <source>%1 hour(s) behind local time</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%1 час</numerusform>
+            <numerusform>%1 часов</numerusform>
+            <numerusform>%1 часов</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="../qml/tiles/clock/Tile.qml" line="124"/>
         <source>%1 hour(s) ahead of local time</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>на %1 час раньше по местному времени</numerusform>
+            <numerusform>на %1 часа раньше местного времени</numerusform>
+            <numerusform>на %1 часов раньше местного времени</numerusform>
         </translation>
     </message>
     <message numerus="yes">
@@ -1340,10 +1340,10 @@
         <location filename="../qml/tiles/clock/Tile.qml" line="134"/>
         <source>%1h behind</source>
         <comment>shortened form of &apos;%1 hour(s) behind local time&apos;</comment>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>на %1 час назад</numerusform>
+            <numerusform>%1 часа назад</numerusform>
+            <numerusform>%1 часов назад</numerusform>
         </translation>
     </message>
     <message numerus="yes">
@@ -1351,60 +1351,60 @@
         <location filename="../qml/tiles/clock/Tile.qml" line="137"/>
         <source>%1h ahead</source>
         <comment>shortened form of &apos;%1 hour(s) ahead of local time&apos;</comment>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>на %1 час вперёд</numerusform>
+            <numerusform>на %1 часа вперёд</numerusform>
+            <numerusform>на %1 часов вперёд</numerusform>
         </translation>
     </message>
     <message>
         <location filename="../qml/tiles/weather_yrn/Tile.qml" line="38"/>
         <source>Weather (Yr.no)</source>
-        <translation type="unfinished"></translation>
+        <translation>Погода (Yr.no)</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Tile.qml" line="136"/>
         <location filename="../qml/tiles/day_times/Tile.qml" line="182"/>
         <source>dawn</source>
-        <translation type="unfinished"></translation>
+        <translation>рассвет</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Tile.qml" line="194"/>
         <source>noon</source>
-        <translation type="unfinished"></translation>
+        <translation>полдень</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Tile.qml" line="200"/>
         <source>golden</source>
-        <translation type="unfinished"></translation>
+        <translation>золотой</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Tile.qml" line="154"/>
         <location filename="../qml/tiles/day_times/Tile.qml" line="222"/>
         <source>dusk</source>
-        <translation type="unfinished"></translation>
+        <translation>сумерки</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Tile.qml" line="148"/>
         <location filename="../qml/tiles/day_times/Tile.qml" line="228"/>
         <source>sunset</source>
-        <translation type="unfinished"></translation>
+        <translation>закат</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Tile.qml" line="234"/>
         <source>zenith</source>
-        <translation type="unfinished"></translation>
+        <translation>зенит</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Tile.qml" line="241"/>
         <source>hour</source>
-        <translation type="unfinished"></translation>
+        <translation>час</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Tile.qml" line="142"/>
         <location filename="../qml/tiles/day_times/Tile.qml" line="188"/>
         <source>sunrise</source>
-        <translation type="unfinished"></translation>
+        <translation>восход солнца</translation>
     </message>
 </context>
 <context>
@@ -1412,41 +1412,41 @@
     <message>
         <location filename="../qml/tiles/clock/private/TimeShiftPreviewPage.qml" line="49"/>
         <source>Reset to current time</source>
-        <translation type="unfinished"></translation>
+        <translation>Сброс к текущему времени</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/private/TimeShiftPreviewPage.qml" line="73"/>
         <source>Calculate local time</source>
-        <translation type="unfinished"></translation>
+        <translation>Рассчитать местное время</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/private/TimeShiftPreviewPage.qml" line="87"/>
         <source>Calculate remote time</source>
-        <translation type="unfinished"></translation>
+        <translation>Рассчитать время для другого места</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/private/TimeShiftPreviewPage.qml" line="182"/>
         <source>Local time</source>
         <comment>as in &apos;here, versus over there&apos;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Местное время</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/private/TimeShiftPreviewPage.qml" line="183"/>
         <source>Calculated local time</source>
         <comment>as in &apos;here, versus over there&apos;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Вычисленное местное время</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/private/TimeShiftPreviewPage.qml" line="200"/>
         <source>Calculated remote time</source>
         <comment>as in &apos;over there, versus here&apos;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Рассчитанное удаленное время</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/private/TimeShiftPreviewPage.qml" line="201"/>
         <source>Remote time</source>
         <comment>as in &apos;over there, versus here&apos;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Удаленное время</translation>
     </message>
 </context>
 <context>
@@ -1454,32 +1454,32 @@
     <message>
         <location filename="../qml/harbour-dashboard.qml" line="38"/>
         <source>d MMM yyyy &apos;(&apos;hh&apos;:&apos;mm&apos;)&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>д МММ гггг &apos;(&apos;чч&apos;:&apos;мм&apos;)&apos;</translation>
     </message>
     <message>
         <location filename="../qml/harbour-dashboard.qml" line="40"/>
         <source>ddd d MMM yyyy</source>
-        <translation type="unfinished"></translation>
+        <translation>ддд д МММ гггг</translation>
     </message>
     <message>
         <location filename="../qml/harbour-dashboard.qml" line="39"/>
         <source>hh&apos;:&apos;mm</source>
-        <translation type="unfinished"></translation>
+        <translation>чч&apos;:&apos;мм</translation>
     </message>
     <message>
         <location filename="../qml/harbour-dashboard.qml" line="404"/>
         <source>A backend database is inaccessible.</source>
-        <translation type="unfinished"></translation>
+        <translation>Серверная база данных недоступна.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-dashboard.qml" line="426"/>
         <source>Failed to initialize the backend.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не удалось инициализировать серверную часть.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-dashboard.qml" line="358"/>
         <source>An unrecoverable error occurred.</source>
-        <translation type="unfinished"></translation>
+        <translation>Системная ошибка. Требуется перезапуск.</translation>
     </message>
 </context>
 <context>
@@ -1487,311 +1487,311 @@
     <message>
         <location filename="../qml/js/strings.js" line="5"/>
         <source>clear</source>
-        <translation type="unfinished"></translation>
+        <translation>очистить</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="6"/>
         <source>slightly overcast</source>
-        <translation type="unfinished"></translation>
+        <translation>переменная облачность</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="7"/>
         <source>heavy cloud formations</source>
-        <translation type="unfinished"></translation>
+        <translation>облачность</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="8"/>
         <location filename="../qml/js/strings.js" line="69"/>
         <source>overcast</source>
-        <translation type="unfinished"></translation>
+        <translation>пасмурно</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="9"/>
         <location filename="../qml/js/strings.js" line="70"/>
         <source>very cloudy</source>
-        <translation type="unfinished"></translation>
+        <translation>очень облачно</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="10"/>
         <source>overcast, scattered showers</source>
-        <translation type="unfinished"></translation>
+        <translation>пасмурно, местами идут дожди</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="11"/>
         <source>overcast, scattered rain and snow showers</source>
-        <translation type="unfinished"></translation>
+        <translation>пасмурно, местами идёт дождь и снег</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="12"/>
         <source>overcast, snow showers</source>
-        <translation type="unfinished"></translation>
+        <translation>пасмурно, идет снег</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="13"/>
         <source>overcast, some showers</source>
-        <translation type="unfinished"></translation>
+        <translation>пасмурно, местами пройдут дожди</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="14"/>
         <source>overcast, some sleet</source>
-        <translation type="unfinished"></translation>
+        <translation>пасмурно, местами мокрый снег</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="15"/>
         <source>overcast, some rain and snow showers</source>
-        <translation type="unfinished"></translation>
+        <translation>пасмурно, местами дождь и снег</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="16"/>
         <location filename="../qml/js/strings.js" line="25"/>
         <source>overcast, some snow showers</source>
-        <translation type="unfinished"></translation>
+        <translation>пасмурно, местами идет снег</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="17"/>
         <source>slightly stormy</source>
-        <translation type="unfinished"></translation>
+        <translation>небольшая буря</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="18"/>
         <source>storms</source>
-        <translation type="unfinished"></translation>
+        <translation>шторм</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="19"/>
         <location filename="../qml/js/strings.js" line="44"/>
         <source>very cloudy, light rain</source>
-        <translation type="unfinished"></translation>
+        <translation>очень облачно, небольшой дождь</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="20"/>
         <source>very cloudy, light rain and snow  showers</source>
-        <translation type="unfinished"></translation>
+        <translation>очень облачно, небольшой дождь и снегопад</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="21"/>
         <source>very cloudy, light snowfall</source>
-        <translation type="unfinished"></translation>
+        <translation>очень облачно, идет небольшой снегопад</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="22"/>
         <location filename="../qml/js/strings.js" line="47"/>
         <source>very cloudy, intermittent rain</source>
-        <translation type="unfinished"></translation>
+        <translation>очень облачно, временами идет дождь</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="23"/>
         <source>very cloudy, intermittant mixed rain and snowfall</source>
-        <translation type="unfinished"></translation>
+        <translation>очень облачно, временами идет дождь со снегопадом</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="24"/>
         <source>very cloudy, intermittent snowfall</source>
-        <translation type="unfinished"></translation>
+        <translation>очень облачно, временами идет снег</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="26"/>
         <source>very cloudy,  constant rain</source>
-        <translation type="unfinished"></translation>
+        <translation>очень пасмурно, весь день идет дождь</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="27"/>
         <source>very cloudy, frequent rain and snowfall</source>
-        <translation type="unfinished"></translation>
+        <translation>очень облачно, частые дожди и снегопады</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="28"/>
         <source>very cloudy, heavy snowfall</source>
-        <translation type="unfinished"></translation>
+        <translation>очень облачно, метель</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="29"/>
         <source>very cloudy, slightly stormy</source>
-        <translation type="unfinished"></translation>
+        <translation>очень облачно, слегка штормит</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="30"/>
         <source>very cloudy, stormy</source>
-        <translation type="unfinished"></translation>
+        <translation>очень облачно, штормит</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="31"/>
         <source>very cloudy, storms</source>
-        <translation type="unfinished"></translation>
+        <translation>очень облачно, грозы</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="32"/>
         <source>high cloud</source>
-        <translation type="unfinished"></translation>
+        <translation>высокие облака</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="33"/>
         <location filename="../qml/js/strings.js" line="58"/>
         <source>stratus</source>
-        <translation type="unfinished"></translation>
+        <translation>слоистые облака</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="34"/>
         <location filename="../qml/js/strings.js" line="59"/>
         <source>fog</source>
-        <translation type="unfinished"></translation>
+        <translation>туман</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="35"/>
         <source>slightly overcast, scattered showers</source>
-        <translation type="unfinished"></translation>
+        <translation>небольшая облачность, кратковременный дождь</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="36"/>
         <source>sunny intervals, chance of thunderstorms</source>
-        <translation type="unfinished"></translation>
+        <translation>интервалы между солнечными днями, вероятность гроз</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="37"/>
         <source>slightly overcast, scattered snowfall</source>
-        <translation type="unfinished"></translation>
+        <translation>слегка пасмурно, идет снегопад</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="38"/>
         <source>slightly overcast, rain and snow showers</source>
-        <translation type="unfinished"></translation>
+        <translation>небольшая облачность, дождь и снегопад</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="39"/>
         <source>slightly overcast, some showers</source>
-        <translation type="unfinished"></translation>
+        <translation>небольшая облачность, местами небольшой дождь</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="40"/>
         <location filename="../qml/js/strings.js" line="41"/>
         <source>overcast, frequent snow showers</source>
-        <translation type="unfinished"></translation>
+        <translation>пасмурная погода, частые снежные дожди</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="42"/>
         <location filename="../qml/js/strings.js" line="67"/>
         <source>overcast and dry</source>
-        <translation type="unfinished"></translation>
+        <translation>пасмурно и сухо</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="43"/>
         <source>sunny intervals, possible thunderstorms</source>
-        <translation type="unfinished"></translation>
+        <translation>в промежутках между солнцем возможны грозы</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="45"/>
         <source>very cloudy, light sleet</source>
-        <translation type="unfinished"></translation>
+        <translation>очень облачно, небольшой мокрый снег</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="46"/>
         <source>very cloudy, light snow showers</source>
-        <translation type="unfinished"></translation>
+        <translation>очень облачно, идет небольшой снег</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="48"/>
         <source>very cloudy, intermittent sleet</source>
-        <translation type="unfinished"></translation>
+        <translation>очень облачно, временами идет мокрый снег</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="49"/>
         <source>very cloudy, intermittent snow</source>
-        <translation type="unfinished"></translation>
+        <translation>пасмурно, периодический снег</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="50"/>
         <source>sunny</source>
-        <translation type="unfinished"></translation>
+        <translation>солнечно</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="51"/>
         <source>very overcast with rain</source>
-        <translation type="unfinished"></translation>
+        <translation>очень пасмурно, идет дождь</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="52"/>
         <source>very overcast with frequent sleet</source>
-        <translation type="unfinished"></translation>
+        <translation>очень пасмурно, часто идет мокрый снег</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="53"/>
         <source>very overcast with heavy snow</source>
-        <translation type="unfinished"></translation>
+        <translation>очень пасмурно, идет сильный снег</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="54"/>
         <source>very overcast, slight chance of storms</source>
-        <translation type="unfinished"></translation>
+        <translation>очень пасмурно, небольшая вероятность грозы</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="55"/>
         <source>very overcast with storms</source>
-        <translation type="unfinished"></translation>
+        <translation>очень пасмурно, гроза</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="56"/>
         <source>very cloudy, very stormy</source>
-        <translation type="unfinished"></translation>
+        <translation>очень облачно, очень штормит</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="57"/>
         <source>high clouds</source>
-        <translation type="unfinished"></translation>
+        <translation>перистые/перисто-слоистые облака</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="60"/>
         <source>sunny intervals, scattered showers</source>
-        <translation type="unfinished"></translation>
+        <translation>прояснения, местами дожди</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="61"/>
         <source>mostly sunny, some clouds</source>
-        <translation type="unfinished"></translation>
+        <translation>в основном солнечно, немного облачно</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="62"/>
         <source>sunny intervals, scattered snow showers</source>
-        <translation type="unfinished"></translation>
+        <translation>прояснения, местами снегопады</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="63"/>
         <source>sunny intervals, scattered sleet</source>
-        <translation type="unfinished"></translation>
+        <translation>солнечно, временами снег с дождём</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="64"/>
         <source>sunny intervals, some showers</source>
-        <translation type="unfinished"></translation>
+        <translation>временами солнечно, временами идут дожди</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="65"/>
         <source>short sunny intervals, frequent rain</source>
-        <translation type="unfinished"></translation>
+        <translation>кратковременные прояснения, частые дожди</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="66"/>
         <source>short sunny intervals, frequent snowfalls</source>
-        <translation type="unfinished"></translation>
+        <translation>кратковременные прояснения, частые снегопады</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="68"/>
         <source>partly sunny, thick passing clouds</source>
-        <translation type="unfinished"></translation>
+        <translation>переменная облачность с плотными кучевыми облаками</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="71"/>
         <source>sunny intervals,  isolated showers</source>
-        <translation type="unfinished"></translation>
+        <translation>солнечно, местами кратковременные дожди</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="72"/>
         <source>sunny intervals, isolated sleet</source>
-        <translation type="unfinished"></translation>
+        <translation>прояснения, местами мокрый снег</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="73"/>
         <source>sunny intervals, snow showers</source>
-        <translation type="unfinished"></translation>
+        <translation>солнечно, временами снег</translation>
     </message>
 </context>
 </TS>
