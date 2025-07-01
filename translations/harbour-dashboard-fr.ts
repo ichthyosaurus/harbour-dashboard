@@ -173,7 +173,7 @@
     <message>
         <location filename="../qml/tiles/common/BrokenTile.qml" line="49"/>
         <source>Invalid tile: %1 (%2)</source>
-        <translation>Tuile invalide&#xa0;: %1 (%2)</translation>
+        <translation>Tuile invalide : %1 (%2)</translation>
     </message>
 </context>
 <context>
@@ -191,8 +191,8 @@
         <source>%1h behind</source>
         <comment>shortened form of &apos;%1 hour(s) behind local time&apos;</comment>
         <translation type="unfinished">
-            <numerusform>%1&#xa0;h derrière</numerusform>
-            <numerusform>%1&#xa0;h derrière</numerusform>
+            <numerusform>%1 h derrière</numerusform>
+            <numerusform>%1 h derrière</numerusform>
         </translation>
     </message>
     <message numerus="yes">
@@ -200,8 +200,8 @@
         <source>%1h ahead</source>
         <comment>shortened form of &apos;%1 hour(s) ahead of local time&apos;</comment>
         <translation>
-            <numerusform>%1&#xa0;h en avance</numerusform>
-            <numerusform>%1&#xa0;h en avance</numerusform>
+            <numerusform>%1 h en avance</numerusform>
+            <numerusform>%1 h en avance</numerusform>
         </translation>
     </message>
     <message>
@@ -575,12 +575,12 @@
     <message>
         <location filename="../qml/pages/MaintenancePage.qml" line="151"/>
         <source>Cleaning caches for “%1”...</source>
-        <translation>Nettoyage des caches pour «&#xa0;%1&#xa0;»…</translation>
+        <translation>Nettoyage des caches pour « %1 »…</translation>
     </message>
     <message>
         <location filename="../qml/pages/MaintenancePage.qml" line="153"/>
         <source>Compressing databases for “%1”...</source>
-        <translation>Compression des bases de données pour «&#xa0;%1&#xa0;»…</translation>
+        <translation>Compression des bases de données pour « %1 »…</translation>
     </message>
 </context>
 <context>
@@ -684,7 +684,7 @@
     <message>
         <location filename="../qml/MySupportDialog.qml" line="37"/>
         <source>Why should you care?</source>
-        <translation>Pourquoi ça devrait t&apos;intéresser&#x202f;?</translation>
+        <translation>Pourquoi ça devrait t&apos;intéresser ?</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="40"/>
@@ -699,7 +699,7 @@
     <message>
         <location filename="../qml/MySupportDialog.qml" line="56"/>
         <source>Why donate?</source>
-        <translation>Pourquoi faire un don&#x202f;?</translation>
+        <translation>Pourquoi faire un don ?</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="59"/>
@@ -1354,8 +1354,8 @@
         <source>%1h behind</source>
         <comment>shortened form of &apos;%1 hour(s) behind local time&apos;</comment>
         <translation type="unfinished">
-            <numerusform>%1&#xa0;h derrière</numerusform>
-            <numerusform>%1&#xa0;h derrière</numerusform>
+            <numerusform>%1 h derrière</numerusform>
+            <numerusform>%1 h derrière</numerusform>
         </translation>
     </message>
     <message numerus="yes">
@@ -1372,8 +1372,8 @@
         <source>%1h ahead</source>
         <comment>shortened form of &apos;%1 hour(s) ahead of local time&apos;</comment>
         <translation type="unfinished">
-            <numerusform>%1&#xa0;h en avance</numerusform>
-            <numerusform>%1&#xa0;h en avance</numerusform>
+            <numerusform>%1 h en avance</numerusform>
+            <numerusform>%1 h en avance</numerusform>
         </translation>
     </message>
     <message>
