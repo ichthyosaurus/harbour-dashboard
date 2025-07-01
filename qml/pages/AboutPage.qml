@@ -149,9 +149,21 @@ A.AboutPageBase {
             title: qsTr("Translations")
             groups: [
                 A.ContributionGroup {
+                    title: qsTr("Ukrainian")
+                    entries: [
+                        "Максим Горпиніч"
+                    ]
+                },
+                A.ContributionGroup {
                     title: qsTr("Tamil")
                     entries: [
                         "தமிழ்நேரம்"
+                    ]
+                },
+                A.ContributionGroup {
+                    title: qsTr("Swedish")
+                    entries: [
+                        "Kristoffer Grundström"
                     ]
                 },
                 A.ContributionGroup {
@@ -162,9 +174,40 @@ A.AboutPageBase {
                     ]
                 },
                 A.ContributionGroup {
+                    title: qsTr("Russian")
+                    entries: [
+                        "Maksim_220 Кабанов",
+                        "Romeostar"
+                    ]
+                },
+                A.ContributionGroup {
+                    title: qsTr("Portuguese")
+                    entries: [
+                        "ssantos"
+                    ]
+                },
+                A.ContributionGroup {
+                    title: qsTr("Polish")
+                    entries: [
+                        "J3Extreme"
+                    ]
+                },
+                A.ContributionGroup {
                     title: qsTr("Italian")
                     entries: [
                         "J. Lavoie"
+                    ]
+                },
+                A.ContributionGroup {
+                    title: qsTr("Hungarian")
+                    entries: [
+                        "blatoz"
+                    ]
+                },
+                A.ContributionGroup {
+                    title: qsTr("Greek")
+                    entries: [
+                        "Jim Spentzos"
                     ]
                 },
                 A.ContributionGroup {
