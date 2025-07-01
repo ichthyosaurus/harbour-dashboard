@@ -76,46 +76,81 @@
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="152"/>
+        <source>Ukrainian</source>
+        <translation>ukraina keel</translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/AboutPage.qml" line="158"/>
         <source>Tamil</source>
         <translation>tamili keel</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="158"/>
+        <location filename="../qml/pages/AboutPage.qml" line="164"/>
+        <source>Swedish</source>
+        <translation>rootsi keel</translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/AboutPage.qml" line="170"/>
         <source>Spanish</source>
         <translation>hispaania</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="165"/>
+        <location filename="../qml/pages/AboutPage.qml" line="177"/>
+        <source>Russian</source>
+        <translation>vene keel</translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/AboutPage.qml" line="184"/>
+        <source>Portuguese</source>
+        <translation>portugali keel</translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/AboutPage.qml" line="190"/>
+        <source>Polish</source>
+        <translation>poola keel</translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/AboutPage.qml" line="196"/>
         <source>Italian</source>
         <translation>itaalia keel</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="171"/>
+        <location filename="../qml/pages/AboutPage.qml" line="202"/>
+        <source>Hungarian</source>
+        <translation>ungari keel</translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/AboutPage.qml" line="208"/>
+        <source>Greek</source>
+        <translation>kreeka keel</translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/AboutPage.qml" line="214"/>
         <source>German</source>
         <translation>saksa</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="177"/>
+        <location filename="../qml/pages/AboutPage.qml" line="220"/>
         <source>French</source>
         <translation>prantsuse</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="184"/>
+        <location filename="../qml/pages/AboutPage.qml" line="227"/>
         <source>Finnish</source>
         <translation>soome keel</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="190"/>
+        <location filename="../qml/pages/AboutPage.qml" line="233"/>
         <source>Estonian</source>
         <translation>eesti keel</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="196"/>
+        <location filename="../qml/pages/AboutPage.qml" line="239"/>
         <source>English</source>
         <translation>inglise</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="202"/>
+        <location filename="../qml/pages/AboutPage.qml" line="245"/>
         <source>Chinese</source>
         <translation>hiina</translation>
     </message>
@@ -128,7 +163,7 @@
 <context>
     <name>AskForSupport</name>
     <message>
-        <location filename="../qml/modules/Opal/SupportMe/AskForSupport.qml" line="11"/>
+        <location filename="../qml/modules/Opal/SupportMe/AskForSupport.qml" line="13"/>
         <source>Please take a moment to consider if you can contribute to this project in one way or another.</source>
         <translation>Palun kaalu hetkeks, kas sul on viisil või teisel võimalik seda arendusprojekti toetada.</translation>
     </message>
@@ -233,12 +268,12 @@
 <context>
     <name>DetailsDrawer</name>
     <message>
-        <location filename="../qml/modules/Opal/SupportMe/DetailsDrawer.qml" line="53"/>
+        <location filename="../qml/modules/Opal/SupportMe/DetailsDrawer.qml" line="54"/>
         <source>show less</source>
         <translation>näita vähem</translation>
     </message>
     <message>
-        <location filename="../qml/modules/Opal/SupportMe/DetailsDrawer.qml" line="53"/>
+        <location filename="../qml/modules/Opal/SupportMe/DetailsDrawer.qml" line="54"/>
         <source>show more</source>
         <translation>näita rohkem</translation>
     </message>
@@ -1246,12 +1281,12 @@
         <translation>Tänan sind toetuse eest!</translation>
     </message>
     <message>
-        <location filename="../qml/modules/Opal/SupportMe/SupportDialog.qml" line="55"/>
+        <location filename="../qml/modules/Opal/SupportMe/SupportDialog.qml" line="57"/>
         <source>Remind me later</source>
         <translation>Tuleta mulle hiljem meelde</translation>
     </message>
     <message>
-        <location filename="../qml/modules/Opal/SupportMe/SupportDialog.qml" line="57"/>
+        <location filename="../qml/modules/Opal/SupportMe/SupportDialog.qml" line="59"/>
         <source>Don&apos;t ask me again</source>
         <translation>Ära enam küsi minult uuesti</translation>
     </message>

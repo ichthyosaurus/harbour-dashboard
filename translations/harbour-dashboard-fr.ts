@@ -81,46 +81,81 @@
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="152"/>
-        <source>Tamil</source>
-        <translation type="unfinished"></translation>
+        <source>Ukrainian</source>
+        <translation>Ukrainien</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="158"/>
+        <source>Tamil</source>
+        <translation>Tamil</translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/AboutPage.qml" line="164"/>
+        <source>Swedish</source>
+        <translation>suédois</translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/AboutPage.qml" line="170"/>
         <source>Spanish</source>
         <translation>espagnol</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="165"/>
+        <location filename="../qml/pages/AboutPage.qml" line="177"/>
+        <source>Russian</source>
+        <translation>russe</translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/AboutPage.qml" line="184"/>
+        <source>Portuguese</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/AboutPage.qml" line="190"/>
+        <source>Polish</source>
+        <translation>polonais</translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/AboutPage.qml" line="196"/>
         <source>Italian</source>
         <translation>italien</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="171"/>
+        <location filename="../qml/pages/AboutPage.qml" line="202"/>
+        <source>Hungarian</source>
+        <translation>hongrois</translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/AboutPage.qml" line="208"/>
+        <source>Greek</source>
+        <translation>grec</translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/AboutPage.qml" line="214"/>
         <source>German</source>
         <translation>allemand</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="177"/>
+        <location filename="../qml/pages/AboutPage.qml" line="220"/>
         <source>French</source>
         <translation>français</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="184"/>
+        <location filename="../qml/pages/AboutPage.qml" line="227"/>
         <source>Finnish</source>
         <translation>finnois</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="190"/>
+        <location filename="../qml/pages/AboutPage.qml" line="233"/>
         <source>Estonian</source>
         <translation>estonien</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="196"/>
+        <location filename="../qml/pages/AboutPage.qml" line="239"/>
         <source>English</source>
         <translation>anglais</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="202"/>
+        <location filename="../qml/pages/AboutPage.qml" line="245"/>
         <source>Chinese</source>
         <translation>chinois</translation>
     </message>
@@ -128,7 +163,7 @@
 <context>
     <name>AskForSupport</name>
     <message>
-        <location filename="../qml/modules/Opal/SupportMe/AskForSupport.qml" line="11"/>
+        <location filename="../qml/modules/Opal/SupportMe/AskForSupport.qml" line="13"/>
         <source>Please take a moment to consider if you can contribute to this project in one way or another.</source>
         <translation>Veuillez prendre un moment pour savoir si vous pouvez contribuer à ce projet d&apos;une manière ou d&apos;une autre.</translation>
     </message>
@@ -138,7 +173,7 @@
     <message>
         <location filename="../qml/tiles/common/BrokenTile.qml" line="49"/>
         <source>Invalid tile: %1 (%2)</source>
-        <translation>Tuile invalide : %1 (%2)</translation>
+        <translation>Tuile invalide&#xa0;: %1 (%2)</translation>
     </message>
 </context>
 <context>
@@ -156,8 +191,8 @@
         <source>%1h behind</source>
         <comment>shortened form of &apos;%1 hour(s) behind local time&apos;</comment>
         <translation type="unfinished">
-            <numerusform>%1 h derrière</numerusform>
-            <numerusform>%1 h derrière</numerusform>
+            <numerusform>%1&#xa0;h derrière</numerusform>
+            <numerusform>%1&#xa0;h derrière</numerusform>
         </translation>
     </message>
     <message numerus="yes">
@@ -165,8 +200,8 @@
         <source>%1h ahead</source>
         <comment>shortened form of &apos;%1 hour(s) ahead of local time&apos;</comment>
         <translation>
-            <numerusform>%1 h en avance</numerusform>
-            <numerusform>%1 h en avance</numerusform>
+            <numerusform>%1&#xa0;h en avance</numerusform>
+            <numerusform>%1&#xa0;h en avance</numerusform>
         </translation>
     </message>
     <message>
@@ -233,12 +268,12 @@
 <context>
     <name>DetailsDrawer</name>
     <message>
-        <location filename="../qml/modules/Opal/SupportMe/DetailsDrawer.qml" line="53"/>
+        <location filename="../qml/modules/Opal/SupportMe/DetailsDrawer.qml" line="54"/>
         <source>show less</source>
         <translation>afficher moins</translation>
     </message>
     <message>
-        <location filename="../qml/modules/Opal/SupportMe/DetailsDrawer.qml" line="53"/>
+        <location filename="../qml/modules/Opal/SupportMe/DetailsDrawer.qml" line="54"/>
         <source>show more</source>
         <translation>afficher plus</translation>
     </message>
@@ -540,12 +575,12 @@
     <message>
         <location filename="../qml/pages/MaintenancePage.qml" line="151"/>
         <source>Cleaning caches for “%1”...</source>
-        <translation>Nettoyage des caches pour « %1 »…</translation>
+        <translation>Nettoyage des caches pour «&#xa0;%1&#xa0;»…</translation>
     </message>
     <message>
         <location filename="../qml/pages/MaintenancePage.qml" line="153"/>
         <source>Compressing databases for “%1”...</source>
-        <translation>Compression des bases de données pour « %1 »…</translation>
+        <translation>Compression des bases de données pour «&#xa0;%1&#xa0;»…</translation>
     </message>
 </context>
 <context>
@@ -649,7 +684,7 @@
     <message>
         <location filename="../qml/MySupportDialog.qml" line="37"/>
         <source>Why should you care?</source>
-        <translation>Pourquoi ça devrait t&apos;intéresser ?</translation>
+        <translation>Pourquoi ça devrait t&apos;intéresser&#x202f;?</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="40"/>
@@ -664,7 +699,7 @@
     <message>
         <location filename="../qml/MySupportDialog.qml" line="56"/>
         <source>Why donate?</source>
-        <translation>Pourquoi faire un don ?</translation>
+        <translation>Pourquoi faire un don&#x202f;?</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="59"/>
@@ -1246,12 +1281,12 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/modules/Opal/SupportMe/SupportDialog.qml" line="55"/>
+        <location filename="../qml/modules/Opal/SupportMe/SupportDialog.qml" line="57"/>
         <source>Remind me later</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/modules/Opal/SupportMe/SupportDialog.qml" line="57"/>
+        <location filename="../qml/modules/Opal/SupportMe/SupportDialog.qml" line="59"/>
         <source>Don&apos;t ask me again</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1319,8 +1354,8 @@
         <source>%1h behind</source>
         <comment>shortened form of &apos;%1 hour(s) behind local time&apos;</comment>
         <translation type="unfinished">
-            <numerusform>%1 h derrière</numerusform>
-            <numerusform>%1 h derrière</numerusform>
+            <numerusform>%1&#xa0;h derrière</numerusform>
+            <numerusform>%1&#xa0;h derrière</numerusform>
         </translation>
     </message>
     <message numerus="yes">
@@ -1337,8 +1372,8 @@
         <source>%1h ahead</source>
         <comment>shortened form of &apos;%1 hour(s) ahead of local time&apos;</comment>
         <translation type="unfinished">
-            <numerusform>%1 h en avance</numerusform>
-            <numerusform>%1 h en avance</numerusform>
+            <numerusform>%1&#xa0;h en avance</numerusform>
+            <numerusform>%1&#xa0;h en avance</numerusform>
         </translation>
     </message>
     <message>

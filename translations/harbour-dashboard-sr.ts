@@ -6,7 +6,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="131"/>
         <source>Development</source>
-        <translation type="unfinished"></translation>
+        <translation>razvitak</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="45"/>
@@ -62,7 +62,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="134"/>
         <source>Programming</source>
-        <translation type="unfinished"></translation>
+        <translation>programiranje</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="142"/>
@@ -72,52 +72,87 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="149"/>
         <source>Translations</source>
-        <translation type="unfinished"></translation>
+        <translation>prevodi</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="152"/>
+        <source>Ukrainian</source>
+        <translation>ukrajinski</translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/AboutPage.qml" line="158"/>
         <source>Tamil</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="158"/>
+        <location filename="../qml/pages/AboutPage.qml" line="164"/>
+        <source>Swedish</source>
+        <translation>švedski</translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/AboutPage.qml" line="170"/>
         <source>Spanish</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../qml/pages/AboutPage.qml" line="165"/>
-        <source>Italian</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../qml/pages/AboutPage.qml" line="171"/>
-        <source>German</source>
-        <translation type="unfinished"></translation>
+        <translation>španski</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="177"/>
-        <source>French</source>
-        <translation type="unfinished"></translation>
+        <source>Russian</source>
+        <translation>ruski</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="184"/>
-        <source>Finnish</source>
+        <source>Portuguese</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="190"/>
-        <source>Estonian</source>
-        <translation type="unfinished"></translation>
+        <source>Polish</source>
+        <translation>poljski</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="196"/>
-        <source>English</source>
-        <translation type="unfinished"></translation>
+        <source>Italian</source>
+        <translation>italijanski</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="202"/>
+        <source>Hungarian</source>
+        <translation>mađarski</translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/AboutPage.qml" line="208"/>
+        <source>Greek</source>
+        <translation>grčki</translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/AboutPage.qml" line="214"/>
+        <source>German</source>
+        <translation>nemački</translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/AboutPage.qml" line="220"/>
+        <source>French</source>
+        <translation>francuski</translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/AboutPage.qml" line="227"/>
+        <source>Finnish</source>
+        <translation>finski</translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/AboutPage.qml" line="233"/>
+        <source>Estonian</source>
+        <translation>estonski</translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/AboutPage.qml" line="239"/>
+        <source>English</source>
+        <translation>engleski</translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/AboutPage.qml" line="245"/>
         <source>Chinese</source>
-        <translation type="unfinished"></translation>
+        <translation>kineski</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="115"/>
@@ -128,7 +163,7 @@
 <context>
     <name>AskForSupport</name>
     <message>
-        <location filename="../qml/modules/Opal/SupportMe/AskForSupport.qml" line="11"/>
+        <location filename="../qml/modules/Opal/SupportMe/AskForSupport.qml" line="13"/>
         <source>Please take a moment to consider if you can contribute to this project in one way or another.</source>
         <translation>Molim vas uzmite trenutak da razmislite možete li doprineti ovom projektu da jedan ili drugi način.</translation>
     </message>
@@ -238,12 +273,12 @@
 <context>
     <name>DetailsDrawer</name>
     <message>
-        <location filename="../qml/modules/Opal/SupportMe/DetailsDrawer.qml" line="53"/>
+        <location filename="../qml/modules/Opal/SupportMe/DetailsDrawer.qml" line="54"/>
         <source>show less</source>
         <translation>prikaži manje</translation>
     </message>
     <message>
-        <location filename="../qml/modules/Opal/SupportMe/DetailsDrawer.qml" line="53"/>
+        <location filename="../qml/modules/Opal/SupportMe/DetailsDrawer.qml" line="54"/>
         <source>show more</source>
         <translation>prikaži više</translation>
     </message>
@@ -717,7 +752,7 @@
         <location filename="../qml/modules/Opal/About/private/ContributorsPage.qml" line="24"/>
         <location filename="../qml/modules/Opal/About/private/ContributorsPage.qml" line="33"/>
         <source>Development</source>
-        <translation type="unfinished"></translation>
+        <translation>razvitak</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="104"/>
@@ -741,7 +776,7 @@
     <message>
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="112"/>
         <source>Translations</source>
-        <translation type="unfinished"></translation>
+        <translation>prevodi</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="115"/>
@@ -1253,12 +1288,12 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/modules/Opal/SupportMe/SupportDialog.qml" line="55"/>
+        <location filename="../qml/modules/Opal/SupportMe/SupportDialog.qml" line="57"/>
         <source>Remind me later</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/modules/Opal/SupportMe/SupportDialog.qml" line="57"/>
+        <location filename="../qml/modules/Opal/SupportMe/SupportDialog.qml" line="59"/>
         <source>Don&apos;t ask me again</source>
         <translation type="unfinished"></translation>
     </message>
