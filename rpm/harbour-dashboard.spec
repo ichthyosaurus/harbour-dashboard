@@ -10,7 +10,7 @@ Name:       harbour-dashboard
 %define __provides_exclude_from ^%{_datadir}/.*$
 
 Summary:    Forecasts, monitors, and other gadgets at a glance
-Version:    0.2.0
+Version:    0.3.0
 Release:    1
 Group:      Applications/Internet
 License:    GPL-3.0-or-later
