@@ -415,7 +415,7 @@
         <location filename="../qml/components/ForecastItem.qml" line="193"/>
         <source>Night</source>
         <comment>use &apos;|&apos; to separate alternative strings of different length</comment>
-        <translation>ніч</translation>
+        <translation>Ніч</translation>
     </message>
     <message>
         <location filename="../qml/components/ForecastItem.qml" line="199"/>
@@ -902,7 +902,7 @@
     <message>
         <location filename="../qml/components/OverviewListDelegate.qml" line="41"/>
         <source>Remove</source>
-        <translation>видалити</translation>
+        <translation>Вилучити</translation>
     </message>
     <message>
         <location filename="../qml/components/OverviewListDelegate.qml" line="46"/>
@@ -1020,7 +1020,7 @@
         <location filename="../qml/tiles/clock/Settings.qml" line="49"/>
         <location filename="../qml/tiles/clock/Settings.qml" line="312"/>
         <source>Roman numbers</source>
-        <translation>римські цифри</translation>
+        <translation>Римські цифри</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="48"/>
@@ -1164,7 +1164,7 @@
         <location filename="../qml/tiles/day_times/Settings.qml" line="240"/>
         <location filename="../qml/tiles/weather_mch/Settings.qml" line="252"/>
         <source>Description</source>
-        <translation>опис</translation>
+        <translation>Опис</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Settings.qml" line="241"/>
@@ -1184,7 +1184,7 @@
     <message>
         <location filename="../qml/tiles/day_times/Settings.qml" line="285"/>
         <source>Timezone</source>
-        <translation>часовий пояс</translation>
+        <translation>Часовий пояси</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Settings.qml" line="286"/>
@@ -1218,7 +1218,7 @@
     <message>
         <location filename="../qml/tiles/base/SettingsDialogBase.qml" line="94"/>
         <source>Save</source>
-        <translation>зберегти</translation>
+        <translation>Зберегти</translation>
     </message>
     <message>
         <location filename="../qml/tiles/base/SettingsDialogBase.qml" line="95"/>
@@ -1273,12 +1273,12 @@
     <message>
         <location filename="../qml/pages/TablePage.qml" line="53"/>
         <source>Hour</source>
-        <translation>годину</translation>
+        <translation>Годину</translation>
     </message>
     <message>
         <location filename="../qml/pages/TablePage.qml" line="64"/>
         <source>Temp.</source>
-        <translation>темп.</translation>
+        <translation>Темп.</translation>
     </message>
     <message>
         <location filename="../qml/pages/TablePage.qml" line="71"/>
@@ -1288,7 +1288,7 @@
     <message>
         <location filename="../qml/pages/TablePage.qml" line="92"/>
         <source>Description</source>
-        <translation>опис</translation>
+        <translation>Опис</translation>
     </message>
     <message>
         <location filename="../qml/pages/TablePage.qml" line="78"/>
@@ -1487,7 +1487,7 @@
     <message>
         <location filename="../qml/js/strings.js" line="5"/>
         <source>clear</source>
-        <translation>ясно</translation>
+        <translation>очищення</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="6"/>

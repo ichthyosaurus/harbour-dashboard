@@ -12,7 +12,7 @@
         <location filename="../qml/pages/AboutPage.qml" line="45"/>
         <source>Everything at a glance.</source>
         <comment>this app&apos;s motto</comment>
-        <translation type="unfinished"></translation>
+        <translation>Allt i en överblick.</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="80"/>
@@ -28,23 +28,23 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="82"/>
         <source>https://www.meteoswiss.admin.ch/</source>
-        <translation type="unfinished"></translation>
+        <translation>https://www.meteoswiss.admin.ch/</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="85"/>
         <source>Norwegian meteorological data</source>
-        <translation type="unfinished"></translation>
+        <translation>Norsk metrologisk data</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="87"/>
         <source>https://yr.no/</source>
-        <translation type="unfinished"></translation>
+        <translation>https://yr.no/</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="90"/>
         <location filename="../qml/pages/AboutPage.qml" line="138"/>
         <source>Weather icons</source>
-        <translation type="unfinished"></translation>
+        <translation>Väder-ikoner</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="96"/>
@@ -67,7 +67,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="142"/>
         <source>Weather descriptions</source>
-        <translation type="unfinished"></translation>
+        <translation>Väderleksbeskrivningar</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="149"/>
@@ -77,7 +77,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="152"/>
         <source>Tamil</source>
-        <translation type="unfinished"></translation>
+        <translation>Tamiliska</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="158"/>
@@ -138,7 +138,7 @@
     <message>
         <location filename="../qml/tiles/common/BrokenTile.qml" line="49"/>
         <source>Invalid tile: %1 (%2)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig platta: %1 (%2)</translation>
     </message>
 </context>
 <context>
@@ -146,7 +146,7 @@
     <message>
         <location filename="../qml/components/DaySummaryItem.qml" line="95"/>
         <source>Today</source>
-        <translation type="unfinished"></translation>
+        <translation>Idag</translation>
     </message>
 </context>
 <context>
@@ -173,22 +173,22 @@
         <location filename="../qml/tiles/clock/Details.qml" line="56"/>
         <location filename="../qml/tiles/clock/Details.qml" line="66"/>
         <source>local time zone</source>
-        <translation type="unfinished"></translation>
+        <translation>lokal tidszon</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Details.qml" line="58"/>
         <source>time</source>
-        <translation type="unfinished"></translation>
+        <translation>tid</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Details.qml" line="115"/>
         <source>time zone</source>
-        <translation type="unfinished"></translation>
+        <translation>tidszon</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Details.qml" line="126"/>
         <source>local time</source>
-        <translation type="unfinished"></translation>
+        <translation>lokal tid</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Details.qml" line="132"/>
@@ -248,12 +248,12 @@
     <message>
         <location filename="../qml/tiles/base/DetailsPageBase.qml" line="80"/>
         <source>Configure</source>
-        <translation type="unfinished"></translation>
+        <translation>Konfigurera</translation>
     </message>
     <message>
         <location filename="../qml/tiles/base/DetailsPageBase.qml" line="86"/>
         <source>Refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>Uppdatera</translation>
     </message>
 </context>
 <context>
@@ -262,7 +262,7 @@
         <location filename="../qml/pages/FatalErrorPage.qml" line="15"/>
         <source>Error</source>
         <comment>fatal error message page title</comment>
-        <translation type="unfinished"></translation>
+        <translation>Fel</translation>
     </message>
     <message>
         <location filename="../qml/pages/FatalErrorPage.qml" line="18"/>
@@ -276,17 +276,17 @@
     <message>
         <location filename="../qml/components/ForecastGraphItem.qml" line="114"/>
         <source>Temperature</source>
-        <translation type="unfinished"></translation>
+        <translation>Temperatur</translation>
     </message>
     <message>
         <location filename="../qml/components/ForecastGraphItem.qml" line="121"/>
         <source>Precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation>Nederbörd</translation>
     </message>
     <message>
         <location filename="../qml/components/ForecastGraphItem.qml" line="128"/>
         <source>Wind</source>
-        <translation type="unfinished"></translation>
+        <translation>Vind</translation>
     </message>
 </context>
 <context>
@@ -295,40 +295,40 @@
         <location filename="../qml/components/ForecastItem.qml" line="17"/>
         <location filename="../qml/components/ForecastItem.qml" line="302"/>
         <source>Loading...</source>
-        <translation type="unfinished"></translation>
+        <translation>Laddar...</translation>
     </message>
     <message>
         <location filename="../qml/components/ForecastItem.qml" line="290"/>
         <source>Failed...</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades...</translation>
     </message>
     <message>
         <location filename="../qml/components/ForecastItem.qml" line="255"/>
         <source>status: </source>
-        <translation type="unfinished"></translation>
+        <translation>status: </translation>
     </message>
     <message>
         <location filename="../qml/components/ForecastItem.qml" line="268"/>
         <source>now: </source>
-        <translation type="unfinished"></translation>
+        <translation>nu: </translation>
     </message>
     <message>
         <location filename="../qml/components/ForecastItem.qml" line="262"/>
         <location filename="../qml/components/ForecastItem.qml" line="295"/>
         <location filename="../qml/components/ForecastItem.qml" line="305"/>
         <source>unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>okänt</translation>
     </message>
     <message>
         <location filename="../qml/components/ForecastItem.qml" line="98"/>
         <source>%1: %2</source>
         <comment>time (1) with weather description (2)</comment>
-        <translation type="unfinished"></translation>
+        <translation>%1:%2</translation>
     </message>
     <message>
         <location filename="../qml/components/ForecastItem.qml" line="135"/>
         <source>Sun Times</source>
-        <translation type="unfinished"></translation>
+        <translation>Soltider</translation>
     </message>
     <message>
         <location filename="../qml/components/ForecastItem.qml" line="160"/>
@@ -374,19 +374,19 @@
         <location filename="../qml/components/ForecastItem.qml" line="152"/>
         <source>Dawn</source>
         <comment>use &apos;|&apos; to separate alternative strings of different length</comment>
-        <translation type="unfinished"></translation>
+        <translation>Gryning</translation>
     </message>
     <message>
         <location filename="../qml/components/ForecastItem.qml" line="158"/>
         <source>Sunrise</source>
         <comment>use &apos;|&apos; to separate alternative strings of different length</comment>
-        <translation type="unfinished"></translation>
+        <translation>Soluppgång</translation>
     </message>
     <message>
         <location filename="../qml/components/ForecastItem.qml" line="164"/>
         <source>Golden Hour End</source>
         <comment>use &apos;|&apos; to separate alternative strings of different length</comment>
-        <translation type="unfinished"></translation>
+        <translation>Slut på den gyllene timmen</translation>
     </message>
     <message>
         <location filename="../qml/components/ForecastItem.qml" line="170"/>
@@ -404,13 +404,13 @@
         <location filename="../qml/components/ForecastItem.qml" line="187"/>
         <source>Sunset</source>
         <comment>use &apos;|&apos; to separate alternative strings of different length</comment>
-        <translation type="unfinished"></translation>
+        <translation>Solnedgång</translation>
     </message>
     <message>
         <location filename="../qml/components/ForecastItem.qml" line="193"/>
         <source>Night</source>
         <comment>use &apos;|&apos; to separate alternative strings of different length</comment>
-        <translation type="unfinished"></translation>
+        <translation>Natt</translation>
     </message>
     <message>
         <location filename="../qml/components/ForecastItem.qml" line="199"/>
@@ -429,7 +429,7 @@
     <message>
         <location filename="../qml/pages/ForecastPage.qml" line="35"/>
         <source>Reload Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Ladda om data</translation>
     </message>
 </context>
 <context>
@@ -437,12 +437,12 @@
     <message>
         <location filename="../qml/tiles/base/ForecastTileBase.qml" line="128"/>
         <source>Configure</source>
-        <translation type="unfinished"></translation>
+        <translation>Konfigurera</translation>
     </message>
     <message>
         <location filename="../qml/tiles/base/ForecastTileBase.qml" line="122"/>
         <source>Refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>Uppdatera</translation>
     </message>
     <message>
         <location filename="../qml/tiles/base/ForecastTileBase.qml" line="132"/>
@@ -463,12 +463,12 @@
     <message>
         <location filename="../qml/pages/LocationSearchPage.qml" line="48"/>
         <source>Add Location</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till plats</translation>
     </message>
     <message>
         <location filename="../qml/pages/LocationSearchPage.qml" line="54"/>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation>Sök</translation>
     </message>
     <message>
         <location filename="../qml/pages/LocationSearchPage.qml" line="32"/>
@@ -486,12 +486,12 @@
     <message>
         <location filename="../qml/pages/MainPage.qml" line="48"/>
         <source>Refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>Uppdatera</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="40"/>
         <source>Manage tiles</source>
-        <translation type="unfinished"></translation>
+        <translation>Hantera plattor</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="82"/>
@@ -520,17 +520,17 @@
     <message>
         <location filename="../qml/pages/MaintenancePage.qml" line="157"/>
         <source>Maintenance is complete</source>
-        <translation type="unfinished"></translation>
+        <translation>Underhållet är slutfört</translation>
     </message>
     <message>
         <location filename="../qml/pages/MaintenancePage.qml" line="119"/>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Stäng</translation>
     </message>
     <message>
         <location filename="../qml/pages/MaintenancePage.qml" line="48"/>
         <source>Maintenance</source>
-        <translation type="unfinished"></translation>
+        <translation>Underhåll</translation>
     </message>
     <message>
         <location filename="../qml/pages/MaintenancePage.qml" line="134"/>
@@ -553,7 +553,7 @@
     <message>
         <location filename="../qml/tiles/clock/Metadata.qml" line="11"/>
         <source>World clock</source>
-        <translation type="unfinished"></translation>
+        <translation>Världsklocka</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Metadata.qml" line="12"/>
@@ -573,7 +573,7 @@
     <message>
         <location filename="../qml/tiles/weather_mch/Metadata.qml" line="11"/>
         <source>Weather forecast (MeteoSwiss)</source>
-        <translation type="unfinished"></translation>
+        <translation>Väderleksrapport (MeteoSwiss)</translation>
     </message>
     <message>
         <location filename="../qml/tiles/weather_mch/Metadata.qml" line="12"/>
@@ -583,7 +583,7 @@
     <message>
         <location filename="../qml/tiles/weather_yrn/Metadata.qml" line="11"/>
         <source>Weather forecast (Yr.no)</source>
-        <translation type="unfinished"></translation>
+        <translation>Väderleksrapport (Yr.no)</translation>
     </message>
     <message>
         <location filename="../qml/tiles/weather_yrn/Metadata.qml" line="12"/>
@@ -682,7 +682,7 @@
     <message>
         <location filename="../qml/pages/NewTileDialog.qml" line="74"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Avbryt</translation>
     </message>
     <message>
         <location filename="../qml/pages/NewTileDialog.qml" line="75"/>
@@ -692,7 +692,7 @@
     <message>
         <location filename="../qml/pages/NewTileDialog.qml" line="73"/>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till</translation>
     </message>
 </context>
 <context>
@@ -895,17 +895,17 @@
     <message>
         <location filename="../qml/components/OverviewListDelegate.qml" line="41"/>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort</translation>
     </message>
     <message>
         <location filename="../qml/components/OverviewListDelegate.qml" line="46"/>
         <source>Move to top</source>
-        <translation type="unfinished"></translation>
+        <translation>Flytta längst upp</translation>
     </message>
     <message>
         <location filename="../qml/components/OverviewListDelegate.qml" line="204"/>
         <source>Deleting</source>
-        <translation type="unfinished"></translation>
+        <translation>Tar bort</translation>
     </message>
 </context>
 <context>
@@ -918,12 +918,12 @@
     <message>
         <location filename="../qml/pages/OverviewPage.qml" line="91"/>
         <source>Refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>Uppdatera</translation>
     </message>
     <message>
         <location filename="../qml/pages/OverviewPage.qml" line="86"/>
         <source>Add location</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till plats</translation>
     </message>
     <message>
         <location filename="../qml/pages/OverviewPage.qml" line="109"/>
@@ -941,7 +941,7 @@
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="115"/>
         <source>Local time</source>
-        <translation type="unfinished"></translation>
+        <translation>Lokal tid</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="180"/>
@@ -951,47 +951,47 @@
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="81"/>
         <source>Clock time</source>
-        <translation type="unfinished"></translation>
+        <translation>Klocktid</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="91"/>
         <source>Current time</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuvarande tid</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="269"/>
         <source>Tokyo, Japan</source>
-        <translation type="unfinished"></translation>
+        <translation>Tokyo, Japan</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="269"/>
         <source>Nuuk, Greenland</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuuk, Grönland</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="270"/>
         <source>Yangon, Myanmar</source>
-        <translation type="unfinished"></translation>
+        <translation>Yangon, Myanmar</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="270"/>
         <source>Lubumbashi, DR Congo</source>
-        <translation type="unfinished"></translation>
+        <translation>Lubumbashi, DR Congo</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="271"/>
         <source>Belém, Brazil</source>
-        <translation type="unfinished"></translation>
+        <translation>Belém, Brasilien</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="271"/>
         <source>Paris, France</source>
-        <translation type="unfinished"></translation>
+        <translation>Paris, Frankrike</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="280"/>
         <source>e.g. %1</source>
-        <translation type="unfinished"></translation>
+        <translation>t.ex %1</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="281"/>
@@ -1001,19 +1001,19 @@
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="306"/>
         <source>Clock face</source>
-        <translation type="unfinished"></translation>
+        <translation>Klockansikte</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="47"/>
         <location filename="../qml/tiles/clock/Settings.qml" line="310"/>
         <source>without numbers</source>
-        <translation type="unfinished"></translation>
+        <translation>utan nummer</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="49"/>
         <location filename="../qml/tiles/clock/Settings.qml" line="312"/>
         <source>Roman numbers</source>
-        <translation type="unfinished"></translation>
+        <translation>Romerska nummer</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="48"/>
@@ -1030,7 +1030,7 @@
         <location filename="../qml/tiles/clock/Settings.qml" line="135"/>
         <location filename="../qml/tiles/clock/Settings.qml" line="153"/>
         <source>Time zone</source>
-        <translation type="unfinished"></translation>
+        <translation>Tidszon</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="136"/>
@@ -1045,7 +1045,7 @@
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="156"/>
         <source>%1, %2 (%3)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1, %2 (%3)</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="181"/>
@@ -1055,7 +1055,7 @@
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="199"/>
         <source>UTC + %1</source>
-        <translation type="unfinished"></translation>
+        <translation>UTC + %1</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="200"/>
@@ -1065,7 +1065,7 @@
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="216"/>
         <source>UTC - %1</source>
-        <translation type="unfinished"></translation>
+        <translation>UTC - %1</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="217"/>
@@ -1075,38 +1075,38 @@
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="251"/>
         <source>- %1</source>
-        <translation type="unfinished"></translation>
+        <translation>- %1</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="251"/>
         <source>+ %1</source>
-        <translation type="unfinished"></translation>
+        <translation>+ %1</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="108"/>
         <source>Time format</source>
-        <translation type="unfinished"></translation>
+        <translation>Tidsformat</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="261"/>
         <source>Appearance</source>
-        <translation type="unfinished"></translation>
+        <translation>Utseende</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Settings.qml" line="223"/>
         <location filename="../qml/tiles/weather_mch/Settings.qml" line="235"/>
         <source>Location details</source>
-        <translation type="unfinished"></translation>
+        <translation>Detaljer för platsen</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Settings.qml" line="257"/>
         <source>Latitude</source>
-        <translation type="unfinished"></translation>
+        <translation>Latitud</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Settings.qml" line="272"/>
         <source>Longitude</source>
-        <translation type="unfinished"></translation>
+        <translation>Longitud</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Settings.qml" line="98"/>
@@ -1114,38 +1114,38 @@
         <location filename="../qml/tiles/weather_mch/Settings.qml" line="83"/>
         <location filename="../qml/tiles/weather_mch/Settings.qml" line="109"/>
         <source>Find a location</source>
-        <translation type="unfinished"></translation>
+        <translation>Hitta en plats</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Settings.qml" line="126"/>
         <source>Enter details manually</source>
-        <translation type="unfinished"></translation>
+        <translation>Fyll i detaljer manuellt</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Settings.qml" line="173"/>
         <source>%1 °N</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 °N</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Settings.qml" line="173"/>
         <source>%1 °S</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 °S</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Settings.qml" line="175"/>
         <source>%1 °E</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 °Ö</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Settings.qml" line="175"/>
         <source>%1 °W</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 °V</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Settings.qml" line="231"/>
         <location filename="../qml/tiles/weather_mch/Settings.qml" line="243"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Namn</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Settings.qml" line="232"/>
@@ -1157,7 +1157,7 @@
         <location filename="../qml/tiles/day_times/Settings.qml" line="240"/>
         <location filename="../qml/tiles/weather_mch/Settings.qml" line="252"/>
         <source>Description</source>
-        <translation type="unfinished"></translation>
+        <translation>Beskrivning</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Settings.qml" line="241"/>
@@ -1177,7 +1177,7 @@
     <message>
         <location filename="../qml/tiles/day_times/Settings.qml" line="285"/>
         <source>Timezone</source>
-        <translation type="unfinished"></translation>
+        <translation>Tidszon</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Settings.qml" line="286"/>
@@ -1187,13 +1187,13 @@
     <message>
         <location filename="../qml/tiles/day_times/Settings.qml" line="292"/>
         <source>Lookup timezone</source>
-        <translation type="unfinished"></translation>
+        <translation>Kolla upp tidszon</translation>
     </message>
     <message>
         <location filename="../qml/tiles/weather_mch/Settings.qml" line="209"/>
         <location filename="../qml/tiles/weather_mch/Settings.qml" line="217"/>
         <source>%1 m</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 m</translation>
     </message>
     <message>
         <location filename="../qml/tiles/weather_mch/Settings.qml" line="253"/>
@@ -1203,7 +1203,7 @@
     <message>
         <location filename="../qml/tiles/weather_mch/Settings.qml" line="260"/>
         <source>Zip code</source>
-        <translation type="unfinished"></translation>
+        <translation>Postnummer</translation>
     </message>
 </context>
 <context>
@@ -1211,12 +1211,12 @@
     <message>
         <location filename="../qml/tiles/base/SettingsDialogBase.qml" line="94"/>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Spara</translation>
     </message>
     <message>
         <location filename="../qml/tiles/base/SettingsDialogBase.qml" line="95"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Avbryt</translation>
     </message>
 </context>
 <context>
@@ -1225,7 +1225,7 @@
         <location filename="../qml/components/SunTimesItem.qml" line="18"/>
         <source>%1: %2</source>
         <comment>sun time title (1) with description (2)</comment>
-        <translation type="unfinished"></translation>
+        <translation>%1: %2</translation>
     </message>
 </context>
 <context>
@@ -1261,32 +1261,32 @@
     <message>
         <location filename="../qml/pages/TablePage.qml" line="31"/>
         <source>Detailed Forecast</source>
-        <translation type="unfinished"></translation>
+        <translation>Detaljerad väderleksprognos</translation>
     </message>
     <message>
         <location filename="../qml/pages/TablePage.qml" line="53"/>
         <source>Hour</source>
-        <translation type="unfinished"></translation>
+        <translation>Timme</translation>
     </message>
     <message>
         <location filename="../qml/pages/TablePage.qml" line="64"/>
         <source>Temp.</source>
-        <translation type="unfinished"></translation>
+        <translation>Temp.</translation>
     </message>
     <message>
         <location filename="../qml/pages/TablePage.qml" line="71"/>
         <source>Precip.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nederb.</translation>
     </message>
     <message>
         <location filename="../qml/pages/TablePage.qml" line="92"/>
         <source>Description</source>
-        <translation type="unfinished"></translation>
+        <translation>Beskrivning</translation>
     </message>
     <message>
         <location filename="../qml/pages/TablePage.qml" line="78"/>
         <source>Wind</source>
-        <translation type="unfinished"></translation>
+        <translation>Vind</translation>
     </message>
 </context>
 <context>
@@ -1294,7 +1294,7 @@
     <message>
         <location filename="../qml/tiles/spacer/Tile.qml" line="38"/>
         <source>Placeholder</source>
-        <translation type="unfinished"></translation>
+        <translation>Platshållare</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Tile.qml" line="64"/>
@@ -1302,13 +1302,13 @@
         <location filename="../qml/tiles/clock/Tile.qml" line="109"/>
         <source>UTC %1</source>
         <comment>time offset like &apos;UTC -11:00&apos;</comment>
-        <translation type="unfinished"></translation>
+        <translation>UTC %1</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Tile.qml" line="76"/>
         <location filename="../qml/tiles/clock/Tile.qml" line="107"/>
         <source>local time</source>
-        <translation type="unfinished"></translation>
+        <translation>lokal tid</translation>
     </message>
     <message numerus="yes">
         <location filename="../qml/tiles/clock/Tile.qml" line="118"/>
@@ -1349,51 +1349,51 @@
     <message>
         <location filename="../qml/tiles/weather_yrn/Tile.qml" line="38"/>
         <source>Weather (Yr.no)</source>
-        <translation type="unfinished"></translation>
+        <translation>Väder (Yr.no)</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Tile.qml" line="136"/>
         <location filename="../qml/tiles/day_times/Tile.qml" line="182"/>
         <source>dawn</source>
-        <translation type="unfinished"></translation>
+        <translation>gryning</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Tile.qml" line="194"/>
         <source>noon</source>
-        <translation type="unfinished"></translation>
+        <translation>middagstid</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Tile.qml" line="200"/>
         <source>golden</source>
-        <translation type="unfinished"></translation>
+        <translation>gyllene</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Tile.qml" line="154"/>
         <location filename="../qml/tiles/day_times/Tile.qml" line="222"/>
         <source>dusk</source>
-        <translation type="unfinished"></translation>
+        <translation>skymning</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Tile.qml" line="148"/>
         <location filename="../qml/tiles/day_times/Tile.qml" line="228"/>
         <source>sunset</source>
-        <translation type="unfinished"></translation>
+        <translation>solnedgång</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Tile.qml" line="234"/>
         <source>zenith</source>
-        <translation type="unfinished"></translation>
+        <translation>zenit</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Tile.qml" line="241"/>
         <source>hour</source>
-        <translation type="unfinished"></translation>
+        <translation>timme</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Tile.qml" line="142"/>
         <location filename="../qml/tiles/day_times/Tile.qml" line="188"/>
         <source>sunrise</source>
-        <translation type="unfinished"></translation>
+        <translation>soluppgång</translation>
     </message>
 </context>
 <context>
@@ -1406,7 +1406,7 @@
     <message>
         <location filename="../qml/tiles/clock/private/TimeShiftPreviewPage.qml" line="73"/>
         <source>Calculate local time</source>
-        <translation type="unfinished"></translation>
+        <translation>Beräkna lokal tid</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/private/TimeShiftPreviewPage.qml" line="87"/>
@@ -1417,13 +1417,13 @@
         <location filename="../qml/tiles/clock/private/TimeShiftPreviewPage.qml" line="182"/>
         <source>Local time</source>
         <comment>as in &apos;here, versus over there&apos;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Lokal tid</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/private/TimeShiftPreviewPage.qml" line="183"/>
         <source>Calculated local time</source>
         <comment>as in &apos;here, versus over there&apos;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Beräknade lokal tid</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/private/TimeShiftPreviewPage.qml" line="200"/>
@@ -1453,7 +1453,7 @@
     <message>
         <location filename="../qml/harbour-dashboard.qml" line="39"/>
         <source>hh&apos;:&apos;mm</source>
-        <translation type="unfinished"></translation>
+        <translation>hh&apos;:&apos;mm</translation>
     </message>
     <message>
         <location filename="../qml/harbour-dashboard.qml" line="404"/>
@@ -1476,7 +1476,7 @@
     <message>
         <location filename="../qml/js/strings.js" line="5"/>
         <source>clear</source>
-        <translation type="unfinished"></translation>
+        <translation>rensa</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="6"/>
@@ -1486,24 +1486,24 @@
     <message>
         <location filename="../qml/js/strings.js" line="7"/>
         <source>heavy cloud formations</source>
-        <translation type="unfinished"></translation>
+        <translation>tunga moln-formationer</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="8"/>
         <location filename="../qml/js/strings.js" line="69"/>
         <source>overcast</source>
-        <translation type="unfinished"></translation>
+        <translation>mulet</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="9"/>
         <location filename="../qml/js/strings.js" line="70"/>
         <source>very cloudy</source>
-        <translation type="unfinished"></translation>
+        <translation>väldigt molnigt</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="10"/>
         <source>overcast, scattered showers</source>
-        <translation type="unfinished"></translation>
+        <translation>mulet, spridda skurar</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="11"/>
@@ -1513,17 +1513,17 @@
     <message>
         <location filename="../qml/js/strings.js" line="12"/>
         <source>overcast, snow showers</source>
-        <translation type="unfinished"></translation>
+        <translation>mulet, snöskurar</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="13"/>
         <source>overcast, some showers</source>
-        <translation type="unfinished"></translation>
+        <translation>mulet, en del skurar</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="14"/>
         <source>overcast, some sleet</source>
-        <translation type="unfinished"></translation>
+        <translation>mulet, en del slask</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="15"/>
@@ -1544,7 +1544,7 @@
     <message>
         <location filename="../qml/js/strings.js" line="18"/>
         <source>storms</source>
-        <translation type="unfinished"></translation>
+        <translation>stormar</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="19"/>
@@ -1601,12 +1601,12 @@
     <message>
         <location filename="../qml/js/strings.js" line="30"/>
         <source>very cloudy, stormy</source>
-        <translation type="unfinished"></translation>
+        <translation>väldigt molnigt, stormigt</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="31"/>
         <source>very cloudy, storms</source>
-        <translation type="unfinished"></translation>
+        <translation>väldigt molnigt, stormar</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="32"/>
@@ -1623,7 +1623,7 @@
         <location filename="../qml/js/strings.js" line="34"/>
         <location filename="../qml/js/strings.js" line="59"/>
         <source>fog</source>
-        <translation type="unfinished"></translation>
+        <translation>dimma</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="35"/>
@@ -1660,7 +1660,7 @@
         <location filename="../qml/js/strings.js" line="42"/>
         <location filename="../qml/js/strings.js" line="67"/>
         <source>overcast and dry</source>
-        <translation type="unfinished"></translation>
+        <translation>mulet och torrt</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="43"/>
@@ -1690,7 +1690,7 @@
     <message>
         <location filename="../qml/js/strings.js" line="50"/>
         <source>sunny</source>
-        <translation type="unfinished"></translation>
+        <translation>soligt</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="51"/>
