@@ -44,7 +44,7 @@
         <location filename="../qml/pages/AboutPage.qml" line="90"/>
         <location filename="../qml/pages/AboutPage.qml" line="138"/>
         <source>Weather icons</source>
-        <translation type="unfinished"></translation>
+        <translation>Ikony počasí</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="96"/>
