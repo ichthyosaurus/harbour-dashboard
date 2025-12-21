@@ -213,7 +213,7 @@
     <message>
         <location filename="../qml/tiles/clock/Details.qml" line="58"/>
         <source>time</source>
-        <translation>hora</translation>
+        <translation>cronómetro</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Details.qml" line="115"/>
@@ -1641,7 +1641,7 @@
     <message>
         <location filename="../qml/js/strings.js" line="32"/>
         <source>high cloud</source>
-        <translation>nubes altas</translation>
+        <translation>nube alta</translation>
     </message>
     <message>
         <location filename="../qml/js/strings.js" line="33"/>
