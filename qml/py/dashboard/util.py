@@ -7,6 +7,12 @@
 import sqlite3
 from pathlib import Path
 
+import sys
+import os
+
+# Output Python logs to console
+sys.stdout = os.fdopen(sys.stdout.fileno(), 'w', 1)
+
 
 def log(*args, scope=''):
     scope = f'[py:{scope}]' if scope else '[py]'
