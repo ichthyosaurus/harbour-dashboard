@@ -1,6 +1,6 @@
 /*
  * This file is part of harbour-dashboard.
- * SPDX-FileCopyrightText: 2018-2024 Mirian Margiani
+ * SPDX-FileCopyrightText: 2018-2026 Mirian Margiani
  * SPDX-License-Identifier: GPL-3.0-or-later
  */
 
@@ -27,7 +27,6 @@ A.AboutPageBase {
     appVersion: APP_VERSION
     appRelease: APP_RELEASE
 
-    allowDownloadingLicenses: true  // this app requires an internet connection anyway
     sourcesUrl: "https://github.com/ichthyosaurus/%1".arg(Qt.application.name)
     homepageUrl: "https://forum.sailfishos.org/t/apps-by-ichthyosaurus/15753"
     translationsUrl: "https://hosted.weblate.org/projects/%1".arg(Qt.application.name)
@@ -44,7 +43,6 @@ A.AboutPageBase {
 
     description: qsTr("Everything at a glance.", "this app's motto")
     mainAttributions: ["2018-%1 Mirian Margiani".arg((new Date()).getFullYear())]
-    autoAddOpalAttributions: true
 
     attributions: [
         A.Attribution {
