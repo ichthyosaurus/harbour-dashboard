@@ -12,18 +12,18 @@
         <location filename="../qml/pages/AboutPage.qml" line="45"/>
         <source>Everything at a glance.</source>
         <comment>this app&apos;s motto</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tutto a colpo d&apos;occhio.</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="80"/>
         <source>Swiss meteorological data</source>
-        <translation type="unfinished"></translation>
+        <translation>Dati meteorologici svizzeri</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="81"/>
         <location filename="../qml/pages/AboutPage.qml" line="86"/>
         <source>MeteoSwiss</source>
-        <translation type="unfinished"></translation>
+        <translation>Meteo Svizzera</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="82"/>
@@ -33,36 +33,36 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="85"/>
         <source>Norwegian meteorological data</source>
-        <translation type="unfinished"></translation>
+        <translation>Dati meteorologici norvegesi</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="87"/>
         <source>https://yr.no/</source>
-        <translation type="unfinished"></translation>
+        <translation>https://yr.no/</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="90"/>
         <location filename="../qml/pages/AboutPage.qml" line="138"/>
         <source>Weather icons</source>
-        <translation type="unfinished"></translation>
+        <translation>Icone del tempo</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="96"/>
         <location filename="../qml/pages/AboutPage.qml" line="103"/>
         <location filename="../qml/pages/AboutPage.qml" line="109"/>
         <source>adapted by Mirian Margiani</source>
-        <translation type="unfinished"></translation>
+        <translation>adattato da Mirian Margiani</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="108"/>
         <source>Coordinates calculator</source>
         <comment>MeteoSwiss uses the Swiss local coordinate system that must be converted to global coordinates</comment>
-        <translation type="unfinished"></translation>
+        <translation>Calcolatore di coordinate</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="115"/>
         <source>Some modules have been adapted for use in this app.</source>
-        <translation type="unfinished"></translation>
+        <translation>Alcuni moduli sono stati adattati per essere utilizzati in questa app.</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="134"/>
@@ -72,7 +72,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="142"/>
         <source>Weather descriptions</source>
-        <translation type="unfinished"></translation>
+        <translation>Descrizioni meteorologiche</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="149"/>
@@ -173,7 +173,7 @@
     <message>
         <location filename="../qml/tiles/common/BrokenTile.qml" line="49"/>
         <source>Invalid tile: %1 (%2)</source>
-        <translation type="unfinished"></translation>
+        <translation>Riquadro non valido: %1 (%2)</translation>
     </message>
 </context>
 <context>
@@ -181,7 +181,7 @@
     <message>
         <location filename="../qml/components/DaySummaryItem.qml" line="95"/>
         <source>Today</source>
-        <translation type="unfinished"></translation>
+        <translation>Oggi</translation>
     </message>
 </context>
 <context>
@@ -190,79 +190,79 @@
         <location filename="../qml/tiles/clock/Details.qml" line="49"/>
         <source>%1h behind</source>
         <comment>shortened form of &apos;%1 hour(s) behind local time&apos;</comment>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%1 ora indietro</numerusform>
+            <numerusform>%1 ore indietro</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="../qml/tiles/clock/Details.qml" line="52"/>
         <source>%1h ahead</source>
         <comment>shortened form of &apos;%1 hour(s) ahead of local time&apos;</comment>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%1 ora avanti</numerusform>
+            <numerusform>%1 ore avanti</numerusform>
         </translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Details.qml" line="56"/>
         <location filename="../qml/tiles/clock/Details.qml" line="66"/>
         <source>local time zone</source>
-        <translation type="unfinished"></translation>
+        <translation>fuso orario locale</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Details.qml" line="58"/>
         <source>time</source>
-        <translation type="unfinished"></translation>
+        <translation>tempo</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Details.qml" line="115"/>
         <source>time zone</source>
-        <translation type="unfinished"></translation>
+        <translation>fuso orario</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Details.qml" line="126"/>
         <source>local time</source>
-        <translation type="unfinished"></translation>
+        <translation>ora locale</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Details.qml" line="132"/>
         <source>offset from UTC</source>
-        <translation type="unfinished"></translation>
+        <translation>scostamento dall&apos;ora UTC</translation>
     </message>
     <message numerus="yes">
         <location filename="../qml/tiles/clock/Details.qml" line="133"/>
         <source>%1 hour(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%1 ora</numerusform>
+            <numerusform>%1 ore</numerusform>
         </translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Details.qml" line="138"/>
         <source>offset from local time</source>
-        <translation type="unfinished"></translation>
+        <translation>sfalsato rispetto all&apos;ora locale</translation>
     </message>
     <message numerus="yes">
         <location filename="../qml/tiles/clock/Details.qml" line="141"/>
         <source>%1 hour(s) behind local time</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%1 ora indietro rispetto all&apos;ora locale</numerusform>
+            <numerusform>%1 ore indietro rispetto all&apos;ora locale</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="../qml/tiles/clock/Details.qml" line="144"/>
         <source>%1 hour(s) ahead of local time</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%1 ora avanti rispetto all&apos;ora locale</numerusform>
+            <numerusform>%1 ore avanti rispetto all&apos;ora locale</numerusform>
         </translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Details.qml" line="29"/>
         <source>Preview time shift</source>
-        <translation type="unfinished"></translation>
+        <translation>Anteprima dello spostamento temporale</translation>
     </message>
 </context>
 <context>
@@ -283,12 +283,12 @@
     <message>
         <location filename="../qml/tiles/base/DetailsPageBase.qml" line="80"/>
         <source>Configure</source>
-        <translation type="unfinished"></translation>
+        <translation>Configura</translation>
     </message>
     <message>
         <location filename="../qml/tiles/base/DetailsPageBase.qml" line="86"/>
         <source>Refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>Aggiorna</translation>
     </message>
 </context>
 <context>
@@ -297,13 +297,13 @@
         <location filename="../qml/pages/FatalErrorPage.qml" line="15"/>
         <source>Error</source>
         <comment>fatal error message page title</comment>
-        <translation type="unfinished"></translation>
+        <translation>Errore</translation>
     </message>
     <message>
         <location filename="../qml/pages/FatalErrorPage.qml" line="18"/>
         <source>Please restart the app. If the problem persists and appears to be a flaw in this app, please report the issue.</source>
         <comment>generic hint on what to do after a fatal error occurred(error message will be shown separately)</comment>
-        <translation type="unfinished"></translation>
+        <translation>Riavvia l&apos;app. Se il problema persiste e sembra essere un difetto dell&apos;app, segnalalo.</translation>
     </message>
 </context>
 <context>
@@ -311,17 +311,17 @@
     <message>
         <location filename="../qml/components/ForecastGraphItem.qml" line="114"/>
         <source>Temperature</source>
-        <translation type="unfinished"></translation>
+        <translation>Temperatura</translation>
     </message>
     <message>
         <location filename="../qml/components/ForecastGraphItem.qml" line="121"/>
         <source>Precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation>Precipitazione</translation>
     </message>
     <message>
         <location filename="../qml/components/ForecastGraphItem.qml" line="128"/>
         <source>Wind</source>
-        <translation type="unfinished"></translation>
+        <translation>Vento</translation>
     </message>
 </context>
 <context>
@@ -330,24 +330,24 @@
         <location filename="../qml/components/ForecastItem.qml" line="17"/>
         <location filename="../qml/components/ForecastItem.qml" line="302"/>
         <source>Loading...</source>
-        <translation type="unfinished"></translation>
+        <translation>Caricamento...</translation>
     </message>
     <message>
         <location filename="../qml/components/ForecastItem.qml" line="98"/>
         <source>%1: %2</source>
         <comment>time (1) with weather description (2)</comment>
-        <translation type="unfinished"></translation>
+        <translation>%1: %2</translation>
     </message>
     <message>
         <location filename="../qml/components/ForecastItem.qml" line="135"/>
         <source>Sun Times</source>
-        <translation type="unfinished"></translation>
+        <translation>Orari del sole</translation>
     </message>
     <message>
         <location filename="../qml/components/ForecastItem.qml" line="152"/>
         <source>Dawn</source>
         <comment>use &apos;|&apos; to separate alternative strings of different length</comment>
-        <translation type="unfinished"></translation>
+        <translation>Alba</translation>
     </message>
     <message>
         <location filename="../qml/components/ForecastItem.qml" line="154"/>
@@ -358,51 +358,51 @@
         <location filename="../qml/components/ForecastItem.qml" line="158"/>
         <source>Sunrise</source>
         <comment>use &apos;|&apos; to separate alternative strings of different length</comment>
-        <translation type="unfinished"></translation>
+        <translation>Alba</translation>
     </message>
     <message>
         <location filename="../qml/components/ForecastItem.qml" line="160"/>
         <source>top edge of the sun appears on the horizon</source>
-        <translation type="unfinished"></translation>
+        <translation>il bordo superiore del sole appare all&apos;orizzonte</translation>
     </message>
     <message>
         <location filename="../qml/components/ForecastItem.qml" line="164"/>
         <source>Golden Hour End</source>
         <comment>use &apos;|&apos; to separate alternative strings of different length</comment>
-        <translation type="unfinished"></translation>
+        <translation>Fine dell&apos;ora d&apos;oro</translation>
     </message>
     <message>
         <location filename="../qml/components/ForecastItem.qml" line="166"/>
         <source>morning golden hour (soft light, best time for photography) ends</source>
-        <translation type="unfinished"></translation>
+        <translation>termina l&apos;ora d&apos;oro del mattino (luce soffusa, momento migliore per la fotografia)</translation>
     </message>
     <message>
         <location filename="../qml/components/ForecastItem.qml" line="170"/>
         <source>Solar Noon</source>
         <comment>use &apos;|&apos; to separate alternative strings of different length</comment>
-        <translation type="unfinished"></translation>
+        <translation>Mezzogiorno solare</translation>
     </message>
     <message>
         <location filename="../qml/components/ForecastItem.qml" line="172"/>
         <source>sun is in the highest position</source>
-        <translation type="unfinished"></translation>
+        <translation>il sole è nella posizione più alta</translation>
     </message>
     <message>
         <location filename="../qml/components/ForecastItem.qml" line="181"/>
         <source>Golden Hour</source>
         <comment>use &apos;|&apos; to separate alternative strings of different length</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ora d&apos;oro</translation>
     </message>
     <message>
         <location filename="../qml/components/ForecastItem.qml" line="183"/>
         <source>evening golden hour (soft light, best time for photography) starts</source>
-        <translation type="unfinished"></translation>
+        <translation>inizia l&apos;ora d&apos;oro della sera (luce soffusa, momento migliore per la fotografia)</translation>
     </message>
     <message>
         <location filename="../qml/components/ForecastItem.qml" line="187"/>
         <source>Sunset</source>
         <comment>use &apos;|&apos; to separate alternative strings of different length</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tramonto</translation>
     </message>
     <message>
         <location filename="../qml/components/ForecastItem.qml" line="189"/>
@@ -413,45 +413,45 @@
         <location filename="../qml/components/ForecastItem.qml" line="193"/>
         <source>Night</source>
         <comment>use &apos;|&apos; to separate alternative strings of different length</comment>
-        <translation type="unfinished"></translation>
+        <translation>Notte</translation>
     </message>
     <message>
         <location filename="../qml/components/ForecastItem.qml" line="195"/>
         <source>dark enough for astronomical observations</source>
-        <translation type="unfinished"></translation>
+        <translation>abbastanza buio per le osservazioni astronomiche</translation>
     </message>
     <message>
         <location filename="../qml/components/ForecastItem.qml" line="199"/>
         <source>Nadir</source>
         <comment>use &apos;|&apos; to separate alternative strings of different length</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nadir</translation>
     </message>
     <message>
         <location filename="../qml/components/ForecastItem.qml" line="201"/>
         <source>darkest moment of the night, sun is in the lowest position</source>
-        <translation type="unfinished"></translation>
+        <translation>momento più buio della notte, il sole è nella posizione più bassa</translation>
     </message>
     <message>
         <location filename="../qml/components/ForecastItem.qml" line="255"/>
         <source>status: </source>
-        <translation type="unfinished"></translation>
+        <translation>stato: </translation>
     </message>
     <message>
         <location filename="../qml/components/ForecastItem.qml" line="262"/>
         <location filename="../qml/components/ForecastItem.qml" line="295"/>
         <location filename="../qml/components/ForecastItem.qml" line="305"/>
         <source>unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>sconosciuto</translation>
     </message>
     <message>
         <location filename="../qml/components/ForecastItem.qml" line="268"/>
         <source>now: </source>
-        <translation type="unfinished"></translation>
+        <translation>ora: </translation>
     </message>
     <message>
         <location filename="../qml/components/ForecastItem.qml" line="290"/>
         <source>Failed...</source>
-        <translation type="unfinished"></translation>
+        <translation>Fallito...</translation>
     </message>
 </context>
 <context>
@@ -459,12 +459,12 @@
     <message>
         <location filename="../qml/pages/ForecastPage.qml" line="35"/>
         <source>Reload Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Ricarica dati</translation>
     </message>
     <message>
         <location filename="../qml/pages/ForecastPage.qml" line="83"/>
         <source>Failed to load data!</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossibile caricare i dati!</translation>
     </message>
 </context>
 <context>
@@ -472,17 +472,17 @@
     <message>
         <location filename="../qml/tiles/base/ForecastTileBase.qml" line="128"/>
         <source>Configure</source>
-        <translation type="unfinished"></translation>
+        <translation>Configura</translation>
     </message>
     <message>
         <location filename="../qml/tiles/base/ForecastTileBase.qml" line="122"/>
         <source>Refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>Aggiorna</translation>
     </message>
     <message>
         <location filename="../qml/tiles/base/ForecastTileBase.qml" line="132"/>
         <source>Manage tiles</source>
-        <translation type="unfinished"></translation>
+        <translation>Gestisci le tessere</translation>
     </message>
 </context>
 <context>
@@ -498,17 +498,17 @@
     <message>
         <location filename="../qml/pages/LocationSearchPage.qml" line="32"/>
         <source>Bootstrap debug locations</source>
-        <translation type="unfinished"></translation>
+        <translation>Posizioni di debug bootstrap</translation>
     </message>
     <message>
         <location filename="../qml/pages/LocationSearchPage.qml" line="48"/>
         <source>Add Location</source>
-        <translation type="unfinished"></translation>
+        <translation>Aggiungi posizione</translation>
     </message>
     <message>
         <location filename="../qml/pages/LocationSearchPage.qml" line="54"/>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation>Ricerca</translation>
     </message>
 </context>
 <context>
@@ -521,23 +521,23 @@
     <message>
         <location filename="../qml/pages/MainPage.qml" line="48"/>
         <source>Refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>Aggiorna</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="40"/>
         <source>Manage tiles</source>
-        <translation type="unfinished"></translation>
+        <translation>Gestisci le tessere</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="82"/>
         <source>Pull down to manage tiles</source>
-        <translation type="unfinished"></translation>
+        <translation>Tirare verso il basso per gestire le tessere</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="55"/>
         <location filename="../qml/pages/MainPage.qml" line="81"/>
         <source>Add a tile</source>
-        <translation type="unfinished"></translation>
+        <translation>Aggiungi una tessera</translation>
     </message>
 </context>
 <context>
@@ -545,42 +545,42 @@
     <message>
         <location filename="../qml/pages/MaintenancePage.qml" line="101"/>
         <source>Please be patient and allow up to 30 seconds for this.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si prega di essere pazienti e di attendere fino a 30 secondi.</translation>
     </message>
     <message>
         <location filename="../qml/pages/MaintenancePage.qml" line="147"/>
         <source>Connected to the backend</source>
-        <translation type="unfinished"></translation>
+        <translation>Connesso al backend</translation>
     </message>
     <message>
         <location filename="../qml/pages/MaintenancePage.qml" line="157"/>
         <source>Maintenance is complete</source>
-        <translation type="unfinished"></translation>
+        <translation>La manutenzione è completa</translation>
     </message>
     <message>
         <location filename="../qml/pages/MaintenancePage.qml" line="119"/>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Chiuso</translation>
     </message>
     <message>
         <location filename="../qml/pages/MaintenancePage.qml" line="48"/>
         <source>Maintenance</source>
-        <translation type="unfinished"></translation>
+        <translation>Manutenzione</translation>
     </message>
     <message>
         <location filename="../qml/pages/MaintenancePage.qml" line="134"/>
         <source>Pull down to close this overlay.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tirare verso il basso per chiudere questa sovrapposizione.</translation>
     </message>
     <message>
         <location filename="../qml/pages/MaintenancePage.qml" line="151"/>
         <source>Cleaning caches for “%1”...</source>
-        <translation type="unfinished"></translation>
+        <translation>Pulizia delle cache per “%1”...</translation>
     </message>
     <message>
         <location filename="../qml/pages/MaintenancePage.qml" line="153"/>
         <source>Compressing databases for “%1”...</source>
-        <translation type="unfinished"></translation>
+        <translation>Compressione dei database per “%1”...</translation>
     </message>
 </context>
 <context>
@@ -588,52 +588,52 @@
     <message>
         <location filename="../qml/tiles/clock/Metadata.qml" line="11"/>
         <source>World clock</source>
-        <translation type="unfinished"></translation>
+        <translation>Orologio mondiale</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Metadata.qml" line="12"/>
         <source>Clock showing local time or the current time in any time zone.</source>
-        <translation type="unfinished"></translation>
+        <translation>Orologio che mostra l&apos;ora locale o l&apos;ora corrente in qualsiasi fuso orario.</translation>
     </message>
     <message>
         <location filename="../qml/tiles/spacer/Metadata.qml" line="11"/>
         <source>Spacer</source>
-        <translation type="unfinished"></translation>
+        <translation>Distanziatore</translation>
     </message>
     <message>
         <location filename="../qml/tiles/spacer/Metadata.qml" line="12"/>
         <source>Empty tile for spacing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Riquadro vuoto per la spaziatura.</translation>
     </message>
     <message>
         <location filename="../qml/tiles/weather_mch/Metadata.qml" line="11"/>
         <source>Weather forecast (MeteoSwiss)</source>
-        <translation type="unfinished"></translation>
+        <translation>Previsioni del tempo (Meteo Svizzera)</translation>
     </message>
     <message>
         <location filename="../qml/tiles/weather_mch/Metadata.qml" line="12"/>
         <source>Weather forecast for Switzerland provided by the Swiss Meteorological Institute.</source>
-        <translation type="unfinished"></translation>
+        <translation>Previsioni meteo per la Svizzera fornite dall&apos;Istituto meteorologico svizzero.</translation>
     </message>
     <message>
         <location filename="../qml/tiles/weather_yrn/Metadata.qml" line="11"/>
         <source>Weather forecast (Yr.no)</source>
-        <translation type="unfinished"></translation>
+        <translation>Previsioni del tempo (Yr.no)</translation>
     </message>
     <message>
         <location filename="../qml/tiles/weather_yrn/Metadata.qml" line="12"/>
         <source>Weather forecast for the world provided by the Norwegian Meteorological Institute.</source>
-        <translation type="unfinished"></translation>
+        <translation>Previsioni meteo per il mondo fornite dall&apos;Istituto meteorologico norvegese.</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Metadata.qml" line="11"/>
         <source>Day times</source>
-        <translation type="unfinished"></translation>
+        <translation>Orari del giorno</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Metadata.qml" line="12"/>
         <source>Current times of sunrise and sunset.</source>
-        <translation type="unfinished"></translation>
+        <translation>Orari attuali dell&apos;alba e del tramonto.</translation>
     </message>
 </context>
 <context>
@@ -641,12 +641,12 @@
     <message>
         <location filename="../qml/tiles/base/MetadataBase.qml" line="13"/>
         <source>Unimplemented tile</source>
-        <translation type="unfinished"></translation>
+        <translation>Tessera non implementata</translation>
     </message>
     <message>
         <location filename="../qml/tiles/base/MetadataBase.qml" line="14"/>
         <source>This tile has no description.</source>
-        <translation type="unfinished"></translation>
+        <translation>Questa tessera non ha descrizione.</translation>
     </message>
 </context>
 <context>
@@ -717,17 +717,17 @@
     <message>
         <location filename="../qml/pages/NewTileDialog.qml" line="74"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancellare</translation>
     </message>
     <message>
         <location filename="../qml/pages/NewTileDialog.qml" line="75"/>
         <source>Select a tile type</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleziona un tipo di tessera</translation>
     </message>
     <message>
         <location filename="../qml/pages/NewTileDialog.qml" line="73"/>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>Aggiungere</translation>
     </message>
 </context>
 <context>
@@ -925,17 +925,17 @@
     <message>
         <location filename="../qml/components/OverviewListDelegate.qml" line="41"/>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>Rimuovere</translation>
     </message>
     <message>
         <location filename="../qml/components/OverviewListDelegate.qml" line="46"/>
         <source>Move to top</source>
-        <translation type="unfinished"></translation>
+        <translation>Sposta in alto</translation>
     </message>
     <message>
         <location filename="../qml/components/OverviewListDelegate.qml" line="204"/>
         <source>Deleting</source>
-        <translation type="unfinished"></translation>
+        <translation>Eliminazione</translation>
     </message>
 </context>
 <context>
@@ -948,22 +948,22 @@
     <message>
         <location filename="../qml/pages/OverviewPage.qml" line="86"/>
         <source>Add location</source>
-        <translation type="unfinished"></translation>
+        <translation>Aggiungi posizione</translation>
     </message>
     <message>
         <location filename="../qml/pages/OverviewPage.qml" line="91"/>
         <source>Refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>Aggiorna</translation>
     </message>
     <message>
         <location filename="../qml/pages/OverviewPage.qml" line="109"/>
         <source>Add a location first</source>
-        <translation type="unfinished"></translation>
+        <translation>Aggiungi prima una posizione</translation>
     </message>
     <message>
         <location filename="../qml/pages/OverviewPage.qml" line="110"/>
         <source>Pull down to add items</source>
-        <translation type="unfinished"></translation>
+        <translation>Tirare verso il basso per aggiungere elementi</translation>
     </message>
 </context>
 <context>
@@ -971,172 +971,172 @@
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="115"/>
         <source>Local time</source>
-        <translation type="unfinished"></translation>
+        <translation>Ora locale</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="180"/>
         <source>Custom time offset</source>
-        <translation type="unfinished"></translation>
+        <translation>Compensazione temporale personalizzata</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="81"/>
         <source>Clock time</source>
-        <translation type="unfinished"></translation>
+        <translation>Ora dell&apos;orologio</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="91"/>
         <source>Current time</source>
-        <translation type="unfinished"></translation>
+        <translation>Ora corrente</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="269"/>
         <source>Tokyo, Japan</source>
-        <translation type="unfinished"></translation>
+        <translation>Tokyo, Giappone</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="269"/>
         <source>Nuuk, Greenland</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuuk, Groenlandia</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="270"/>
         <source>Yangon, Myanmar</source>
-        <translation type="unfinished"></translation>
+        <translation>Yangon, Myanmar</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="270"/>
         <source>Lubumbashi, DR Congo</source>
-        <translation type="unfinished"></translation>
+        <translation>Lubumbashi, Repubblica Democratica del Congo</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="271"/>
         <source>Belém, Brazil</source>
-        <translation type="unfinished"></translation>
+        <translation>Belém, Brasile</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="271"/>
         <source>Paris, France</source>
-        <translation type="unfinished"></translation>
+        <translation>Parigi, Francia</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="280"/>
         <source>e.g. %1</source>
-        <translation type="unfinished"></translation>
+        <translation>ad esempio %1</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="281"/>
         <source>Clock label (optional)</source>
-        <translation type="unfinished"></translation>
+        <translation>Etichetta dell&apos;orologio (facoltativa)</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="306"/>
         <source>Clock face</source>
-        <translation type="unfinished"></translation>
+        <translation>Quadrante dell&apos;orologio</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="47"/>
         <location filename="../qml/tiles/clock/Settings.qml" line="310"/>
         <source>without numbers</source>
-        <translation type="unfinished"></translation>
+        <translation>senza numeri</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="49"/>
         <location filename="../qml/tiles/clock/Settings.qml" line="312"/>
         <source>Roman numbers</source>
-        <translation type="unfinished"></translation>
+        <translation>Numeri romani</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="48"/>
         <location filename="../qml/tiles/clock/Settings.qml" line="311"/>
         <source>Arabic numbers (European)</source>
-        <translation type="unfinished"></translation>
+        <translation>Numeri arabi (Europei)</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="116"/>
         <source>The clock will always show the current local time, using the same time zone as the system.</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;orologio mostrerà sempre l&apos;ora locale corrente, utilizzando lo stesso fuso orario del sistema.</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="135"/>
         <location filename="../qml/tiles/clock/Settings.qml" line="153"/>
         <source>Time zone</source>
-        <translation type="unfinished"></translation>
+        <translation>Fuso orario</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="136"/>
         <source>The clock will show the time in a specific time zone.</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;orologio mostrerà l&apos;ora di un fuso orario specifico.</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="155"/>
         <source>Select a time zone</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleziona un fuso orario</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="156"/>
         <source>%1, %2 (%3)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1, %2 (%3)</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="181"/>
         <source>The clock will show the time shifted from UTC. This is independent of the local time zone.</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;orologio mostrerà l&apos;ora spostata rispetto all&apos;UTC. Questo è indipendente dal fuso orario locale.</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="199"/>
         <source>UTC + %1</source>
-        <translation type="unfinished"></translation>
+        <translation>UTC + %1</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="200"/>
         <source>Positive offsets show time zones east of UTC/GMT (Greenwich, UK).</source>
-        <translation type="unfinished"></translation>
+        <translation>Gli offset positivi mostrano i fusi orari a est di UTC/GMT (Greenwich, Regno Unito).</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="216"/>
         <source>UTC - %1</source>
-        <translation type="unfinished"></translation>
+        <translation>UTC - %1</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="217"/>
         <source>Negative offsets show time zones west of UTC/GMT (Greenwich, UK).</source>
-        <translation type="unfinished"></translation>
+        <translation>Gli offset negativi mostrano i fusi orari a ovest di UTC/GMT (Greenwich, Regno Unito).</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="251"/>
         <source>- %1</source>
-        <translation type="unfinished"></translation>
+        <translation>- %1</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="251"/>
         <source>+ %1</source>
-        <translation type="unfinished"></translation>
+        <translation>+ %1</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="108"/>
         <source>Time format</source>
-        <translation type="unfinished"></translation>
+        <translation>Formato ora</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Settings.qml" line="261"/>
         <source>Appearance</source>
-        <translation type="unfinished"></translation>
+        <translation>Aspetto</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Settings.qml" line="223"/>
         <location filename="../qml/tiles/weather_mch/Settings.qml" line="235"/>
         <source>Location details</source>
-        <translation type="unfinished"></translation>
+        <translation>Dettagli sulla posizione</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Settings.qml" line="257"/>
         <source>Latitude</source>
-        <translation type="unfinished"></translation>
+        <translation>Latitudine</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Settings.qml" line="272"/>
         <source>Longitude</source>
-        <translation type="unfinished"></translation>
+        <translation>Longitudine</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Settings.qml" line="98"/>
@@ -1144,96 +1144,96 @@
         <location filename="../qml/tiles/weather_mch/Settings.qml" line="83"/>
         <location filename="../qml/tiles/weather_mch/Settings.qml" line="109"/>
         <source>Find a location</source>
-        <translation type="unfinished"></translation>
+        <translation>Trova una posizione</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Settings.qml" line="126"/>
         <source>Enter details manually</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserisci i dettagli manualmente</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Settings.qml" line="173"/>
         <source>%1 °N</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 °N</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Settings.qml" line="173"/>
         <source>%1 °S</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 °S</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Settings.qml" line="175"/>
         <source>%1 °E</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 °E</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Settings.qml" line="175"/>
         <source>%1 °W</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 °O</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Settings.qml" line="231"/>
         <location filename="../qml/tiles/weather_mch/Settings.qml" line="243"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Settings.qml" line="232"/>
         <location filename="../qml/tiles/weather_mch/Settings.qml" line="244"/>
         <source>A short nickname for this location</source>
-        <translation type="unfinished"></translation>
+        <translation>Un breve soprannome per questa posizione</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Settings.qml" line="240"/>
         <location filename="../qml/tiles/weather_mch/Settings.qml" line="252"/>
         <source>Description</source>
-        <translation type="unfinished"></translation>
+        <translation>Descrizione</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Settings.qml" line="241"/>
         <source>The full address or other details about the location</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;indirizzo completo o altri dettagli sulla posizione</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Settings.qml" line="258"/>
         <source>&gt; 0 is North, &lt; 0 is South</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;gt; 0 è Nord, &amp;lt; 0 è Sud</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Settings.qml" line="273"/>
         <source>&gt; 0 is East, &lt; 0 is West</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;gt; 0 è Est, &amp;lt; 0 è Ovest</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Settings.qml" line="285"/>
         <source>Timezone</source>
-        <translation type="unfinished"></translation>
+        <translation>Fuso orario</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Settings.qml" line="286"/>
         <source>Local timezone for this location</source>
-        <translation type="unfinished"></translation>
+        <translation>Fuso orario locale per questa posizione</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Settings.qml" line="292"/>
         <source>Lookup timezone</source>
-        <translation type="unfinished"></translation>
+        <translation>Cerca fuso orario</translation>
     </message>
     <message>
         <location filename="../qml/tiles/weather_mch/Settings.qml" line="209"/>
         <location filename="../qml/tiles/weather_mch/Settings.qml" line="217"/>
         <source>%1 m</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 m</translation>
     </message>
     <message>
         <location filename="../qml/tiles/weather_mch/Settings.qml" line="253"/>
         <source>The full name or other details about the location</source>
-        <translation type="unfinished"></translation>
+        <translation>Il nome completo o altri dettagli sulla posizione</translation>
     </message>
     <message>
         <location filename="../qml/tiles/weather_mch/Settings.qml" line="260"/>
         <source>Zip code</source>
-        <translation type="unfinished"></translation>
+        <translation>Cap</translation>
     </message>
 </context>
 <context>
@@ -1241,12 +1241,12 @@
     <message>
         <location filename="../qml/tiles/base/SettingsDialogBase.qml" line="94"/>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Salva</translation>
     </message>
     <message>
         <location filename="../qml/tiles/base/SettingsDialogBase.qml" line="95"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancellare</translation>
     </message>
 </context>
 <context>
@@ -1255,7 +1255,7 @@
         <location filename="../qml/components/SunTimesItem.qml" line="18"/>
         <source>%1: %2</source>
         <comment>sun time title (1) with description (2)</comment>
-        <translation type="unfinished"></translation>
+        <translation>%1: %2</translation>
     </message>
 </context>
 <context>
@@ -1291,32 +1291,32 @@
     <message>
         <location filename="../qml/pages/TablePage.qml" line="31"/>
         <source>Detailed Forecast</source>
-        <translation type="unfinished"></translation>
+        <translation>Previsioni dettagliate</translation>
     </message>
     <message>
         <location filename="../qml/pages/TablePage.qml" line="53"/>
         <source>Hour</source>
-        <translation type="unfinished"></translation>
+        <translation>Ora</translation>
     </message>
     <message>
         <location filename="../qml/pages/TablePage.qml" line="64"/>
         <source>Temp.</source>
-        <translation type="unfinished"></translation>
+        <translation>Temp.</translation>
     </message>
     <message>
         <location filename="../qml/pages/TablePage.qml" line="71"/>
         <source>Precip.</source>
-        <translation type="unfinished"></translation>
+        <translation>Precip.</translation>
     </message>
     <message>
         <location filename="../qml/pages/TablePage.qml" line="78"/>
         <source>Wind</source>
-        <translation type="unfinished"></translation>
+        <translation>Vento</translation>
     </message>
     <message>
         <location filename="../qml/pages/TablePage.qml" line="92"/>
         <source>Description</source>
-        <translation type="unfinished"></translation>
+        <translation>Descrizione</translation>
     </message>
 </context>
 <context>
@@ -1324,7 +1324,7 @@
     <message>
         <location filename="../qml/tiles/spacer/Tile.qml" line="38"/>
         <source>Placeholder</source>
-        <translation type="unfinished"></translation>
+        <translation>Segnaposto</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Tile.qml" line="64"/>
@@ -1332,28 +1332,28 @@
         <location filename="../qml/tiles/clock/Tile.qml" line="109"/>
         <source>UTC %1</source>
         <comment>time offset like &apos;UTC -11:00&apos;</comment>
-        <translation type="unfinished"></translation>
+        <translation>UTC %1</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/Tile.qml" line="76"/>
         <location filename="../qml/tiles/clock/Tile.qml" line="107"/>
         <source>local time</source>
-        <translation type="unfinished"></translation>
+        <translation>ora locale</translation>
     </message>
     <message numerus="yes">
         <location filename="../qml/tiles/clock/Tile.qml" line="118"/>
         <source>%1 hour(s) behind local time</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%1 ora indietro rispetto all&apos;ora locale</numerusform>
+            <numerusform>%1 ore indietro rispetto all&apos;ora locale</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="../qml/tiles/clock/Tile.qml" line="124"/>
         <source>%1 hour(s) ahead of local time</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%1 ora avanti rispetto all&apos;ora locale</numerusform>
+            <numerusform>%1 ore avanti rispetto all&apos;ora locale</numerusform>
         </translation>
     </message>
     <message numerus="yes">
@@ -1361,9 +1361,9 @@
         <location filename="../qml/tiles/clock/Tile.qml" line="134"/>
         <source>%1h behind</source>
         <comment>shortened form of &apos;%1 hour(s) behind local time&apos;</comment>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%1h indietro</numerusform>
+            <numerusform>%1h indietro</numerusform>
         </translation>
     </message>
     <message numerus="yes">
@@ -1371,59 +1371,59 @@
         <location filename="../qml/tiles/clock/Tile.qml" line="137"/>
         <source>%1h ahead</source>
         <comment>shortened form of &apos;%1 hour(s) ahead of local time&apos;</comment>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%1h avanti</numerusform>
+            <numerusform>%1h avanti</numerusform>
         </translation>
     </message>
     <message>
         <location filename="../qml/tiles/weather_yrn/Tile.qml" line="38"/>
         <source>Weather (Yr.no)</source>
-        <translation type="unfinished"></translation>
+        <translation>Meteo (Yr.no)</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Tile.qml" line="136"/>
         <location filename="../qml/tiles/day_times/Tile.qml" line="182"/>
         <source>dawn</source>
-        <translation type="unfinished"></translation>
+        <translation>alba</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Tile.qml" line="194"/>
         <source>noon</source>
-        <translation type="unfinished"></translation>
+        <translation>mezzogiorno</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Tile.qml" line="200"/>
         <source>golden</source>
-        <translation type="unfinished"></translation>
+        <translation>d&apos;oro</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Tile.qml" line="154"/>
         <location filename="../qml/tiles/day_times/Tile.qml" line="222"/>
         <source>dusk</source>
-        <translation type="unfinished"></translation>
+        <translation>crepuscolo</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Tile.qml" line="148"/>
         <location filename="../qml/tiles/day_times/Tile.qml" line="228"/>
         <source>sunset</source>
-        <translation type="unfinished"></translation>
+        <translation>tramonto</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Tile.qml" line="234"/>
         <source>zenith</source>
-        <translation type="unfinished"></translation>
+        <translation>apice</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Tile.qml" line="241"/>
         <source>hour</source>
-        <translation type="unfinished"></translation>
+        <translation>ora</translation>
     </message>
     <message>
         <location filename="../qml/tiles/day_times/Tile.qml" line="142"/>
         <location filename="../qml/tiles/day_times/Tile.qml" line="188"/>
         <source>sunrise</source>
-        <translation type="unfinished"></translation>
+        <translation>alba</translation>
     </message>
 </context>
 <context>
@@ -1431,41 +1431,41 @@
     <message>
         <location filename="../qml/tiles/clock/private/TimeShiftPreviewPage.qml" line="49"/>
         <source>Reset to current time</source>
-        <translation type="unfinished"></translation>
+        <translation>Ripristina l&apos;ora corrente</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/private/TimeShiftPreviewPage.qml" line="73"/>
         <source>Calculate local time</source>
-        <translation type="unfinished"></translation>
+        <translation>Calcola l&apos;ora locale</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/private/TimeShiftPreviewPage.qml" line="87"/>
         <source>Calculate remote time</source>
-        <translation type="unfinished"></translation>
+        <translation>Calcola il tempo remoto</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/private/TimeShiftPreviewPage.qml" line="182"/>
         <source>Local time</source>
         <comment>as in &apos;here, versus over there&apos;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ora locale</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/private/TimeShiftPreviewPage.qml" line="183"/>
         <source>Calculated local time</source>
         <comment>as in &apos;here, versus over there&apos;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ora locale calcolata</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/private/TimeShiftPreviewPage.qml" line="200"/>
         <source>Calculated remote time</source>
         <comment>as in &apos;over there, versus here&apos;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tempo remoto calcolato</translation>
     </message>
     <message>
         <location filename="../qml/tiles/clock/private/TimeShiftPreviewPage.qml" line="201"/>
         <source>Remote time</source>
         <comment>as in &apos;over there, versus here&apos;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tempo remoto</translation>
     </message>
 </context>
 <context>
@@ -1473,32 +1473,32 @@
     <message>
         <location filename="../qml/harbour-dashboard.qml" line="38"/>
         <source>d MMM yyyy &apos;(&apos;hh&apos;:&apos;mm&apos;)&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>dd MM yyyy &apos;(&apos;hh&apos;:&apos;mm&apos;)&apos;</translation>
     </message>
     <message>
         <location filename="../qml/harbour-dashboard.qml" line="39"/>
         <source>hh&apos;:&apos;mm</source>
-        <translation type="unfinished"></translation>
+        <translation>hh&apos;:&apos;mm</translation>
     </message>
     <message>
         <location filename="../qml/harbour-dashboard.qml" line="40"/>
         <source>ddd d MMM yyyy</source>
-        <translation type="unfinished"></translation>
+        <translation>dd MM yyyy</translation>
     </message>
     <message>
         <location filename="../qml/harbour-dashboard.qml" line="404"/>
         <source>A backend database is inaccessible.</source>
-        <translation type="unfinished"></translation>
+        <translation>Un database backend non è accessibile.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-dashboard.qml" line="426"/>
         <source>Failed to initialize the backend.</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossibile inizializzare il backend.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-dashboard.qml" line="358"/>
         <source>An unrecoverable error occurred.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si è verificato un errore irreversibile.</translation>
     </message>
 </context>
 <context>
