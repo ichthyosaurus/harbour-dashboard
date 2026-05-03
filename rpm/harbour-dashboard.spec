@@ -14,7 +14,7 @@ Version:    0.3.0
 Release:    1
 Group:      Applications/Internet
 License:    GPL-3.0-or-later
-URL:        https://github.com/ichthyosaurus/harbour-dashboard
+URL:        https://codeberg.org/ichthyosaurus/harbour-dashboard
 Source0:    %{name}-%{version}.tar.bz2
 Source100:  harbour-dashboard.yaml
 Requires:   pyotherside-qml-plugin-python3-qt5 >= 1.5.0
