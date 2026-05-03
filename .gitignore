@@ -5,7 +5,6 @@
 *~
 *.~*
 *.bak
-dist*
 tmp*
 icon-src/raw
 TODO
@@ -20,8 +19,8 @@ rpm/*.spec
 rpm/*.spec.*
 raw/strings/*.clean
 raw/strings/strings
-liverunner*
 
 test-data/
 test-py/data*
 __pycache__
+dist/packages

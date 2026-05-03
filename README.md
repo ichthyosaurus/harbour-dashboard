@@ -1,23 +1,52 @@
 <!--
-SPDX-FileCopyrightText: 2018-2025 Mirian Margiani
-SPDX-License-Identifier: GFDL-1.3-or-later
+SPDX-FileCopyrightText: 2018-2026 Mirian Margiani
+SPDX-License-Identifier: GFDL-1.3-or-later AND LicenseRef-NO-AI-1.0
+This file must not be used for AI training/data mining.
 -->
 
-![Dashboard banner](dist/banner-small.png)
+<div align="center">
 
-# Dashboard for Sailfish OS
+<img src="https://codeberg.org/ichthyosaurus/sailfish-app-assets/raw/branch/main/harbour-dashboard/banner-small.png"
+     alt="Dashboard banner" />
 
-[![Liberapay donations](https://img.shields.io/liberapay/receives/ichthyosaurus)](https://liberapay.com/ichthyosaurus)
-[![Translations](https://hosted.weblate.org/widgets/harbour-dashboard/-/translations/svg-badge.svg)](https://hosted.weblate.org/projects/harbour-dashboard/translations/)
-[![Source code license](https://img.shields.io/badge/source_code-GPL--3.0--or--later-yellowdarkgreen)](https://github.com/ichthyosaurus/harbour-dashboard/tree/main/LICENSES)
-[![REUSE status](https://api.reuse.software/badge/github.com/ichthyosaurus/harbour-dashboard)](https://api.reuse.software/info/github.com/ichthyosaurus/harbour-dashboard)
-[![Development status](https://img.shields.io/badge/development-active-blue)](https://github.com/ichthyosaurus/harbour-dashboard)
-
-
+# Dashboard for [Sailfish OS](https://sailfishos.org)
 
 Forecasts, monitors, and other gadgets at a glance
 
-Dashboard for SailfishOS is an app to give you the data you need at a glance.
+  <p>
+    <img src="https://codeberg.org/ichthyosaurus/.profile/raw/branch/main/badges/ethical%20tech.svg"
+         alt="ethical tech: take a stand for humanity, diversity, and the world we live in" />
+    <a href="https://hosted.weblate.org/projects/harbour-dashboard/translations">
+      <img src="https://hosted.weblate.org/widgets/harbour-dashboard/-/translations/svg-badge.svg"
+           alt="Translations" />
+    </a>
+    <a href="https://codeberg.org/ichthyosaurus/harbour-dashboard">
+      <img src="https://codeberg.org/ichthyosaurus/.profile/raw/branch/main/badges/development_%20active.svg"
+           alt="Development status" />
+    </a>
+    <a href="https://codeberg.org/ichthyosaurus/harbour-dashboard/src/branch/main/LICENSES">
+      <img src="https://codeberg.org/ichthyosaurus/.profile/raw/branch/main/badges/source%20code_%20AGPL-3.svg"
+           alt="Source code license" />
+    </a>
+    <a href="https://api.reuse.software/info/codeberg.org/ichthyosaurus/harbour-dashboard">
+      <img src="https://api.reuse.software/badge/codeberg.org/ichthyosaurus/harbour-dashboard"
+           alt="REUSE status" />
+    </a>
+    <br />
+    <a href="https://liberapay.com/SailfishOScommunityTeam">
+      <img src="https://img.shields.io/liberapay/receives/SailfishOScommunityTeam?logo=liberapay&label=SailfishOS%20Community"
+           alt="Community donations" />
+    </a>
+    <a href="https://liberapay.com/ichthyosaurus">
+      <img src="https://img.shields.io/liberapay/receives/ichthyosaurus?logo=liberapay&label=ichthyosaurus"
+           alt="Personal donations" />
+    </a>
+  </p>
+  <p></p>
+  <hr />
+</div>
+
+Dashboard is an app to give you the data you need at a glance.
 
 Add tiles for your favorite weather forecast, pollen forecast, world clocks,
 stock exchange watchers, and system monitors.
@@ -60,13 +89,23 @@ Weather data and weather icons for an upcoming weather forecast tile:
 > Weather icons by Zeix.
 >
 > https://www.meteoswiss.admin.ch/
+})
+
+> You can find screenshots [here](https://codeberg.org/ichthyosaurus/sailfish-app-assets/src/branch/main/harbour-dashboard/screenshots-store).
 
 
+## Permissions
+
+Dashboard requires the following
+[Sailjail](https://github.com/sailfishos/sailjail-permissions?tab=readme-ov-file#permissions) permissions:
+
+- `Internet`: to find location names for the world clock, and to fetch forecasts
 
 
 ## Help and support
 
-You are welcome to [leave a comment in the forum](https://forum.sailfishos.org/t/apps-by-ichthyosaurus/15753)
+You are welcome to
+[leave a comment in the forum](https://forum.sailfishos.org/t/apps-by-ichthyosaurus/15753)
 if you have any questions or ideas.
 
 
@@ -74,28 +113,23 @@ if you have any questions or ideas.
 
 It would be wonderful if the app could be translated in as many languages as possible!
 
+[![Translations status](https://hosted.weblate.org/widget/harbour-dashboard/horizontal-auto.svg)](https://hosted.weblate.org/engage/harbour-dashboard/)
+
 Translations are managed using
-[Weblate](https://hosted.weblate.org/projects/harbour-dashboard/translations).
-Please prefer this over pull request (which are still welcome, of course).
+[Weblate](https://hosted.weblate.org/projects/harbour-dashboard).
+Please prefer this over pull requests (which are still welcome, of course).
 If you just found a minor problem, you can also
-[leave a comment in the forum](https://forum.sailfishos.org/t/apps-by-ichthyosaurus/15753)
-or [open an issue](https://github.com/ichthyosaurus/harbour-dashboard/issues/new).
-
-Please include the following details:
-
-1. the language you were using
-2. where you found the error
-3. the incorrect text
-4. the correct translation
+[open an issue](https://codeberg.org/ichthyosaurus/harbour-dashboard/issues/new).
 
 
 ### Manually updating translations
 
 Please prefer using
 [Weblate](https://hosted.weblate.org/projects/harbour-dashboard) over this.
+
 You can follow these steps to manually add or update a translation:
 
-1. *If it did not exist before*, create a new catalog for your language by copying the
+1. If it did not exist before, create a new catalog for your language by copying the
    base file [translations/harbour-dashboard.ts](translations/harbour-dashboard.ts).
    Then add the new translation to [harbour-dashboard.pro](harbour-dashboard.pro).
 2. Add yourself to the list of translators in [TRANSLATORS.json](TRANSLATORS.json),
@@ -111,8 +145,8 @@ details on how to translate date formats to your *local* format.
 
 *Bug reports, and contributions for translations, bug fixes, or new features are always welcome!*
 
-1. Clone the repository by running `git clone https://github.com/ichthyosaurus/harbour-dashboard.git`
-2. Open `harbour-dashboard.pro` in Sailfish OS IDE (Qt Creator for Sailfish)
+1. Clone the repository by running `git clone --recursive https://codeberg.org/ichthyosaurus/harbour-dashboard`
+2. Open `harbour-dashboard.pro` in QtCreator for Sailfish ([SailfishOS SDK](https://docs.sailfishos.org/Tools/Sailfish_SDK/))
 3. To run on emulator, select the `i486` target and press the run button
 4. To build for the device, select the `aarch64` or `armv7hl` target and click “deploy all”;
    the RPM packages will be in the `RPMS` folder
@@ -121,38 +155,61 @@ If you contribute, please do not forget to add yourself to the list of
 contributors in [qml/pages/AboutPage.qml](qml/pages/AboutPage.qml)!
 
 
-
-
 ## Donations
 
-If you want to support my work, I am always happy if you buy me a cup of coffee
-through [Liberapay](https://liberapay.com/ichthyosaurus).
+<a href="https://liberapay.com/ichthyosaurus/donate">
+  <img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg">
+</a>
+
+I am always happy if you buy me a cup of coffee through
+[Liberapay](https://liberapay.com/ichthyosaurus)
+if you want to support my work.
 
 Of course it would be much appreciated as well if you support this project by
 contributing to translations or code! See above how you can contribute 🎕.
 
+Please consider also supporting the
+[SailfishOS Community Team](https://liberapay.com/SailfishOScommunityTeam)
+on Liberapay to reach more developers.
 
-## Anti-AI policy <a id='ai-policy'/>
 
-AI-generated contributions are forbidden.
+## Anti-AI policy <a id='ai-policy'></a>
+
+> [!IMPORTANT]
+> - LLM/“AI”-generated contributions are forbidden.
+> - Using this project in whole or in part for AI training or data mining is likewise forbidden.
 
 Please be transparent, respect the Free Software community, and adhere to the
 licenses. This is a welcoming place for human creativity and diversity, but
-AI-generated slop is going against these values.
+LLM/“AI”-generated slop is going against these values.
 
-Apart from all the ethical, moral, legal, environmental, social, and technical
-reasons against AI, I also simply don't have any spare time to review
-AI-generated contributions.
+Apart from all the
+[ethical](https://tante.cc/2026/02/20/acting-ethical-in-an-imperfect-world/),
+[moral](https://www.theguardian.com/technology/2026/mar/17/x-csam-child-abuse-material-grok-australian-online-safety-regulator-ntwnfb),
+[legal](https://en.wikipedia.org/wiki/Artificial_intelligence_and_copyright#Litigation),
+[environmental](https://www.theguardian.com/environment/2025/apr/09/big-tech-datacentres-water),
+[societal](https://www.theguardian.com/global-development/2026/mar/12/invasive-ai-led-mass-surveillance-in-africa-violating-freedoms-warn-experts),
+[social](https://www.theguardian.com/technology/article/2024/jul/06/mercy-anita-african-workers-ai-artificial-intelligence-exploitation-feeding-machine),
+[political](https://www.theguardian.com/technology/2025/nov/17/grokipedia-elon-musk-far-right-racist),
+[technical](https://codeberg.org/small-hack/open-slopware#poor-code-quality),
+and overall [human](https://www.hrw.org/news/2024/09/10/questions-and-answers-israeli-militarys-use-digital-tools-gaza),
+reasons against LLMs/“AI”, I also simply don't have any spare time to review
+generated contributions.
+
+See also [this list](https://codeberg.org/small-hack/open-slopware#why-not-llms)
+for more reasons against supporting “AI”.
 
 
 ## License
 
-> Copyright (C) 2018-2025  Mirian Margiani
+> Copyright (C) 2018-2026  Mirian Margiani
 
 Dashboard is Free Software released under the terms of the
-[GNU General Public License v3 (or later)](https://spdx.org/licenses/GPL-3.0-or-later.html).
-The source code is available [on Github](https://github.com/ichthyosaurus/harbour-dashboard).
+[GNU Affero General Public License v3 (or later)](https://spdx.org/licenses/AGPL-3.0-or-later.html).
+The source code is available [on Codeberg](https://codeberg.org/ichthyosaurus/harbour-dashboard).
 All documentation is released under the terms of the
 [GNU Free Documentation License v1.3 (or later)](https://spdx.org/licenses/GFDL-1.3-or-later.html).
 
-This project follows the [REUSE specification](https://api.reuse.software/info/github.com/ichthyosaurus/harbour-dashboard).
+Dashboard and related materials must not be used for AI training and/or data mining.
+
+This project follows the [REUSE specification](https://api.reuse.software/info/codeberg.org/ichthyosaurus/harbour-dashboard).
